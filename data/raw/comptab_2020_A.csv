@@ -1,0 +1,1786 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2020,I,Harpia harpyja,Aves,Falconiformes,Accipitridae,Harpia,CH,FR,XX,6,,feathers,Number of specimens,E,O
+2020,I,Harpia harpyja,Aves,Falconiformes,Accipitridae,Harpia,DE,BR,,2,,live,,B,F
+2020,I,Ailurus fulgens,Mammalia,Carnivora,Ailuridae,Ailurus,DE,IN,,2,,live,,B,C
+2020,I,Ailurus fulgens,Mammalia,Carnivora,Ailuridae,Ailurus,ZA,DK,,3,,specimens,,L,I
+2020,I,Addax nasomaculatus,Mammalia,Artiodactyla,Bovidae,Addax,AE,MA,,34,,live,Number of specimens,B,F
+2020,I,Addax nasomaculatus,Mammalia,Artiodactyla,Bovidae,Addax,CN,US,,,1,trophies,Number of specimens,H,F
+2020,I,Addax nasomaculatus,Mammalia,Artiodactyla,Bovidae,Addax,ES,US,,,1,trophies,Number of specimens,H,F
+2020,I,Addax nasomaculatus,Mammalia,Artiodactyla,Bovidae,Addax,ES,US,,1,,trophies,,H,C
+2020,I,Capra falconeri,Mammalia,Artiodactyla,Bovidae,Capra,AR,US,,1,,trophies,Number of specimens,H,F
+2020,I,Capra falconeri,Mammalia,Artiodactyla,Bovidae,Capra,MX,US,,3,,trophies,Number of specimens,H,F
+2020,I,Capra falconeri heptneri,Mammalia,Artiodactyla,Bovidae,Capra,TR,SK,,2,2,bodies,,H,C
+2020,I,Nanger dama,Mammalia,Artiodactyla,Bovidae,Nanger,MX,US,,1,,trophies,Number of specimens,H,F
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,AT,ZA,,5,,trophies,,H,F
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,CA,US,,1,,skin pieces,Number of specimens,H,F
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,CH,GB,,2,2,live,Number of specimens,B,C
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,CN,US,,,1,trophies,Number of specimens,H,F
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,CN,ZA,,1,,trophies,Number of specimens,H,C
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,CZ,ZA,,4,2,trophies,,H,F
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,DE,ZA,,4,2,trophies,,H,F
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,DK,ZA,,7,5,trophies,,H,F
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,ES,US,,,1,trophies,Number of specimens,H,F
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,ES,US,,1,,trophies,,H,F
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,ES,ZA,,,1,trophies,,H,C
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,ES,ZA,,4,9,trophies,,H,F
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,GB,ZA,,1,,trophies,Number of specimens,H,F
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,HR,ZA,,,2,trophies,,H,F
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,HU,ZA,,5,4,trophies,,H,F
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,IT,ZA,,1,1,trophies,,H,F
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,LV,ZA,,1,1,trophies,,H,F
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,MX,ZA,,1,,trophies,Number of specimens,H,F
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,MX,ZA,,,1,trophies,,H,F
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,NA,US,,,1,trophies,Number of specimens,H,F
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,NO,ZA,,1,,trophies,Number of specimens,H,F
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,NO,ZA,,,1,trophies,,H,F
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,QA,ZA,,,1,trophies,,H,C
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,RU,AE,,1,,trophies,,H,C
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,RU,ZA,,2,4,trophies,,H,F
+2020,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,SE,ZA,,4,,trophies,,H,F
+2020,I,Oryx leucoryx,Mammalia,Artiodactyla,Bovidae,Oryx,BE,AE,,,1,trophies,Number of specimens,H,C
+2020,I,Oryx leucoryx,Mammalia,Artiodactyla,Bovidae,Oryx,BH,AE,,,1,trophies,Number of specimens,H,C
+2020,I,Oryx leucoryx,Mammalia,Artiodactyla,Bovidae,Oryx,CN,US,,,1,trophies,Number of specimens,H,F
+2020,I,Oryx leucoryx,Mammalia,Artiodactyla,Bovidae,Oryx,CZ,ZA,,2,,trophies,,H,F
+2020,I,Oryx leucoryx,Mammalia,Artiodactyla,Bovidae,Oryx,DK,AE,,,1,trophies,Number of specimens,H,C
+2020,I,Oryx leucoryx,Mammalia,Artiodactyla,Bovidae,Oryx,ES,ZA,,1,,trophies,,H,F
+2020,I,Oryx leucoryx,Mammalia,Artiodactyla,Bovidae,Oryx,FR,AE,,,1,trophies,Number of specimens,H,C
+2020,I,Oryx leucoryx,Mammalia,Artiodactyla,Bovidae,Oryx,RU,AE,,,1,trophies,Number of specimens,H,C
+2020,I,Oryx leucoryx,Mammalia,Artiodactyla,Bovidae,Oryx,RU,ZA,,,1,trophies,,H,F
+2020,I,Cacatua goffiniana,Aves,Psittaciformes,Cacatuidae,Cacatua,KW,LB,ZA,,1,live,,B,C
+2020,I,Cacatua goffiniana,Aves,Psittaciformes,Cacatuidae,Cacatua,LB,ZA,,,1,live,,B,C
+2020,I,Cacatua haematuropygia,Aves,Psittaciformes,Cacatuidae,Cacatua,JO,ZA,,,1,live,,B,C
+2020,I,Cacatua moluccensis,Aves,Psittaciformes,Cacatuidae,Cacatua,AE,ZA,,,2,live,,B,C
+2020,I,Cacatua moluccensis,Aves,Psittaciformes,Cacatuidae,Cacatua,DE,PH,,,1,live,,B,C
+2020,I,Cacatua moluccensis,Aves,Psittaciformes,Cacatuidae,Cacatua,KW,LB,ZA,,2,live,,B,C
+2020,I,Cacatua moluccensis,Aves,Psittaciformes,Cacatuidae,Cacatua,KW,ZA,,,3,live,,B,C
+2020,I,Cacatua moluccensis,Aves,Psittaciformes,Cacatuidae,Cacatua,LB,ZA,,1,10,live,,B,C
+2020,I,Cacatua moluccensis,Aves,Psittaciformes,Cacatuidae,Cacatua,QA,ZA,,,4,live,,B,C
+2020,I,Cacatua sulphurea,Aves,Psittaciformes,Cacatuidae,Cacatua,DE,CH,,,1,live,Number of specimens,B,F
+2020,I,Probosciger aterrimus,Aves,Psittaciformes,Cacatuidae,Probosciger,DE,PH,,,6,live,,B,C
+2020,I,Probosciger aterrimus,Aves,Psittaciformes,Cacatuidae,Probosciger,ID,PH,,,12,live,,L,I
+2020,I,Vicugna vicugna,Mammalia,Artiodactyla,Camelidae,Vicugna,TR,PL,,,1,live,,B,C
+2020,I,Speothos venaticus,Mammalia,Carnivora,Canidae,Speothos,JE,GB,,1,1,live,Number of specimens,B,C
+2020,I,Vultur gryphus,Aves,Falconiformes,Cathartidae,Vultur,FR,CH,DE,,1,live,Number of specimens,B,C
+2020,I,Callimico goeldii,Mammalia,Primates,Cebidae,Callimico,TH,CZ,DE,2,,live,,B,C
+2020,I,Leontopithecus chrysomelas,Mammalia,Primates,Cebidae,Leontopithecus,TH,CZ,DE,1,,live,,B,C
+2020,I,Leontopithecus chrysomelas,Mammalia,Primates,Cebidae,Leontopithecus,TH,CZ,,3,,live,,B,C
+2020,I,Leontopithecus chrysomelas,Mammalia,Primates,Cebidae,Leontopithecus,ZA,CZ,,2,,live,,B,C
+2020,I,Leontopithecus rosalia,Mammalia,Primates,Cebidae,Leontopithecus,DE,CH,,1,,live,,B,C
+2020,I,Saguinus oedipus,Mammalia,Primates,Cebidae,Saguinus,TH,CZ,DE,4,,live,,B,C
+2020,I,Saguinus oedipus,Mammalia,Primates,Cebidae,Saguinus,TH,ZA,,12,18,live,,B,C
+2020,I,Mandrillus sphinx,Mammalia,Primates,Cercopithecidae,Mandrillus,AE,FR,,,1,skeletons,Number of specimens,E,F
+2020,I,Microcebus rufus,Mammalia,Primates,Cheirogaleidae,Microcebus,DE,CH,,2,,live,,B,C
+2020,I,Jabiru mycteria,Aves,Ciconiiformes,Ciconiidae,Jabiru,CH,FR,XX,1,,feathers,Number of specimens,E,O
+2020,I,Caloenas nicobarica,Aves,Columbiformes,Columbidae,Caloenas,CN,GB,CZ,1,,bodies,Number of specimens,E,C
+2020,I,Caloenas nicobarica,Aves,Columbiformes,Columbidae,Caloenas,MY,ZA,,24,,live,Number of specimens,B,C
+2020,I,Caloenas nicobarica,Aves,Columbiformes,Columbidae,Caloenas,MY,ZA,,,36,live,,B,C
+2020,I,Saussurea costus,,Asterales,Compositae,Saussurea,US,CN,XX,4,,medicine,kg,M,I
+2020,I,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,JP,NL,XX,1,,bodies,Number of specimens,E,O
+2020,I,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,JP,NL,XX,,1,bodies,,E,O
+2020,I,Crocodylus rhombifer,Reptilia,Crocodylia,Crocodylidae,Crocodylus,RU,CZ,,,7,live,,B,C
+2020,I,Tomistoma schlegelii,Reptilia,Crocodylia,Crocodylidae,Tomistoma,DE,US,,4,,live,,B,F
+2020,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,BE,AU,XX,46,,piano keys,Number of specimens,E,O
+2020,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,BE,AU,,,46,piano keys,Number of specimens,E,O
+2020,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,CH,PL,XX,2,,ivory carvings,Number of specimens,E,O
+2020,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,HK,SE,XX,5,,ivory carvings,Number of specimens,E,O
+2020,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,NL,CH,XX,1,,ivory carvings,,E,O
+2020,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,NZ,HK,,8,,ivory pieces,Number of specimens,L,I
+2020,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,RU,NL,XX,,22,ivory carvings,,E,O
+2020,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,SG,HK,XX,5.43,,specimens,g,L,I
+2020,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,CA,BE,,450,,specimens,ml,B,C
+2020,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,IT,CH,XX,,6,specimens,Number of specimens,M,O
+2020,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,NL,CH,XX,3,,ivory carvings,,E,O
+2020,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,SG,XX,,236,ivory pieces,Number of specimens,L,I
+2020,I,Falco hybrid,Aves,Falconiformes,Falconidae,Falco,AE,CA,,,4,live,Number of specimens,B,C
+2020,I,Falco hybrid,Aves,Falconiformes,Falconidae,Falco,AE,CA,,,28,live,Number of specimens,B,D
+2020,I,Falco hybrid,Aves,Falconiformes,Falconidae,Falco,BG,QA,ES,,5,live,Number of specimens,B,C
+2020,I,Falco hybrid,Aves,Falconiformes,Falconidae,Falco,BH,CA,,,3,live,Number of specimens,B,C
+2020,I,Falco hybrid,Aves,Falconiformes,Falconidae,Falco,BH,CA,,,18,live,Number of specimens,B,D
+2020,I,Falco peregrinus,Aves,Falconiformes,Falconidae,Falco,AE,CA,,,8,live,Number of specimens,B,D
+2020,I,Falco peregrinus,Aves,Falconiformes,Falconidae,Falco,AE,KG,,,69,live,,E,C
+2020,I,Falco peregrinus,Aves,Falconiformes,Falconidae,Falco,BG,QA,ES,,1,live,Number of specimens,B,C
+2020,I,Falco peregrinus,Aves,Falconiformes,Falconidae,Falco,BG,QA,ES,3,,live,,B,C
+2020,I,Falco peregrinus,Aves,Falconiformes,Falconidae,Falco,BH,CA,,,3,live,Number of specimens,B,D
+2020,I,Falco peregrinus,Aves,Falconiformes,Falconidae,Falco,BH,GE,GB,,2,live,Number of specimens,B,C
+2020,I,Falco peregrinus,Aves,Falconiformes,Falconidae,Falco,CA,SI,,1,,live,Number of specimens,B,F
+2020,I,Falco peregrinus,Aves,Falconiformes,Falconidae,Falco,GB,AE,DE,1,1,live,Number of specimens,B,C
+2020,I,Falco peregrinus,Aves,Falconiformes,Falconidae,Falco,GB,AE,ES,2,2,live,Number of specimens,B,C
+2020,I,Falco peregrinus,Aves,Falconiformes,Falconidae,Falco,GB,AE,GB,3,3,live,Number of specimens,B,C
+2020,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,AE,CA,US,,1,live,Number of specimens,B,D
+2020,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,AE,CA,,2,46,live,Number of specimens,B,C
+2020,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,AE,CA,,,163,live,Number of specimens,B,D
+2020,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,AE,KG,,,10,live,,E,C
+2020,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,BG,QA,CZ,2,,live,,B,C
+2020,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,BG,QA,NL,,2,live,Number of specimens,B,C
+2020,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,BH,CA,,,14,live,Number of specimens,B,D
+2020,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,CA,US,,4,,live,Number of specimens,B,C
+2020,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GB,AE,AT,1,2,live,Number of specimens,B,C
+2020,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GB,AE,CA,5,4,live,Number of specimens,B,C
+2020,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GB,AE,CA,1,,live,Number of specimens,B,D
+2020,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GB,AE,DE,1,2,live,Number of specimens,B,C
+2020,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GB,AE,ES,1,4,live,Number of specimens,B,C
+2020,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GB,AE,GB,1,1,live,Number of specimens,B,C
+2020,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GB,AE,GB,5,3,live,Number of specimens,B,D
+2020,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GB,AE,US,1,,live,Number of specimens,B,C
+2020,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GB,AE,US,,5,live,Number of specimens,B,D
+2020,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GB,AE,,5,7,live,Number of specimens,B,C
+2020,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GB,CA,,,2,live,Number of specimens,B,C
+2020,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,KG,AE,DE,,4,live,Number of specimens,B,C
+2020,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,QA,CA,,2,2,live,Number of specimens,B,C
+2020,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,QA,GB,,2,2,live,Number of specimens,B,C
+2020,I,Acinonyx jubatus,Mammalia,Carnivora,Felidae,Acinonyx,ZA,GB,,,2,live,Number of specimens,B,C
+2020,I,Acinonyx jubatus,Mammalia,Carnivora,Felidae,Acinonyx,ZA,US,SG,241,,specimens,,L,I
+2020,I,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BR,ZA,,8,,trophies,Number of specimens,H,C
+2020,I,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,NA,ZA,,7,,skins,Number of specimens,H,C
+2020,I,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,UG,ZA,,4,,live,,B,C
+2020,I,Panthera onca,Mammalia,Carnivora,Felidae,Panthera,RU,ZA,,,1,trophies,,E,C
+2020,I,Panthera onca,Mammalia,Carnivora,Felidae,Panthera,RU,ZA,,1,,trophies,,E,D
+2020,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,AE,FR,,,1,skeletons,Number of specimens,E,F
+2020,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,AM,CZ,,3,,live,Number of specimens,B,C
+2020,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,DE,KR,,,2,live,Number of specimens,B,C
+2020,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,DE,KR,,2,,live,,B,C
+2020,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,FI,RU,,,1,live,,B,F
+2020,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,RU,SE,DE,2,,live,,B,C
+2020,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,SE,RU,,,1,live,,B,F
+2020,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,US,ZA,ZM,,1,trophies,,H,C
+2020,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,US,ZW,,1,,trophies,Number of specimens,H,I
+2020,I,Panthera tigris,Mammalia,Carnivora,Felidae,Panthera,AE,RU,,1,,live,Number of specimens,B,F
+2020,I,Panthera tigris,Mammalia,Carnivora,Felidae,Panthera,AE,RU,,,1,live,,B,F
+2020,I,Panthera tigris,Mammalia,Carnivora,Felidae,Panthera,AM,UA,,3,,live,Number of specimens,B,C
+2020,I,Panthera tigris,Mammalia,Carnivora,Felidae,Panthera,US,CA,,,5,live,Number of specimens,L,I
+2020,I,Panthera tigris,Mammalia,Carnivora,Felidae,Panthera,US,CN,XX,8,,medicine,Number of specimens,M,I
+2020,I,Panthera uncia,Mammalia,Carnivora,Felidae,Panthera,CH,FR,,,1,bodies,Number of specimens,E,C
+2020,I,Pardofelis marmorata,Mammalia,Carnivora,Felidae,Pardofelis,GB,AE,,,2,live,Number of specimens,B,F
+2020,I,Prionailurus bengalensis,Mammalia,Carnivora,Felidae,Prionailurus,ZA,XX,,2,,live,,B,C
+2020,I,Antigone vipio,Aves,Gruiformes,Gruidae,Antigone,CD,FR,BE,,2,live,Number of specimens,B,C
+2020,I,Hylobates lar,Mammalia,Primates,Hylobatidae,Hylobates,BE,IL,,1,,live,Number of specimens,E,C
+2020,I,Nomascus gabriellae,Mammalia,Primates,Hylobatidae,Nomascus,NO,GB,,,1,live,Number of specimens,B,F
+2020,I,Brachylophus spp.,Reptilia,Sauria,Iguanidae,Brachylophus,TH,AT,AT,,7,live,,B,C
+2020,I,Brachylophus bulabula,Reptilia,Sauria,Iguanidae,Brachylophus,CH,AT,AT,2,,live,Number of specimens,B,C
+2020,I,Brachylophus bulabula,Reptilia,Sauria,Iguanidae,Brachylophus,CH,AT,AT,,2,live,,B,C
+2020,I,Brachylophus fasciatus,Reptilia,Sauria,Iguanidae,Brachylophus,TH,AT,AT,,3,live,,B,C
+2020,I,Brachylophus fasciatus,Reptilia,Sauria,Iguanidae,Brachylophus,TH,DE,,2,,live,,B,C
+2020,I,Brachylophus vitiensis,Reptilia,Sauria,Iguanidae,Brachylophus,CA,AT,AT,,2,live,,B,C
+2020,I,Brachylophus vitiensis,Reptilia,Sauria,Iguanidae,Brachylophus,CA,AT,,4,,live,Number of specimens,B,C
+2020,I,Brachylophus vitiensis,Reptilia,Sauria,Iguanidae,Brachylophus,CA,UG,,7,,live,Number of specimens,B,C
+2020,I,Brachylophus vitiensis,Reptilia,Sauria,Iguanidae,Brachylophus,CA,UG,,,3,live,,B,C
+2020,I,Dalbergia nigra,,Fabales,Leguminosae,Dalbergia,CN,BR,,,0.028,sawn wood,m3,L,O
+2020,I,Dalbergia nigra,,Fabales,Leguminosae,Dalbergia,IN,BR,,,0.002,sawn wood,m3,L,O
+2020,I,Dalbergia nigra,,Fabales,Leguminosae,Dalbergia,JP,BR,,0.010,0.013,sawn wood,m3,L,O
+2020,I,Dalbergia nigra,,Fabales,Leguminosae,Dalbergia,SG,BR,,,0.028,sawn wood,m3,L,O
+2020,I,Dalbergia nigra,,Fabales,Leguminosae,Dalbergia,TW,BR,,,0.006,sawn wood,m3,L,O
+2020,I,Dalbergia nigra,,Fabales,Leguminosae,Dalbergia,US,BR,,,1.401,sawn wood,m3,L,O
+2020,I,Lemur catta,Mammalia,Primates,Lemuridae,Lemur,CN,CZ,,8,,live,Number of specimens,B,C
+2020,I,Manis spp.,Mammalia,Pholidota,Manidae,Manis,US,CN,XX,8,,medicine,Number of specimens,M,I
+2020,I,Aonyx cinereus,Mammalia,Carnivora,Mustelidae,Aonyx,MA,FR,,1,,live,,B,F
+2020,I,Aonyx cinereus,Mammalia,Carnivora,Mustelidae,Aonyx,ZA,SG,,5,,live,,B,C
+2020,I,Lutra lutra,Mammalia,Carnivora,Mustelidae,Lutra,DE,CH,,1,,live,,B,C
+2020,I,Lutrogale perspicillata,Mammalia,Carnivora,Mustelidae,Lutrogale,RU,CZ,GB,4,,live,,B,C
+2020,I,Chlamydotis macqueenii,Aves,Gruiformes,Otididae,Chlamydotis,KZ,KW,AE,50,,live,,B,C
+2020,I,Chlamydotis macqueenii,Aves,Gruiformes,Otididae,Chlamydotis,KZ,SA,AE,70,,live,,B,C
+2020,I,Chlamydotis macqueenii,Aves,Gruiformes,Otididae,Chlamydotis,KZ,SA,US,70,,live,,B,C
+2020,I,Chlamydotis macqueenii,Aves,Gruiformes,Otididae,Chlamydotis,QA,KW,AE,200,,live,Number of specimens,B,C
+2020,I,Chlamydotis undulata,Aves,Gruiformes,Otididae,Chlamydotis,AE,MA,,,310,live,,B,C
+2020,I,Bettongia penicillata,Mammalia,Diprotodontia,Potoroidae,Bettongia,CN,GB,CZ,1,,bodies,Number of specimens,E,C
+2020,I,Amazona auropalliata,Aves,Psittaciformes,Psittacidae,Amazona,AE,FR,GB,,2,live,Number of specimens,B,C
+2020,I,Amazona auropalliata,Aves,Psittaciformes,Psittacidae,Amazona,AE,FR,SE,,1,live,Number of specimens,B,C
+2020,I,Amazona auropalliata,Aves,Psittaciformes,Psittacidae,Amazona,AE,FR,,17,14,live,Number of specimens,B,C
+2020,I,Amazona auropalliata,Aves,Psittaciformes,Psittacidae,Amazona,AE,ZA,,,16,live,,B,C
+2020,I,Amazona auropalliata,Aves,Psittaciformes,Psittacidae,Amazona,JO,ZA,,,5,live,,B,C
+2020,I,Amazona auropalliata,Aves,Psittaciformes,Psittacidae,Amazona,KW,LB,ZA,,26,live,,B,C
+2020,I,Amazona auropalliata,Aves,Psittaciformes,Psittacidae,Amazona,KW,ZA,,16,61,live,,B,C
+2020,I,Amazona auropalliata,Aves,Psittaciformes,Psittacidae,Amazona,LB,ZA,,32,151,live,,B,C
+2020,I,Amazona auropalliata,Aves,Psittaciformes,Psittacidae,Amazona,PH,FR,GB,,2,live,Number of specimens,B,C
+2020,I,Amazona auropalliata,Aves,Psittaciformes,Psittacidae,Amazona,PH,FR,GB,4,,live,,B,C
+2020,I,Amazona auropalliata,Aves,Psittaciformes,Psittacidae,Amazona,PH,FR,,,2,live,Number of specimens,B,C
+2020,I,Amazona auropalliata,Aves,Psittaciformes,Psittacidae,Amazona,PH,FR,,4,,live,,B,C
+2020,I,Amazona auropalliata,Aves,Psittaciformes,Psittacidae,Amazona,QA,ZA,,4,,live,Number of specimens,B,C
+2020,I,Amazona auropalliata,Aves,Psittaciformes,Psittacidae,Amazona,QA,ZA,,,6,live,,B,C
+2020,I,Amazona auropalliata,Aves,Psittaciformes,Psittacidae,Amazona,TH,US,,2,,live,,B,F
+2020,I,Amazona barbadensis,Aves,Psittaciformes,Psittacidae,Amazona,LB,ZA,,2,,live,,B,C
+2020,I,Amazona brasiliensis,Aves,Psittaciformes,Psittacidae,Amazona,CH,DK,,1,,live,Number of specimens,B,C
+2020,I,Amazona brasiliensis,Aves,Psittaciformes,Psittacidae,Amazona,PH,CH,,8,,live,,B,C
+2020,I,Amazona finschi,Aves,Psittaciformes,Psittacidae,Amazona,AE,ZA,,,5,live,,B,C
+2020,I,Amazona finschi,Aves,Psittaciformes,Psittacidae,Amazona,KW,LB,ZA,,3,live,,B,C
+2020,I,Amazona finschi,Aves,Psittaciformes,Psittacidae,Amazona,LB,ZA,,2,7,live,,B,C
+2020,I,Amazona leucocephala,Aves,Psittaciformes,Psittacidae,Amazona,LB,ZA,,2,2,live,,B,C
+2020,I,Amazona leucocephala,Aves,Psittaciformes,Psittacidae,Amazona,PH,DE,,19,,live,,B,C
+2020,I,Amazona oratrix,Aves,Psittaciformes,Psittacidae,Amazona,AE,FR,,8,8,live,Number of specimens,B,C
+2020,I,Amazona oratrix,Aves,Psittaciformes,Psittacidae,Amazona,AE,ZA,,,5,live,,B,C
+2020,I,Amazona oratrix,Aves,Psittaciformes,Psittacidae,Amazona,JO,ZA,,,5,live,,B,C
+2020,I,Amazona oratrix,Aves,Psittaciformes,Psittacidae,Amazona,KW,LB,ZA,,19,live,,B,C
+2020,I,Amazona oratrix,Aves,Psittaciformes,Psittacidae,Amazona,KW,ZA,,,6,live,,B,C
+2020,I,Amazona oratrix,Aves,Psittaciformes,Psittacidae,Amazona,LB,ZA,,18,79,live,,B,C
+2020,I,Amazona oratrix,Aves,Psittaciformes,Psittacidae,Amazona,PH,CZ,SK,37,,live,,B,C
+2020,I,Amazona oratrix,Aves,Psittaciformes,Psittacidae,Amazona,PH,CZ,,20,,live,,B,C
+2020,I,Amazona oratrix,Aves,Psittaciformes,Psittacidae,Amazona,PH,FR,PL,,1,live,Number of specimens,B,C
+2020,I,Amazona oratrix,Aves,Psittaciformes,Psittacidae,Amazona,PH,FR,PL,2,,live,,B,C
+2020,I,Amazona oratrix,Aves,Psittaciformes,Psittacidae,Amazona,QA,ZA,,3,,live,Number of specimens,B,C
+2020,I,Amazona oratrix,Aves,Psittaciformes,Psittacidae,Amazona,QA,ZA,,,3,live,,B,C
+2020,I,Amazona oratrix,Aves,Psittaciformes,Psittacidae,Amazona,TH,NL,DE,1,,live,,B,C
+2020,I,Amazona oratrix,Aves,Psittaciformes,Psittacidae,Amazona,TH,NL,,9,,live,,B,C
+2020,I,Amazona pretrei,Aves,Psittaciformes,Psittacidae,Amazona,PH,CZ,SK,4,,live,,B,C
+2020,I,Amazona pretrei,Aves,Psittaciformes,Psittacidae,Amazona,PH,CZ,,9,,live,,B,C
+2020,I,Amazona tucumana,Aves,Psittaciformes,Psittacidae,Amazona,LB,ZA,,2,2,live,,B,C
+2020,I,Amazona vinacea,Aves,Psittaciformes,Psittacidae,Amazona,KW,LB,ZA,,8,live,,B,C
+2020,I,Amazona vinacea,Aves,Psittaciformes,Psittacidae,Amazona,LB,ZA,,2,13,live,,B,C
+2020,I,Amazona vinacea,Aves,Psittaciformes,Psittacidae,Amazona,PH,CZ,SK,6,,live,,B,C
+2020,I,Amazona vinacea,Aves,Psittaciformes,Psittacidae,Amazona,PH,CZ,,2,,live,,B,C
+2020,I,Amazona viridigenalis,Aves,Psittaciformes,Psittacidae,Amazona,LB,ZA,,2,2,live,,B,C
+2020,I,Anodorhynchus hyacinthinus,Aves,Psittaciformes,Psittacidae,Anodorhynchus,AE,FR,,2,,live,Number of specimens,B,C
+2020,I,Anodorhynchus hyacinthinus,Aves,Psittaciformes,Psittacidae,Anodorhynchus,AE,MT,,,2,live,,B,C
+2020,I,Anodorhynchus hyacinthinus,Aves,Psittaciformes,Psittacidae,Anodorhynchus,BD,ZA,,,2,live,,B,C
+2020,I,Anodorhynchus hyacinthinus,Aves,Psittaciformes,Psittacidae,Anodorhynchus,CH,FR,XX,2,,feathers,Number of specimens,E,O
+2020,I,Anodorhynchus hyacinthinus,Aves,Psittaciformes,Psittacidae,Anodorhynchus,LK,BE,,1,,live,,B,C
+2020,I,Anodorhynchus hyacinthinus,Aves,Psittaciformes,Psittacidae,Anodorhynchus,SG,PH,,,2,live,,B,C
+2020,I,Anodorhynchus hyacinthinus,Aves,Psittaciformes,Psittacidae,Anodorhynchus,TH,BR,,2,,live,,B,C
+2020,I,Anodorhynchus hyacinthinus,Aves,Psittaciformes,Psittacidae,Anodorhynchus,TH,NL,PT,1,,live,,B,C
+2020,I,Anodorhynchus hyacinthinus,Aves,Psittaciformes,Psittacidae,Anodorhynchus,TH,PH,,,2,live,,B,C
+2020,I,Anodorhynchus leari,Aves,Psittaciformes,Psittacidae,Anodorhynchus,CN,GB,QA,1,,bodies,Number of specimens,E,C
+2020,I,Anodorhynchus leari,Aves,Psittaciformes,Psittacidae,Anodorhynchus,ES,BR,,,2,live,Number of specimens,B,F
+2020,I,Ara ambiguus,Aves,Psittaciformes,Psittacidae,Ara,KW,LB,ZA,,1,live,,B,C
+2020,I,Ara ambiguus,Aves,Psittaciformes,Psittacidae,Ara,KW,ZA,,,2,live,,B,C
+2020,I,Ara ambiguus,Aves,Psittaciformes,Psittacidae,Ara,LB,ZA,,,1,live,,B,C
+2020,I,Ara ambiguus,Aves,Psittaciformes,Psittacidae,Ara,QA,ZA,,1,,live,Number of specimens,B,C
+2020,I,Ara ambiguus,Aves,Psittaciformes,Psittacidae,Ara,QA,ZA,,,2,live,,B,C
+2020,I,Ara ambiguus,Aves,Psittaciformes,Psittacidae,Ara,TH,NL,FR,1,,live,,B,C
+2020,I,Ara ambiguus,Aves,Psittaciformes,Psittacidae,Ara,TH,NL,SE,1,,live,,B,C
+2020,I,Ara glaucogularis,Aves,Psittaciformes,Psittacidae,Ara,BD,ZA,,,4,live,,B,C
+2020,I,Ara glaucogularis,Aves,Psittaciformes,Psittacidae,Ara,KW,LB,ZA,,6,live,,B,C
+2020,I,Ara glaucogularis,Aves,Psittaciformes,Psittacidae,Ara,LB,ZA,,,6,live,,B,C
+2020,I,Ara glaucogularis,Aves,Psittaciformes,Psittacidae,Ara,QA,ZA,,,2,live,,B,C
+2020,I,Ara glaucogularis,Aves,Psittaciformes,Psittacidae,Ara,TH,NL,FR,2,,live,,B,C
+2020,I,Ara hybrid,Aves,Psittaciformes,Psittacidae,Ara,AE,FR,,6,5,live,Number of specimens,B,C
+2020,I,Ara hybrid,Aves,Psittaciformes,Psittacidae,Ara,KW,ZA,,,1,live,,B,C
+2020,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,AE,FR,,1,1,live,Number of specimens,B,C
+2020,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,AE,ZA,,,10,live,,B,C
+2020,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,BD,ZA,,,17,live,,B,C
+2020,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,BH,LB,ZA,,2,live,,B,C
+2020,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,CH,FR,XX,23,,feathers,Number of specimens,E,O
+2020,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,DE,PH,,,2,live,,B,C
+2020,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,JO,ZA,,,5,live,,B,C
+2020,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,KW,LB,ZA,,6,live,,B,C
+2020,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,KW,ZA,,,1,live,,B,C
+2020,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,LB,ZA,,23,12,live,,B,C
+2020,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,OM,LB,ZA,,1,live,,B,C
+2020,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,PH,DE,,4,,live,,B,C
+2020,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,PH,SK,GB,2,,live,,B,C
+2020,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,PH,SK,,1,,live,,B,C
+2020,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,PH,SK,,1,,live,,B,O
+2020,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,QA,ZA,,2,,live,Number of specimens,B,C
+2020,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,QA,ZA,,,10,live,,B,C
+2020,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,SK,CH,,2,,live,,B,C
+2020,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,TH,BR,,1,,live,,B,C
+2020,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,TH,NL,FR,5,,live,,B,C
+2020,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,TH,NL,LU,3,,live,,B,C
+2020,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,US,ZA,,,3,live,,B,C
+2020,I,Ara militaris,Aves,Psittaciformes,Psittacidae,Ara,AE,ZA,,,2,live,,B,C
+2020,I,Ara militaris,Aves,Psittaciformes,Psittacidae,Ara,BD,ZA,,,3,live,,B,C
+2020,I,Ara militaris,Aves,Psittaciformes,Psittacidae,Ara,LB,ZA,,1,,live,,B,C
+2020,I,Ara militaris,Aves,Psittaciformes,Psittacidae,Ara,PL,CH,,2,,live,,B,C
+2020,I,Ara militaris,Aves,Psittaciformes,Psittacidae,Ara,TH,NL,FR,1,,live,,B,C
+2020,I,Ara rubrogenys,Aves,Psittaciformes,Psittacidae,Ara,BD,ZA,,,7,live,,B,C
+2020,I,Ara rubrogenys,Aves,Psittaciformes,Psittacidae,Ara,CN,GB,,1,,bodies,Number of specimens,E,C
+2020,I,Ara rubrogenys,Aves,Psittaciformes,Psittacidae,Ara,KW,ZA,,,2,live,,B,C
+2020,I,Ara rubrogenys,Aves,Psittaciformes,Psittacidae,Ara,PH,BR,,4,,live,,B,C
+2020,I,Ara rubrogenys,Aves,Psittaciformes,Psittacidae,Ara,PL,CH,,2,,live,,B,C
+2020,I,Ara rubrogenys,Aves,Psittaciformes,Psittacidae,Ara,TH,BR,,4,,live,,B,C
+2020,I,Cyanopsitta spixii,Aves,Psittaciformes,Psittacidae,Cyanopsitta,CN,GB,QA,1,,bodies,Number of specimens,E,C
+2020,I,Cyanopsitta spixii,Aves,Psittaciformes,Psittacidae,Cyanopsitta,DE,BR,,,4,live,Number of specimens,B,C
+2020,I,Cyanopsitta spixii,Aves,Psittaciformes,Psittacidae,Cyanopsitta,DE,BR,,4,,live,,B,C
+2020,I,Guarouba guarouba,Aves,Psittaciformes,Psittacidae,Guarouba,BD,ZA,,,2,live,,B,C
+2020,I,Guarouba guarouba,Aves,Psittaciformes,Psittacidae,Guarouba,KW,ZA,,,3,live,,B,C
+2020,I,Guarouba guarouba,Aves,Psittaciformes,Psittacidae,Guarouba,PH,FR,PT,,1,live,Number of specimens,B,C
+2020,I,Guarouba guarouba,Aves,Psittaciformes,Psittacidae,Guarouba,PH,FR,PT,2,,live,,B,C
+2020,I,Guarouba guarouba,Aves,Psittaciformes,Psittacidae,Guarouba,PH,FR,,,2,live,Number of specimens,B,C
+2020,I,Guarouba guarouba,Aves,Psittaciformes,Psittacidae,Guarouba,PH,FR,,8,,live,,B,C
+2020,I,Guarouba guarouba,Aves,Psittaciformes,Psittacidae,Guarouba,QA,ZA,,,1,live,,B,C
+2020,I,Guarouba guarouba,Aves,Psittaciformes,Psittacidae,Guarouba,TH,BR,,2,,live,,B,C
+2020,I,Guarouba guarouba,Aves,Psittaciformes,Psittacidae,Guarouba,TH,NL,,2,,live,,B,C
+2020,I,Primolius maracana,Aves,Psittaciformes,Psittacidae,Primolius,BD,ZA,,,10,live,,B,C
+2020,I,Primolius maracana,Aves,Psittaciformes,Psittacidae,Primolius,BH,LB,ZA,,10,live,,B,C
+2020,I,Primolius maracana,Aves,Psittaciformes,Psittacidae,Primolius,KW,LB,ZA,,2,live,,B,C
+2020,I,Primolius maracana,Aves,Psittaciformes,Psittacidae,Primolius,LB,ZA,,16,18,live,,B,C
+2020,I,Primolius maracana,Aves,Psittaciformes,Psittacidae,Primolius,OM,LB,ZA,,6,live,,B,C
+2020,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,JO,XX,ZA,1,,live,,E,C
+2020,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,LB,ZA,,,1,live,,B,D
+2020,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,LK,US,,1,,live,Number of specimens,B,C
+2020,I,Pythonidae spp.,Reptilia,Serpentes,Pythonidae,,RU,NL,XX,,2,leather products (small),,E,O
+2020,I,Python molurus,Reptilia,Serpentes,Pythonidae,Python,BE,CH,NL,,3,bodies,Number of specimens,E,C
+2020,I,Rhinocerotidae spp.,Mammalia,Perissodactyla,Rhinocerotidae,,ZA,SG,XX,,8,specimens,Number of specimens,L,I
+2020,I,Rhynochetos jubatus,Aves,Gruiformes,Rhynochetidae,Rhynochetos,CN,GB,NC,1,,bodies,Number of specimens,E,C
+2020,I,Spheniscus humboldti,Aves,Sphenisciformes,Spheniscidae,Spheniscus,ES,RU,,,8,live,,B,C
+2020,I,Struthionidae spp.,Aves,Struthioniformes,Struthionidae,,RU,NL,XX,,2,feathers,,E,O
+2020,I,Babyrousa celebensis,Mammalia,Artiodactyla,Suidae,Babyrousa,DE,US,,2,,live,,B,C
+2020,I,Geochelone platynota,Reptilia,Testudines,Testudinidae,Geochelone,DK,CH,,7,,live,,B,C
+2020,I,Malacochersus tornieri,Reptilia,Testudines,Testudinidae,Malacochersus,AE,NL,,10,,live,Number of specimens,B,F
+2020,I,Malacochersus tornieri,Reptilia,Testudines,Testudinidae,Malacochersus,AE,NL,,,10,live,,B,F
+2020,I,Testudinidae spp.,Reptilia,Testudines,Testudinidae,,RU,NL,XX,,6,carvings,,E,O
+2020,I,Ailuropoda melanoleuca,Mammalia,Carnivora,Ursidae,Ailuropoda,GB,CN,,3.45,,specimens,ml,B,C
+2020,I,Melursus ursinus,Mammalia,Carnivora,Ursidae,Melursus,CN,NL,XX,1,,rug,Number of specimens,E,O
+2020,I,Primates spp.,Mammalia,Primates,,,CH,FR,XX,2,,bone carvings,Number of specimens,E,O
+2020,I,Primates spp.,Mammalia,Primates,,,CH,FR,XX,1,,teeth,Number of specimens,E,O
+2020,II,Aquila chrysaetos,Aves,Falconiformes,Accipitridae,Aquila,NL,US,XX,2,,feathers,,E,O
+2020,II,Buteo jamaicensis,Aves,Falconiformes,Accipitridae,Buteo,NL,US,XX,6,,feathers,,E,O
+2020,II,Gyps fulvus,Aves,Falconiformes,Accipitridae,Gyps,AE,FR,,,2,skeletons,Number of specimens,E,F
+2020,II,Milvus migrans,Aves,Falconiformes,Accipitridae,Milvus,NL,JP,XX,4,,claws,,E,O
+2020,II,Milvus migrans,Aves,Falconiformes,Accipitridae,Milvus,NL,JP,XX,,4,derivatives,Number of specimens,E,O
+2020,II,Acipenser baerii,Actinopteri,Acipenseriformes,Acipenseridae,Acipenser,AU,NZ,XX,510,,cosmetics,Number of specimens,L,I
+2020,II,Acipenser baerii,Actinopteri,Acipenseriformes,Acipenseridae,Acipenser,CL,IT,,,5,eggs (live),kg,B,C
+2020,II,Acipenser baerii,Actinopteri,Acipenseriformes,Acipenseridae,Acipenser,TW,IT,,,11,eggs (live),kg,B,C
+2020,II,Acipenser gueldenstaedtii,Actinopteri,Acipenseriformes,Acipenseridae,Acipenser,AU,NZ,XX,43,,cosmetics,Number of specimens,L,I
+2020,II,Huso huso,Actinopteri,Acipenseriformes,Acipenseridae,Huso,CL,IT,,50000,,eggs (live),Number of specimens,B,C
+2020,II,Huso huso,Actinopteri,Acipenseriformes,Acipenseridae,Huso,CL,IT,,,50000,eggs (live),,B,C
+2020,II,Acropora nana,Anthozoa,Scleractinia,Acroporidae,Acropora,LK,VN,,750,,live,,B,C
+2020,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,DE,US,,,1131,specimens,Number of specimens,M,C
+2020,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,ES,US,,,385,specimens,Number of specimens,M,C
+2020,II,Caiman crocodilus,Reptilia,Crocodylia,Alligatoridae,Caiman,US,MX,XX,6,,leather products (small),Number of specimens,H,I
+2020,II,Ambystoma mexicanum,Amphibia,Caudata,Ambystomatidae,Ambystoma,DE,US,,600,600,specimens,mg,M,C
+2020,II,Ambystoma mexicanum,Amphibia,Caudata,Ambystomatidae,Ambystoma,US,AT,,,2000,eggs (live),,M,C
+2020,II,Ambystoma mexicanum,Amphibia,Caudata,Ambystomatidae,Ambystoma,US,AT,,,1340,live,,M,C
+2020,II,Ambystoma mexicanum,Amphibia,Caudata,Ambystomatidae,Ambystoma,US,AU,AT,840,,eggs (live),Number of specimens,M,C
+2020,II,Ambystoma mexicanum,Amphibia,Caudata,Ambystomatidae,Ambystoma,US,DE,,400,,eggs (live),Number of specimens,M,C
+2020,II,Ambystoma mexicanum,Amphibia,Caudata,Ambystomatidae,Ambystoma,US,DE,,,400,eggs (live),,M,C
+2020,II,Panax quinquefolius,,Apiales,Araliaceae,Panax,CN,CA,,3175.15,,roots,kg,M,A
+2020,II,Ateles fusciceps,Mammalia,Primates,Atelidae,Ateles,CO,EC,,,1,bodies,Number of specimens,L,I
+2020,II,Ateles fusciceps,Mammalia,Primates,Atelidae,Ateles,CO,EC,,,2,specimens,Number of specimens,L,I
+2020,II,Boa constrictor,Reptilia,Serpentes,Boidae,Boa,BE,CH,NL,3,3,bodies,Number of specimens,E,C
+2020,II,Boa constrictor,Reptilia,Serpentes,Boidae,Boa,DE,CH,,1,,live,,B,C
+2020,II,Boa constrictor,Reptilia,Serpentes,Boidae,Boa,NO,DK,,2,,live,Number of specimens,B,C
+2020,II,Boa constrictor,Reptilia,Serpentes,Boidae,Boa,NO,DK,,,3,live,,B,C
+2020,II,Boa constrictor,Reptilia,Serpentes,Boidae,Boa,RU,BY,,,6,live,,B,C
+2020,II,Boa constrictor,Reptilia,Serpentes,Boidae,Boa,US,CR,,,40,live,Number of specimens,B,C
+2020,II,Corallus annulatus,Reptilia,Serpentes,Boidae,Corallus,US,CR,,,2,live,Number of specimens,B,C
+2020,II,Corallus ruschenbergerii,Reptilia,Serpentes,Boidae,Corallus,US,CR,,,22,live,Number of specimens,B,C
+2020,II,Epicrates cenchria,Reptilia,Serpentes,Boidae,Epicrates,BE,CH,NL,2,2,bodies,Number of specimens,E,C
+2020,II,Epicrates cenchria,Reptilia,Serpentes,Boidae,Epicrates,RU,BY,,,5,live,,B,C
+2020,II,Eunectes murinus,Reptilia,Serpentes,Boidae,Eunectes,BE,CH,NL,1,1,bodies,Number of specimens,E,C
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,AU,US,,3,,trophies,Number of specimens,H,F
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,AU,ZA,,5,,trophies,Number of specimens,H,F
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,AU,ZA,,,2,trophies,,H,F
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,CA,US,,,1,trophies,Number of specimens,H,F
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,CN,US,,,1,trophies,Number of specimens,H,F
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,CZ,ZA,,2,1,trophies,,H,F
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,DE,US,,1,,trophies,,H,F
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,DE,ZA,,3,3,trophies,,H,F
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,DK,US,,1,,trophies,,H,F
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,ES,MK,,1,,trophies,,H,F
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,ES,US,,,1,trophies,Number of specimens,H,F
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,ES,ZA,,,2,horns,,H,F
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,ES,ZA,,7,1,trophies,,H,F
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,FR,ZA,,,1,trophies,,H,F
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,HR,ZA,,,3,trophies,,H,F
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,HU,ZA,,1,1,trophies,,H,F
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,KW,ES,,,1,trophies,,H,F
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,MX,US,US,1,,trophies,Number of specimens,H,F
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,NL,ZA,,,1,trophies,,H,F
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,NO,ZA,,,1,trophies,,H,F
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,NZ,ES,,2,,trophies,Number of specimens,H,F
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,RU,ZA,,,2,trophies,,H,F
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,SE,ZA,,1,,trophies,,H,F
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,US,ZA,,2,,trophies,Number of specimens,H,F
+2020,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,US,ZA,,,8,trophies,,H,F
+2020,II,Budorcas taxicolor,Mammalia,Artiodactyla,Bovidae,Budorcas,BT,DE,BT,,1,skins,,E,C
+2020,II,Cephalophus dorsalis,Mammalia,Artiodactyla,Bovidae,Cephalophus,CN,US,XX,,1,trophies,Number of specimens,E,I
+2020,II,Cephalophus silvicultor,Mammalia,Artiodactyla,Bovidae,Cephalophus,DE,US,,1,,live,,B,F
+2020,II,Damaliscus pygargus pygargus,Mammalia,Artiodactyla,Bovidae,Damaliscus,ES,ZA,,1,,trophies,,H,F
+2020,II,Damaliscus pygargus pygargus,Mammalia,Artiodactyla,Bovidae,Damaliscus,RU,ZA,,,1,trophies,,H,F
+2020,II,Damaliscus pygargus pygargus,Mammalia,Artiodactyla,Bovidae,Damaliscus,US,ZA,,1,,trophies,Number of specimens,H,I
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,AR,ZA,,8,,trophies,Number of specimens,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,AR,ZA,,,5,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,AT,ZA,,3,4,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,AU,ZA,,2,,trophies,Number of specimens,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,AU,ZA,,,9,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,AU,ZM,,1,,trophies,Number of specimens,H,C
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,BE,ZA,,1,,skins,Number of specimens,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,BE,ZA,,1,,trophies,Number of specimens,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,BE,ZA,,,2,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,BR,ZA,,4,,trophies,Number of specimens,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,BR,ZA,,,1,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,CA,ZA,,,6,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,CH,FR,ZA,,1,trophies,Number of specimens,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,CN,US,,,1,trophies,Number of specimens,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,CR,ZA,,1,,trophies,Number of specimens,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,CR,ZA,,,2,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,CZ,ZA,,6,1,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,DE,ZA,,4,,skins,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,DE,ZA,,1,,skulls,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,DE,ZA,,3,3,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,DK,ZA,,10,14,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,EC,ZA,,,1,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,ES,ZA,,,2,horns,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,ES,ZA,,51,14,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,FR,ZA,,,5,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,GB,ZA,,,6,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,HU,ZA,,1,,trophies,,H,C
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,HU,ZA,,4,8,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,ID,ZA,,1,2,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,IL,ZA,,,1,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,IS,ZA,,,1,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,KW,ZA,,,3,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,MU,ZA,,,4,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,MX,ZA,,27,,trophies,Number of specimens,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,MX,ZA,,,8,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,NO,ZA,,4,,trophies,Number of specimens,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,NO,ZA,,,4,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,NZ,ZA,,1,,skulls,Number of specimens,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,NZ,ZA,,,2,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,PE,ES,ZA,,1,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,PE,ES,,1,,trophies,Number of specimens,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,PE,ZA,,2,,trophies,Number of specimens,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,PE,ZA,,,3,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,PL,ZA,,,3,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,RS,ZA,,1,,trophies,Number of specimens,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,RS,ZA,,,2,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,RU,ZM,,,2,trophies,Number of specimens,H,C
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,SA,ZA,,,1,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,SE,ZA,,2,8,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,SK,ZA,,1,,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,SL,ZA,,,1,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,UA,ZA,,,1,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,US,NA,ZA,3,,trophies,Number of specimens,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,US,ZA,ZM,,1,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,US,ZA,,,2,bodies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,US,ZA,,1,,leather products (small),Number of specimens,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,US,ZA,,,1,skulls,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,US,ZA,,92,,trophies,Number of specimens,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,US,ZA,,,166,trophies,,H,F
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,US,ZM,,,3,trophies,Number of specimens,H,C
+2020,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,US,ZW,ZA,1,,trophies,Number of specimens,H,F
+2020,II,Ovis bochariensis,Mammalia,Artiodactyla,Bovidae,Ovis,AU,US,,,1,trophies,Number of specimens,H,F
+2020,II,Ovis canadensis,Mammalia,Artiodactyla,Bovidae,Ovis,CA,MX,,,6,trophies,Number of specimens,H,C
+2020,II,Ovis canadensis,Mammalia,Artiodactyla,Bovidae,Ovis,CA,US,MX,,2,horns,Number of specimens,H,I
+2020,II,Ovis canadensis,Mammalia,Artiodactyla,Bovidae,Ovis,CA,US,MX,,2,skin pieces,Number of specimens,H,I
+2020,II,Ovis canadensis,Mammalia,Artiodactyla,Bovidae,Ovis,ES,MX,,,1,trophies,Number of specimens,H,C
+2020,II,Ovis canadensis,Mammalia,Artiodactyla,Bovidae,Ovis,US,MX,,2,101,trophies,Number of specimens,H,C
+2020,II,Ovis cycloceros arkal,Mammalia,Artiodactyla,Bovidae,Ovis,CA,US,,,1,trophies,Number of specimens,H,F
+2020,II,Ovis cycloceros arkal,Mammalia,Artiodactyla,Bovidae,Ovis,LB,US,,,1,trophies,Number of specimens,H,C
+2020,II,Philantomba monticola,Mammalia,Artiodactyla,Bovidae,Philantomba,RU,ZM,,,1,trophies,Number of specimens,H,C
+2020,II,Rhyticeros plicatus,Aves,Coraciiformes,Bucerotidae,Rhyticeros,ID,PH,,,7,live,,L,I
+2020,II,Cacatua galerita,Aves,Psittaciformes,Cacatuidae,Cacatua,ID,PH,,,40,live,,L,I
+2020,II,Cacatua galerita,Aves,Psittaciformes,Cacatuidae,Cacatua,LK,PH,,4,,live,Number of specimens,B,C
+2020,II,Cacatua leadbeateri,Aves,Psittaciformes,Cacatuidae,Cacatua,PH,NZ,,4,,live,,B,C
+2020,II,Cacatua leadbeateri,Aves,Psittaciformes,Cacatuidae,Cacatua,TH,NL,,3,,live,,B,C
+2020,II,Cacatua ophthalmica,Aves,Psittaciformes,Cacatuidae,Cacatua,LK,PH,,4,,live,Number of specimens,B,C
+2020,II,Calyptorhynchus banksii,Aves,Psittaciformes,Cacatuidae,Calyptorhynchus,AE,CY,,2,,live,Number of specimens,B,C
+2020,II,Calyptorhynchus banksii,Aves,Psittaciformes,Cacatuidae,Calyptorhynchus,PH,NZ,,4,,live,,B,C
+2020,II,Calyptorhynchus funereus,Aves,Psittaciformes,Cacatuidae,Calyptorhynchus,AE,CY,,2,,live,Number of specimens,B,C
+2020,II,Calyptorhynchus funereus,Aves,Psittaciformes,Cacatuidae,Calyptorhynchus,AE,CY,,,2,live,,B,C
+2020,II,Eolophus roseicapilla,Aves,Psittaciformes,Cacatuidae,Eolophus,LK,PH,,4,,live,Number of specimens,B,C
+2020,II,Canis lupus,Mammalia,Carnivora,Canidae,Canis,DE,CH,DE,1,,skin pieces,,E,C
+2020,II,Canis lupus,Mammalia,Carnivora,Canidae,Canis,US,CA,,2,,skins,Number of specimens,H,I
+2020,II,Vulpes zerda,Mammalia,Carnivora,Canidae,Vulpes,ID,ZA,,,2,live,,B,C
+2020,II,Euphyllia ancora,Anthozoa,Scleractinia,Caryophylliidae,Euphyllia,GB,AU,,99,,live,Number of specimens,M,C
+2020,II,Euphyllia cristata,Anthozoa,Scleractinia,Caryophylliidae,Euphyllia,LK,AU,,300,,live,,B,C
+2020,II,Euphyllia glabrescens,Anthozoa,Scleractinia,Caryophylliidae,Euphyllia,GB,AU,,35,,live,Number of specimens,M,C
+2020,II,Euphyllia paraancora,Anthozoa,Scleractinia,Caryophylliidae,Euphyllia,LK,AU,,300,,live,,B,C
+2020,II,Callithrix argentata,Mammalia,Primates,Cebidae,Callithrix,TH,CZ,DE,2,,live,,B,C
+2020,II,Callithrix argentata,Mammalia,Primates,Cebidae,Callithrix,TH,CZ,,5,,live,,B,C
+2020,II,Callithrix geoffroyi,Mammalia,Primates,Cebidae,Callithrix,TH,CZ,DE,1,,live,,B,C
+2020,II,Callithrix geoffroyi,Mammalia,Primates,Cebidae,Callithrix,TH,CZ,,1,,live,,B,C
+2020,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,AU,JP,,27,,specimens,Number of specimens,M,C
+2020,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,CA,FR,,,6,live,Number of specimens,M,C
+2020,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,CH,DE,,25,,specimens,Number of specimens,M,C
+2020,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,CH,DE,,,25,specimens,,M,C
+2020,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,CH,FR,DE,8,8,specimens,ml,M,C
+2020,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,CH,FR,,2,4,specimens,ml,M,C
+2020,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,CH,FR,,3,3,specimens,Number of specimens,M,C
+2020,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,IL,NL,,,12,live,,M,C
+2020,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,TH,ZA,,,40,live,,B,C
+2020,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,US,CA,FR,,21,specimens,ml,M,C
+2020,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,US,DE,FR,368,,specimens,Number of specimens,M,C
+2020,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,US,DE,GB,9,,specimens,Number of specimens,M,C
+2020,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,US,DE,NL,112,,specimens,Number of specimens,M,C
+2020,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,US,DE,ZA,178,,specimens,Number of specimens,M,C
+2020,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,US,DE,ZA,,105,specimens,,M,C
+2020,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,US,DE,,932,,specimens,Number of specimens,M,C
+2020,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,US,DE,,,1420,specimens,,M,C
+2020,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,US,FR,CH,15,13,specimens,ml,M,C
+2020,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,US,FR,DE,117,138,specimens,ml,M,C
+2020,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,US,FR,,208,289,specimens,ml,M,C
+2020,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,US,GB,,44,44,live,Number of specimens,M,C
+2020,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,US,NA,DE,708,,specimens,Number of specimens,M,C
+2020,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,US,NA,GB,9,,specimens,Number of specimens,M,C
+2020,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,US,NA,ZA,178,,specimens,Number of specimens,M,C
+2020,II,Callithrix pygmaea,Mammalia,Primates,Cebidae,Callithrix,TH,CZ,DE,13,,live,,B,C
+2020,II,Callithrix pygmaea,Mammalia,Primates,Cebidae,Callithrix,TH,CZ,,18,,live,,B,C
+2020,II,Saimiri sciureus,Mammalia,Primates,Cebidae,Saimiri,US,DE,FR,174,,specimens,Number of specimens,M,C
+2020,II,Saimiri sciureus,Mammalia,Primates,Cebidae,Saimiri,US,DE,,8,,specimens,Number of specimens,M,C
+2020,II,Saimiri sciureus,Mammalia,Primates,Cebidae,Saimiri,US,DE,,,182,specimens,,M,C
+2020,II,Allochrocebus lhoesti,Mammalia,Primates,Cercopithecidae,Allochrocebus,CD,ZW,,2,,live,,L,I
+2020,II,Cercocebus chrysogaster,Mammalia,Primates,Cercopithecidae,Cercocebus,CD,ZW,,11,,live,,L,I
+2020,II,Cercopithecus spp.,Mammalia,Primates,Cercopithecidae,Cercopithecus,US,JP,,30,,specimens,Number of specimens,M,O
+2020,II,Cercopithecus nictitans,Mammalia,Primates,Cercopithecidae,Cercopithecus,CD,ZW,,5,,live,,L,I
+2020,II,Chlorocebus spp.,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,AT,JP,,449.6,extract,g,M,O
+2020,II,Chlorocebus spp.,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,AT,JP,,1598,extract,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,AT,US,XX,50,,extract,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,AT,US,XX,,55,specimens,Number of specimens,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,AT,US,,9,,specimens,ml,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,AT,US,,,18,specimens,Number of specimens,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,AU,GB,XX,,32,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,AU,US,,5,,specimens,ml,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,AU,US,,2,1,specimens,Number of specimens,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,BD,US,,,240,specimens,ml,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,BE,BR,,,5,specimens,Number of specimens,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,BE,KR,JP,20,,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,BE,KR,JP,,40,specimens,Number of specimens,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,BR,GB,US,,0.006,specimens,kg,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,CA,FR,XX,,20,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,CA,GB,US,,2,specimens,Number of specimens,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,CA,GB,XX,,4,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,CA,JP,XX,,4,specimens,g,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,CA,US,,,37,specimens,ml,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,CH,GB,JP,0.1,,specimens,g,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,CH,GB,JP,,0.0001,specimens,kg,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,CH,GB,US,2,,specimens,ml,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,CH,GB,XX,7,6,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,CH,GB,XX,,1,specimens,Number of specimens,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,CH,US,,2,2,specimens,Number of specimens,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,CN,KR,GB,,576,specimens,Number of specimens,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,DE,CA,XX,2,4,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,DE,US,,,40,specimens,Number of specimens,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,DE,US,,40,,specimens,,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,FR,CA,XX,46,30,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,FR,IN,XX,12,,specimens,l,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,FR,US,,0.0006165,,specimens,kg,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,FR,US,,,137,specimens,mg,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,FR,US,,12,12,specimens,ml,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,JP,XX,,30,specimens,g,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,JP,XX,120,123,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,JP,XX,30,,specimens,Number of specimens,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,KR,XX,1000,,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,US,,14,,specimens,ml,M,C
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,US,,780.6,314,specimens,ml,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,US,,71,18,specimens,Number of specimens,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,HK,JP,XX,,3,specimens,g,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,HK,US,XX,0.001,,specimens,kg,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,ID,GB,JP,,2,specimens,Number of specimens,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,ID,GB,XX,,0.003,specimens,kg,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,IE,US,,,100,specimens,Number of specimens,M,C
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,IE,US,,,10,specimens,Number of specimens,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,IE,US,,75,,specimens,,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,IL,GB,XX,,1,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,IL,GB,XX,,3,specimens,Number of specimens,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,IN,BE,XX,,3,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,IN,FR,GB,,207,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,IN,GB,US,,1000,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,IN,GB,XX,,1,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,IN,JP,XX,,1,specimens,g,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,IN,SG,US,,14,specimens,Number of specimens,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,IN,US,BE,,3,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,IN,US,XX,,47,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,IN,US,,,9,specimens,ml,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,IT,JP,XX,,1,specimens,g,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,IT,US,,,1,specimens,Number of specimens,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,JP,GB,XX,10,10,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,JP,US,,84,,specimens,ml,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,JP,US,,204,12,specimens,Number of specimens,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,KE,GB,US,,3,specimens,ml,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,KR,JP,XX,,4,specimens,g,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,KR,JP,XX,8,,specimens,Number of specimens,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,KR,US,,54,,specimens,Number of specimens,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,MX,JP,XX,,1,specimens,g,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,MX,US,US,6,,specimens,ml,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,MX,US,,11,,specimens,ml,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,MY,GB,JP,,1,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,NL,CA,XX,2,2,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,NL,US,,,10,specimens,ml,M,C
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,NL,US,,10,,specimens,ml,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,NL,US,,,4,specimens,Number of specimens,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,NL,US,,252,,specimens,,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,NO,GB,JP,,0.001,specimens,kg,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,NO,GB,XX,,0.001,specimens,kg,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,NO,GB,XX,,1,specimens,Number of specimens,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,NZ,JP,XX,,1,specimens,g,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,NZ,JP,,1,,derivatives,g,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,RU,US,,,6,specimens,Number of specimens,M,C
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,RU,US,,,2,specimens,Number of specimens,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,SG,US,,14,,specimens,ml,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,SG,US,,61,,specimens,Number of specimens,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,TW,GB,XX,,0.001,specimens,kg,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,TW,GB,XX,,1,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,UG,GB,US,,4,specimens,Number of specimens,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,AT,JP,729,,extract,ml,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,AT,JP,318,60,extract,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,AT,JP,500,,specimens,ml,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,AT,JP,30,,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,BE,XX,,1,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,BR,,31,,specimens,g,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,BR,,,1620,specimens,Number of specimens,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,CA,XX,,2,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,CA,,4,,specimens,Number of specimens,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,DE,US,3271,3405,specimens,ml,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,DE,US,680,,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,DE,US,53,,specimens,Number of specimens,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,DE,US,,53,specimens,,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,DE,XX,80,,specimens,g,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,DE,XX,,680,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,DE,,132,,specimens,ml,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,FR,XX,,3,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,GB,US,60,,specimens,ml,M,C
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,GB,XX,100,108,specimens,ml,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,GB,XX,,53,specimens,Number of specimens,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,IL,,38,,specimens,Number of specimens,M,C
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,JP,XX,,135,specimens,g,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,JP,,5,,specimens,g,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,JP,,100,,specimens,Number of specimens,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,NA,CA,4,,specimens,Number of specimens,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,NA,NL,125,,specimens,ml,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,NL,,145,195,specimens,ml,M,F
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,VN,JP,,2,,derivatives,Number of specimens,M,O
+2020,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,ZA,GB,US,,1,specimens,ml,M,F
+2020,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,2,,trophies,Number of specimens,H,I
+2020,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,CH,FR,,,12,specimens,ml,M,C
+2020,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,US,,12,314,specimens,ml,M,F
+2020,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,KR,US,KR,500,500,specimens,ml,M,O
+2020,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,KR,US,KR,500,,specimens,Number of specimens,M,O
+2020,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,NL,US,,34,,specimens,ml,M,F
+2020,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,NL,US,,,203,specimens,Number of specimens,M,F
+2020,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,AT,JP,120,,specimens,ml,M,F
+2020,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,BB,,17,,live,Number of specimens,M,C
+2020,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,BB,,,50,live,,M,C
+2020,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,BB,,120,600,specimens,ml,M,C
+2020,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,CA,,1,,specimens,ml,M,F
+2020,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,JP,,41,,specimens,ml,M,C
+2020,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,KN,,20,,specimens,Number of specimens,M,C
+2020,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,KN,,,85,specimens,,M,C
+2020,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,NL,BB,400,,specimens,ml,M,C
+2020,II,Chlorocebus tantalus,Mammalia,Primates,Cercopithecidae,Chlorocebus,BR,GB,NG,,13,specimens,ml,M,O
+2020,II,Lophocebus albigena,Mammalia,Primates,Cercopithecidae,Lophocebus,CD,ZW,,2,,live,,L,I
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AE,US,XX,,6,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AR,US,CN,,25,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AR,US,VN,,1,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AR,US,XX,,8,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AT,US,KH,10,25,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AT,US,KH,,100,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AT,US,KH,100,,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AU,CN,,33.7,,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AU,GB,MU,,279.6,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AU,GB,MU,,30,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AU,GB,VN,31.4,31.4,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AU,US,CN,740,750,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AU,US,CN,1690,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AU,US,KH,260,260,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AU,US,KH,1112,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AU,US,MU,,225,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AU,US,MU,225,,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AU,US,VN,171,172,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AU,US,,,225,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,BE,CN,,14.364,,specimens,kg,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,BE,CN,,534.3,,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,BE,MU,,,1000,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,BE,US,CN,1380.6,149,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,BE,US,,574.13,395,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,BN,US,CN,,1,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,BN,US,VN,,8,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,CH,MU,,10,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,CH,MU,,15,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,DE,MU,,739,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,DE,MU,,487,specimens,,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,DE,VN,,1763,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,DE,,,163,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,DK,MU,,4,medicine,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,DK,MU,,3,medicine,,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,FR,MU,,0.42,specimens,kg,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,FR,MU,,130,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,GB,MU,,164,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,GB,MU,,111,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,GB,VN,,72.4,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,IE,CN,,58,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,KR,VN,,0.0081,specimens,kg,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,KR,VN,,71,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,CN,,858,live,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,CN,,124,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,CN,,1965,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,CN,,300,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,KH,,112,live,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,KH,,3454,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,KH,,1196,specimens,g,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,KH,,6328,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,KH,,201,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,KH,,57,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,KH,,3,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,MU,,276,live,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,MU,,3,live,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,MU,,749,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,MU,,338,specimens,g,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,MU,,19891,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,MU,,80,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,VN,,189,live,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,VN,,32,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,VN,,425,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,XX,,180,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,,,107,live,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,,,4463,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,,,218,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,,,27,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,BE,CN,12,37,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,BE,CN,2,,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,BE,ID,5,5,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,BE,US,61,61,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,CA,CN,3034,3034.48,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,CA,CN,6.75,6.75,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,CA,CN,285,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,CA,KH,433.85,894.45,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,CA,MU,,70,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,CA,MU,,165.9,specimens,g,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,CA,MU,,35.85,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,CA,MU,,83.35,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,CN,,25.5,,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,CN,,0.180,,specimens,kg,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,CN,875,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,CN,,874,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,FR,31,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,FR,1,,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,MU,,0.6,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,MU,2582,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,MU,429,,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,MU,,3566,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,MU,,941,specimens,,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,US,10,10,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,VN,,0.19,specimens,l,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,VN,3081,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,VN,28,,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,VN,,3892,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,,28,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,,,81,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,,,1,specimens,,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,ES,CN,248,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,ES,CN,,248,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,ES,MU,200,200,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,ES,MU,16,,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,ES,MU,,16,specimens,,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,ES,VN,2.124,2.124,specimens,kg,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,ES,VN,38700,,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,ES,VN,8705,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,ES,VN,,4838,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,CN,,766,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,MR,9,,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,MU,797.8,,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,MU,318.9,,specimens,g,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,MU,,0.994,specimens,kg,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,MU,,0.675,specimens,kg,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,MU,1692.66,3617.79428528,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,MU,1665.94,2976.70571371,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,MU,,4,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,PH,2730,,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,VN,40,655,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,VN,29,8,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,,660,790,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,GB,CN,,33,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,GB,MU,1843,2013.4,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,GB,MU,610.5,745.32,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,GB,MU,319,1419,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,GB,MU,50,663,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,GB,US,200,208,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,GB,VN,139.9,140.75,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,GB,VN,1149,1395,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,IT,CN,5,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,IT,MU,,2.4,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,IT,VN,38,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,IT,VN,,936,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,NL,,,0.278,specimens,kg,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,NL,,,457.5,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,CN,346.4955,677,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,CN,1206,1620,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,KH,214.2,216,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,KH,4.6,2,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,KH,,10,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,MR,,5,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,MR,,22,specimens,g,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,MU,5,,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,MU,21.5,,specimens,g,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,MU,,200,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,MU,,101,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,VN,,10,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,VN,50,52,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,XX,,6,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,,,363,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,,14,497,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CN,FR,MU,,298.5,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CN,US,CN,,164,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CN,US,CN,1977,,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CN,US,CN,6914,27183,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CN,US,KH,,3,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CN,US,VN,,3,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CO,US,XX,,16,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CW,US,VN,,25,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CW,US,XX,,20,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CZ,US,KH,3,,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CA,CN,20281.6,3337.1,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CA,CN,555.64,496.64,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CA,DE,,537,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CA,DE,537,,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CA,KH,113.35,144,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CA,MU,,30,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CA,MU,,112.5,specimens,g,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CA,MU,,10.95,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CA,MU,51.90,40.95,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CH,CN,29.3,,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CH,CN,1535,,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CH,IL,1272,,specimens,g,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CH,IL,14.4,,specimens,kg,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CH,MU,33919,,specimens,g,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CH,MU,22.2,,specimens,kg,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CH,MU,10,,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CH,PH,43114,,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CH,US,,0.5,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CN,,992,,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CN,,1258.2,,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,JP,KH,0.8,8.48,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,MU,,21,,live,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,CN,55.2,17,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,CN,3636,300,specimens,mg,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,CN,2398.15,2182,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,CN,,140,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,CN,139,,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,KH,27.75,28,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,KH,1011.2,1036,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,KH,,12,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,KH,12,,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,MU,787.5,736,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,MU,1189.38,1241,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,MU,,112,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,MU,,368,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,MU,288,,specimens,,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,VN,464,,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,,46.96,16,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,,36,,specimens,mg,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,,418.6,272,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,,,11,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,,11,,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DK,CH,MU,,71,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DK,CH,MU,,29,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DK,CH,,7,,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DK,CH,,4,,specimens,,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DK,US,CN,,62,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DK,US,,55,4,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ES,MU,,2028,1944,live,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ES,US,CN,,351,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ES,US,CN,1053,,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ES,US,VN,,855,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ES,US,VN,1557,,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ES,US,XX,,702,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ES,VN,,692,,live,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,CA,CN,632.20,651.50,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,CA,KH,41.3,,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,CA,MU,,17667.79,specimens,g,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,CA,MU,17.66779,,specimens,kg,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,CH,MU,,77.8,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,CH,MU,,38.9,specimens,g,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,CH,MU,0.025933334,,specimens,kg,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,CH,MU,0.012966667,,specimens,kg,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,CN,,0.4911,,specimens,kg,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,IL,FR,,8.1,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,IL,MU,0.0081,,specimens,kg,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,JP,KH,6,,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,MU,,1015,,live,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,MU,,195,,live,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,MU,,,1009,live,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,MU,,,171,live,,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,MU,,1.22482,,specimens,kg,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,MU,,,108,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,CN,,13,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,CN,0.032299999,,specimens,kg,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,CN,1364.2403,1457,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,CN,2206,2693,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,ID,1,,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,KH,,112,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,KH,0.142059999,,specimens,kg,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,KH,353.2799,16,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,KH,0.5,,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,KH,,128,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,KH,,1,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,MU,50,45,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,MU,279,,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,MU,,40,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,MU,,10,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,,22.5,8,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,,,355,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,VN,,420,,live,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,CA,CN,,187.7,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,CA,CN,3595.5,9.4,specimens,kg,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,CA,CN,166.95,357.35,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,CA,CN,376,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,CA,MU,311.2,,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,CH,MU,30,30,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,CH,MU,1093,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,CH,MU,507,,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,MU,,1168,,live,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,MU,,,1196,live,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,MU,,24090,24074,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,MU,,33,,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,MU,,,10,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,CN,881.20,36,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,CN,857.50,468,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,CN,80,,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,CN,1780,1740,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,ID,,2,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,KH,44,,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,KH,217.30,338,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,KH,120,,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,KH,241,239,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,MU,13.2,14,specimens,g,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,MU,138.2,138,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,MU,182,182,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,MU,130,130,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,VN,,2,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,,6488,6420,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,VN,,268,,live,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GH,ZA,VN,,5,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GT,US,VN,,2,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GY,US,CN,,1,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GY,US,VN,,2,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GY,US,XX,,1,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IL,FR,MU,,0.0081,specimens,kg,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IL,US,MU,,410,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IN,CA,CN,,66.5,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IN,CA,KH,,25,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IN,ES,VN,,922.5,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IN,FR,VN,,1.85603,specimens,kg,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IN,FR,VN,,112.25,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IN,US,CN,,69,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IN,US,MU,,8438,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IN,US,VN,,24,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IN,US,XX,,4,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IN,US,,,1811,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IT,US,CN,21665,,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IT,US,KH,25651,,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IT,US,VN,6055,,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IT,US,,,54,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IT,US,,,10404,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,CA,KH,111.35,199.8,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,CA,KH,12.15,24.5,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,CA,KH,,1,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,CA,,1.5,,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,CA,,1.5,,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,DE,CN,2,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,DE,CN,,2,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,ES,VN,200,200,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,FR,MU,2.4,,specimens,g,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,FR,MU,3,3,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,FR,VN,2.4,,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,GB,VN,451,451,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,US,CN,908.84,3562,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,US,CN,637,602,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,US,KH,321.9,324,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,US,KH,,8,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,US,KH,17,9,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,US,MU,1,40,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,US,MU,15,8,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,US,PH,,384,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,US,VN,49,49,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,US,,2203,,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KP,FR,MU,,13.05,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KP,FR,MU,,13.05,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,CA,KH,,1273.1,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,CA,KH,,114,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,DE,CN,10,10,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,FR,MU,52,,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,GB,VN,26,,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,JP,CN,948,236.7,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,KH,,540,,live,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,KH,,,540,live,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,KH,,,290,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,US,CN,1092,92,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,US,CN,,96,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,US,KH,2,1,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,US,MU,,1056,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,US,MU,,73,specimens,g,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,US,MU,1636,211,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,US,MU,662,22,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,US,VN,,1,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,US,XX,,6,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,US,,200,,extract,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,US,,2220,1488,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,VN,,553,,live,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KW,US,CN,,1133,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,LB,US,CN,,44,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,LB,US,VN,,0.002,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,LB,US,VN,,34,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,LB,US,XX,,633,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,MW,ZA,VN,,4,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,MX,US,CN,,215,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,MX,US,VN,,288,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,MX,US,XX,,925,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,MY,US,VN,,3,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NA,US,AR,,9,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NA,US,CN,,164,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NA,US,CN,,235,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NA,US,CN,,1234,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NA,US,KH,,5,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NA,US,MU,,1,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NA,US,VN,,2392,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NA,US,XX,,21,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NA,ZA,VN,,2,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NG,ZA,VN,,20,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NG,ZA,VN,,30,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,CA,CN,,58.2,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,CA,CN,0.3502,,specimens,kg,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,CA,CN,130,14,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,CA,KH,65,65,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,CA,MU,12.8,12.8,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,CN,,18.9,,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,US,CN,,23,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,US,CN,0.0225,,specimens,kg,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,US,CN,1269.5,2704,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,US,CN,,250,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,US,CN,68,,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,US,KH,156,240,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,US,MU,110,,specimens,,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,VN,,,800,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NO,GB,MU,,999,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NO,GB,MU,560,560,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NZ,AU,,360,480,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NZ,US,CN,,152,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NZ,US,CN,185,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NZ,US,,60,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,OM,US,CN,,1,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,OM,US,XX,,34,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,PA,US,CN,,11,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,PA,US,VN,,4,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,PA,US,XX,,8,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,PH,US,CN,,87,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,PH,US,VN,,52,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,PH,US,XX,,54,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,PL,CA,CN,,98.88,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,PY,US,CN,,15,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,PY,US,VN,,13,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,PY,US,XX,,12,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,QA,US,VN,,12,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,RS,US,CN,,1,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,RU,US,CN,,18,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,RU,US,VN,,16,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,RU,US,XX,,4,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SA,US,CN,,42,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SA,US,CN,42,,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SA,US,VN,40,354,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SA,US,VN,40,,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SA,US,XX,,148,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SE,CA,KH,,304,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SE,CA,KH,,40,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SE,KR,VN,,528,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SG,US,CN,118,52,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SG,US,VN,63,14,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SG,US,XX,,76,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SG,VN,,,20,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SV,US,XX,,8,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SZ,ZA,VN,,1,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,TH,US,CN,,13,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,TH,US,VN,,5,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,TN,US,CN,,27,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,TN,US,VN,,25,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,TN,US,XX,,24,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,TR,US,CN,,14,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,TR,US,CN,14,,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,TW,KR,KH,,20,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,TW,US,CN,,360,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,TW,US,KH,,180,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,TW,US,VN,,250,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,TW,US,XX,,950,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,AU,CN,100,,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,AU,CN,230,,specimens,ml,M,I
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,CN,,24,bones,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,CN,48688,29767.96,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,CN,1233,1625.90,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,CN,350,43314,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,CO,,5,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,DE,2,1.51,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,KH,1200,967.41,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,KH,1576,2364.03,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,KH,,26474,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,MU,,137.25,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,MU,,77.25,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,MU,,3440,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,MU,,8189,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,US,,4256,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,VN,,15855,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,XX,,2,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CH,CN,1201,1212,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CH,KH,,29.25,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CH,MU,,4.2,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CH,MU,,2.1,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CH,US,6,,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CN,,291,,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CN,,479,,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CN,,358,,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CN,,3492,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,CN,,12,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,MU,880,0.646,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,MU,49,48.832,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,MU,6757,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,MU,476,,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,MU,,6390,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,MU,,2446,specimens,,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,VN,33,,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,VN,3832,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,VN,,17496,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,,24,,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,,473,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,,,643,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DK,MU,,3.211,medicine,g,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,ES,MU,80,80,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,ES,MU,,48,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,ES,VN,84,284,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,ES,VN,,2612,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,CN,16,,specimens,g,M,I
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,CN,,2.795,specimens,kg,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,CN,20,,specimens,ml,M,I
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,CN,670,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,MU,848,,specimens,g,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,MU,,0.771504764,specimens,kg,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,MU,,6.953195243,specimens,kg,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,MU,75,164.4571420,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,MU,36,292.3428565,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,MU,,592,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,MU,3684,2369,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,PH,,2.55,specimens,kg,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,PH,2000,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,VN,,0.0008,specimens,kg,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,VN,195,195,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,CN,,44,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,MU,140,66,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,MU,2796,6341,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,MU,1526,1051,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,MU,20,,specimens,Number of specimens,M,I
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,VN,26,72.50,specimens,g,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,VN,,0.03,specimens,kg,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,VN,99,459.875,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,VN,2431,3336,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,VN,391,,specimens,Number of specimens,M,I
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,,45,,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,JP,CN,288,,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,JP,KH,16,,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,JP,KH,118,,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,JP,MU,200,200,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,JP,VN,,93.75,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,JP,VN,444,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,KR,KH,134,402,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,KR,VN,,0.154,specimens,kg,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,KR,VN,,608,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,KR,VN,3793,1531,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,MU,,2168,,live,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,MU,,2552,,live,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,MU,,,2426,live,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,MU,,,2523,live,,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,MU,,,279.988,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,MU,,,541.847,specimens,ml,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,MU,,,83,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,MU,,,8,specimens,,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,NA,CN,237,,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,NA,MU,1281,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,NA,VN,162,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,NL,CN,34,360.67,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,NL,CN,73,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,NL,,,2,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,PH,,,350,live,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,PH,,2778,,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,PH,,,2778,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,SE,CN,2,7.5,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,SG,VN,856,856,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,VN,,700,,specimens,ml,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,VN,,,42000,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,VN,,184,,specimens,Number of specimens,M,F
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,XX,IE,CN,,58,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ZA,US,VN,,1510,specimens,Number of specimens,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ZA,US,,1510,,specimens,,M,C
+2020,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ZW,ZA,VN,,5,specimens,,M,C
+2020,II,Macaca fuscata,Mammalia,Primates,Cercopithecidae,Macaca,GB,JP,,,2,specimens,Number of specimens,M,C
+2020,II,Macaca fuscata,Mammalia,Primates,Cercopithecidae,Macaca,GB,JP,,,2,specimens,Number of specimens,M,F
+2020,II,Macaca fuscata,Mammalia,Primates,Cercopithecidae,Macaca,NL,JP,XX,,4,derivatives,Number of specimens,E,O
+2020,II,Macaca fuscata,Mammalia,Primates,Cercopithecidae,Macaca,NL,JP,XX,4,,skins,,E,O
+2020,II,Macaca maura,Mammalia,Primates,Cercopithecidae,Macaca,JP,US,,8,,specimens,ml,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,AU,GB,XX,,2,specimens,ml,M,O
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,AU,GB,,100,,specimens,Number of specimens,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,AU,US,,8,,specimens,ml,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CA,GB,XX,,2,specimens,Number of specimens,M,O
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CA,JP,CN,,5,specimens,ml,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CA,NL,,,240,specimens,,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CA,SE,CN,,24.5,specimens,ml,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,CN,,40,live,Number of specimens,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,,,102,specimens,ml,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CH,CA,CN,3.26,3.26,specimens,g,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CH,CA,CN,,70.90,specimens,ml,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,FR,173,,specimens,Number of specimens,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,FR,24,,specimens,Number of specimens,M,F
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,,,222,specimens,,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,,,24,specimens,,M,F
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,CN,2978,2978,specimens,ml,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,,,40,specimens,ml,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CN,US,CN,200,200,specimens,ml,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CN,US,,10,,specimens,ml,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CY,US,,,920,specimens,g,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CY,US,,0.5,,specimens,kg,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,CN,6,,specimens,,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,,,20,specimens,g,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,,128.45,109,specimens,ml,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,,,60,specimens,Number of specimens,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,,60,,specimens,,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,DK,CA,CN,,2.37,specimens,g,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,DK,CA,CN,,63.51,specimens,ml,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,ES,US,,7,,specimens,,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,FR,CA,CN,284,149,specimens,ml,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,GB,TH,,,14,specimens,Number of specimens,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,,1,,specimens,ml,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,,500,,specimens,Number of specimens,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,,10,,specimens,Number of specimens,M,F
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,JP,US,CN,24,10,specimens,ml,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,JP,US,,27,,specimens,ml,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,KR,TH,,3261,,specimens,ml,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,KR,TH,,3261,3261,specimens,Number of specimens,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,KZ,RU,,,5,live,,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,NA,US,CN,,10,specimens,ml,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,NL,CA,CN,2022.5,2243.50,specimens,ml,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,NL,US,,276,367,specimens,ml,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,NL,US,,,1815,specimens,Number of specimens,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,NL,US,,1743,,specimens,,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,UG,GB,US,,4,specimens,Number of specimens,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,CN,39,39,live,Number of specimens,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,CN,536,32396.5,specimens,g,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,CN,672,1580.79,specimens,ml,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,CN,336,,specimens,Number of specimens,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,XX,,11,specimens,ml,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,CN,35,36,specimens,ml,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,,18,,specimens,ml,M,F
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,XX,,5,specimens,Number of specimens,M,O
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,NA,CN,92,,specimens,ml,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,NL,CN,48,,specimens,Number of specimens,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,NL,CN,,48,specimens,,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,NL,,143,,specimens,Number of specimens,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,NL,,,502,specimens,,M,C
+2020,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,TH,,3095,3095,specimens,Number of specimens,M,C
+2020,II,Macaca nemestrina,Mammalia,Primates,Cercopithecidae,Macaca,US,IT,US,738,,specimens,Number of specimens,B,F
+2020,II,Papio anubis,Mammalia,Primates,Cercopithecidae,Papio,AU,US,,40,,specimens,ml,M,C
+2020,II,Papio anubis,Mammalia,Primates,Cercopithecidae,Papio,AU,US,,,18,specimens,ml,M,F
+2020,II,Papio anubis,Mammalia,Primates,Cercopithecidae,Papio,CA,US,,,52,specimens,ml,M,F
+2020,II,Papio anubis,Mammalia,Primates,Cercopithecidae,Papio,DE,US,,33,,specimens,,M,F
+2020,II,Papio hamadryas,Mammalia,Primates,Cercopithecidae,Papio,DE,AU,,60,,specimens,,M,C
+2020,II,Papio hamadryas,Mammalia,Primates,Cercopithecidae,Papio,ES,ZA,,1,,trophies,,H,F
+2020,II,Papio hamadryas,Mammalia,Primates,Cercopithecidae,Papio,US,AU,,,72,specimens,Number of specimens,M,C
+2020,II,Papio hybrid,Mammalia,Primates,Cercopithecidae,Papio,CA,US,,,67,specimens,ml,M,F
+2020,II,Papio hybrid,Mammalia,Primates,Cercopithecidae,Papio,DE,US,,29,,specimens,,M,F
+2020,II,Papio hybrid,Mammalia,Primates,Cercopithecidae,Papio,PL,US,,3,,specimens,,M,F
+2020,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,5,,trophies,Number of specimens,H,I
+2020,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,,2,trophies,,H,C
+2020,II,Cetorhinus maximus,Elasmobranchii,Lamniformes,Cetorhinidae,Cetorhinus,CA,IT,XX,,1,bones,,E,O
+2020,II,Rieppeleon brevicaudatus,Reptilia,Sauria,Chamaeleonidae,Rieppeleon,DE,JE,,10,,live,Number of specimens,B,C
+2020,II,Ptyas mucosus,Reptilia,Serpentes,Colubridae,Ptyas,BE,CH,NL,5,5,bodies,Number of specimens,E,C
+2020,II,Gallicolumba luzonica,Aves,Columbiformes,Columbidae,Gallicolumba,NO,DK,,2,,live,Number of specimens,B,C
+2020,II,Goura victoria,Aves,Columbiformes,Columbidae,Goura,LK,PH,,2,,live,Number of specimens,B,C
+2020,II,Crocodylus spp.,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,AU,,1,,leather products (small),Number of specimens,M,I
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,AU,ZM,,,1,trophies,Number of specimens,H,C
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,BE,TN,,,15,bodies,,E,C
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,BE,TN,,,4,specimens,,E,C
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,BE,ZA,,,1,derivatives,,H,C
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,CA,ZA,,,1,trophies,,H,C
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,CN,ZA,,2,,bodies,Number of specimens,E,C
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,CN,ZA,,,4,trophies,,E,C
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,IT,ZA,,,442,skins,,H,C
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,JP,ZA,,,1000,skin pieces,,H,C
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,KR,ZA,,,2140,skin pieces,,H,C
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,MZ,ZA,,,8,live,,B,C
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,NL,ZA,,,1,derivatives,,H,C
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,PL,ZA,,,1,skins,,H,C
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,PL,ZA,,,22,skin pieces,,H,C
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,PL,ZA,,,1,trophies,,H,C
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,RU,ZA,,,2,trophies,,H,C
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,SK,ZA,,,2000,skin pieces,,H,C
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,UA,ZA,,,1,skins,,H,C
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,ZA,,,1,derivatives,,H,C
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,ZA,,1,,trophies,Number of specimens,H,C
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,ZA,,1,,trophies,Number of specimens,H,I
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,ZA,,,2,trophies,,H,C
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,ZA,MZ,,2,,trophies,,H,C
+2020,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,ZA,MZ,,1,,trophies,,H,F
+2020,II,Tursiops truncatus,Mammalia,Cetacea,Delphinidae,Tursiops,NL,JP,,,1,specimens,Number of specimens,M,O
+2020,II,Tursiops truncatus,Mammalia,Cetacea,Delphinidae,Tursiops,VN,RU,,,1,live,,B,F
+2020,II,Adelphobates galactonotus,Amphibia,Anura,Dendrobatidae,Adelphobates,BR,US,BR,,21,live,Number of specimens,L,I
+2020,II,Phyllobates terribilis,Amphibia,Anura,Dendrobatidae,Phyllobates,HK,FR,CO,,0.00000005,specimens,kg,M,O
+2020,II,Duncanopsammia axifuga,Anthozoa,Scleractinia,Dendrophylliidae,Duncanopsammia,LK,AU,,400,,live,,B,C
+2020,II,Duncanopsammia axifuga,Anthozoa,Scleractinia,Dendrophylliidae,Duncanopsammia,LK,VN,,1500,,live,,B,C
+2020,II,Naja atra,Reptilia,Serpentes,Elapidae,Naja,KR,FR,,,0.0001,derivatives,kg,M,O
+2020,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,AU,FR,DE,,0.000002,derivatives,kg,M,C
+2020,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,CA,US,,,11,specimens,ml,M,O
+2020,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,CH,US,XX,15,,venom,ml,M,O
+2020,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,CH,US,,,15,specimens,ml,M,O
+2020,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,CN,US,,,30,specimens,ml,M,O
+2020,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,HK,US,XX,,1,specimens,ml,M,O
+2020,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,IT,US,XX,2,2,specimens,ml,M,O
+2020,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,JP,US,XX,1,,specimens,ml,M,O
+2020,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,JP,US,,,1,specimens,ml,M,O
+2020,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,KR,FR,DE,,0.0001,derivatives,kg,M,C
+2020,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,KR,US,,,23,specimens,ml,M,O
+2020,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,TH,FR,DE,,0.000002,derivatives,kg,M,C
+2020,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,TW,FR,DE,,0.0052,derivatives,kg,M,C
+2020,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,TW,US,,,1,specimens,ml,M,O
+2020,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,US,FR,DE,,0.000001,derivatives,kg,M,C
+2020,II,Naja naja,Reptilia,Serpentes,Elapidae,Naja,KR,FR,DE,,0.0001,derivatives,kg,M,C
+2020,II,Naja siamensis,Reptilia,Serpentes,Elapidae,Naja,KR,FR,DE,,0.0001,derivatives,kg,M,O
+2020,II,Naja sputatrix,Reptilia,Serpentes,Elapidae,Naja,TW,FR,,,0.0002,derivatives,kg,M,C
+2020,II,Ophiophagus hannah,Reptilia,Serpentes,Elapidae,Ophiophagus,US,CN,XX,8,,medicine,Number of specimens,M,I
+2020,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,ZA,,,6,tusks,,H,F
+2020,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,ZA,,,1,trophies,,E,C
+2020,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MX,DE,,1,,ivory carvings,Number of specimens,E,O
+2020,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,NA,,1,,skins,Number of specimens,H,I
+2020,II,Euphorbia poissonii,,Euphorbiales,Euphorbiaceae,Euphorbia,US,IT,,,528,specimens,,M,A
+2020,II,Euphorbia resinifera,,Euphorbiales,Euphorbiaceae,Euphorbia,CH,DE,,,39.7,wax,kg,M,A
+2020,II,Euphorbia resinifera,,Euphorbiales,Euphorbiaceae,Euphorbia,US,FR,IT,,0.00003992,medicine,kg,M,A
+2020,II,Cryptoprocta ferox,Mammalia,Carnivora,Eupleridae,Cryptoprocta,AT,AE,GB,,1,skins,Number of specimens,E,C
+2020,II,Falco cherrug,Aves,Falconiformes,Falconidae,Falco,AE,KG,RU,,42,live,,E,C
+2020,II,Falco cherrug,Aves,Falconiformes,Falconidae,Falco,AE,KZ,DE,30,,live,Number of specimens,B,C
+2020,II,Falco cherrug,Aves,Falconiformes,Falconidae,Falco,AE,KZ,DE,1,,live,Number of specimens,B,D
+2020,II,Falco cherrug,Aves,Falconiformes,Falconidae,Falco,BG,QA,AT,4,,live,,B,C
+2020,II,Falco cherrug,Aves,Falconiformes,Falconidae,Falco,BG,QA,GB,,1,live,Number of specimens,B,C
+2020,II,Falco cherrug,Aves,Falconiformes,Falconidae,Falco,BH,GE,CZ,,5,live,Number of specimens,B,C
+2020,II,Falco cherrug,Aves,Falconiformes,Falconidae,Falco,BH,GE,GB,,1,live,Number of specimens,B,C
+2020,II,Falco cherrug,Aves,Falconiformes,Falconidae,Falco,BH,GE,SK,,2,live,Number of specimens,B,C
+2020,II,Falco cherrug,Aves,Falconiformes,Falconidae,Falco,KG,AE,MA,,2,live,Number of specimens,B,C
+2020,II,Falco cherrug,Aves,Falconiformes,Falconidae,Falco,KG,AE,RU,,2,live,Number of specimens,B,C
+2020,II,Falco cherrug,Aves,Falconiformes,Falconidae,Falco,KZ,AE,BE,,2,live,Number of specimens,B,C
+2020,II,Falco cherrug,Aves,Falconiformes,Falconidae,Falco,KZ,AE,CZ,,1,live,Number of specimens,B,C
+2020,II,Falco cherrug,Aves,Falconiformes,Falconidae,Falco,KZ,AE,GB,,9,live,Number of specimens,B,C
+2020,II,Falco cherrug,Aves,Falconiformes,Falconidae,Falco,KZ,AE,GB,,1,live,Number of specimens,B,D
+2020,II,Falco cherrug,Aves,Falconiformes,Falconidae,Falco,KZ,AE,MA,,34,live,Number of specimens,B,C
+2020,II,Falco cherrug,Aves,Falconiformes,Falconidae,Falco,KZ,AE,RU,,3,live,Number of specimens,B,C
+2020,II,Falco tinnunculus,Aves,Falconiformes,Falconidae,Falco,JP,NL,XX,1,,bodies,Number of specimens,E,O
+2020,II,Falco tinnunculus,Aves,Falconiformes,Falconidae,Falco,JP,NL,XX,,1,bodies,,E,O
+2020,II,Caulastraea furcata,Anthozoa,Scleractinia,Faviidae,Caulastraea,LK,VN,,1500,,live,,B,C
+2020,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,RU,ZA,,,1,trophies,,H,C
+2020,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,4,,live,Number of specimens,B,C
+2020,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,,4,live,,B,C
+2020,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,,1,trophies,,H,C
+2020,II,Felidae hybrid,Mammalia,Carnivora,Felidae,,ES,ZW,,2,,trophies,,H,F
+2020,II,Felis chaus,Mammalia,Carnivora,Felidae,Felis,US,GB,,,1,live,Number of specimens,B,C
+2020,II,Herpailurus yagouaroundi,Mammalia,Carnivora,Felidae,Herpailurus,ZA,SG,,4,,live,,B,C
+2020,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,CN,ZA,,,1,trophies,,E,C
+2020,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,GB,CA,,,1,live,Number of specimens,B,F
+2020,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,IN,ZA,,,4,live,,B,C
+2020,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,MY,ZA,,,6,live,,B,C
+2020,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,NO,ZA,,1,,trophies,Number of specimens,H,C
+2020,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,UG,ZA,,1,1,live,,B,C
+2020,II,Lynx lynx,Mammalia,Carnivora,Felidae,Lynx,CH,DE,,1,,live,Number of specimens,B,F
+2020,II,Lynx lynx,Mammalia,Carnivora,Felidae,Lynx,CH,DE,,,1,live,,B,F
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,AR,ZA,,2,,trophies,Number of specimens,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,AR,ZA,,,4,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,AT,ZA,,6,4,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BD,ZA,,,4,live,,B,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BE,ZA,,,2,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BG,ZA,,,2,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BR,ZA,,8,,trophies,Number of specimens,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BR,ZA,,,1,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CA,ZA,,,1,skulls,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CA,ZA,,,18,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CH,ZA,,2,,trophies,Number of specimens,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CN,ZA,,4,,bodies,Number of specimens,E,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CN,ZA,,1,,bodies,Number of specimens,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CN,ZA,,,10,trophies,,E,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CN,ZA,,,5,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CR,ZA,,1,,trophies,Number of specimens,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CR,ZA,,,2,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CZ,ZA,,7,6,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,DE,ZA,,1,,skins,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,DE,ZA,,12,14,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,DK,ZA,,48,9,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,EE,ZA,,3,3,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,ES,ZA,,8,8,skins,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,ES,ZA,,2,,skulls,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,ES,ZA,,35,66,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,FI,ZA,,9,4,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,FR,ZA,,,1,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,GB,ZA,,4,,trophies,Number of specimens,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,GB,ZA,,,4,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,HR,ZA,,1,1,skins,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,HR,ZA,,,2,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,HU,ZA,,29,18,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,IT,ZA,,1,6,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,KW,ZA,,1,1,bodies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,KW,ZA,,,2,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,KZ,ZA,,,12,teeth,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,KZ,ZA,,,3,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,MX,ZA,,8,,bones,Number of specimens,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,MX,ZA,,1,,fur products (large),Number of specimens,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,MX,ZA,,33,,trophies,Number of specimens,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,MX,ZA,,,19,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,MY,ZA,,,2,live,,B,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,NA,ZA,,,5,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,NG,ZA,,,2,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,NO,DK,ZA,2,,trophies,Number of specimens,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,NO,ZA,,20,,claws,Number of specimens,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,NO,ZA,,,10,claws,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,NO,ZA,,1,,rug,Number of specimens,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,NO,ZA,,1,,skins,Number of specimens,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,NO,ZA,,4,,trophies,Number of specimens,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,NO,ZA,,,2,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,NZ,ZA,,,2,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,PH,ZA,,,1,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,PL,ZA,,24,33,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,QA,ZA,,,2,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,RO,ZA,,1,1,skins,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,RO,ZA,,3,,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,RU,ZA,,,22,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,SA,ZA,,,1,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,SA,ZA,,,2,trophies,,H,F
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,SE,ZA,,2,2,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,SK,ZA,,4,8,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,TH,ZA,,,6,live,,B,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,TN,ZA,,,1,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,TR,ZA,,1,1,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,TZ,ZA,,,1,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,UA,ZA,,,3,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,UG,ZA,,,4,live,,B,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,US,CA,,,1,live,Number of specimens,L,F
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,US,CA,,,1,live,Number of specimens,L,I
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,US,ZA,,,1,skins,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,US,ZA,,,10,trophies,,H,C
+2020,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,US,ZA,,,1,trophies,,H,F
+2020,II,Prionailurus viverrinus,Mammalia,Carnivora,Felidae,Prionailurus,AT,AE,NL,,1,skins,Number of specimens,E,C
+2020,II,Puma concolor,Mammalia,Carnivora,Felidae,Puma,AT,AR,,1,,trophies,,H,C
+2020,II,Puma concolor,Mammalia,Carnivora,Felidae,Puma,AU,AR,,1,1,trophies,Number of specimens,H,C
+2020,II,Puma concolor,Mammalia,Carnivora,Felidae,Puma,DE,AR,,,2,trophies,Number of specimens,H,C
+2020,II,Puma concolor,Mammalia,Carnivora,Felidae,Puma,DE,AR,,1,,trophies,,H,C
+2020,II,Puma concolor,Mammalia,Carnivora,Felidae,Puma,US,AR,,1,1,trophies,Number of specimens,H,C
+2020,II,Puma concolor couguar,Mammalia,Carnivora,Felidae,Puma,US,AR,,1,,trophies,Number of specimens,H,C
+2020,II,Galago moholi,Mammalia,Primates,Galagidae,Galago,TH,ZA,,36,,live,,B,C
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,AT,ZA,,,1,trophies,,H,O
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,AU,NA,,,1,trophies,Number of specimens,H,O
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,AU,ZA,,,6,trophies,,H,O
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,CN,HU,NA,1,,trophies,Number of specimens,H,O
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,CN,HU,NA,,1,trophies,,H,O
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,DE,CH,,1,,live,,B,C
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,FR,ZA,,,2,skins,,H,O
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,HU,ZA,ZW,4,,trophies,,H,O
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,ML,SN,,,2,live,,B,C
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,ML,SN,,,6,live,,B,D
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,PH,ZA,,,1,trophies,,H,C
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,RU,ZA,,,1,trophies,,H,F
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,SA,HU,ZW,,1,trophies,,H,O
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,CA,ZW,,2,skin pieces,Number of specimens,H,O
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,35,,hair products,Number of specimens,H,I
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,73,,skin pieces,kg,H,D
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,2,,skin pieces,Number of specimens,H,I
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,1,,trophies,Number of specimens,H,O
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,,4,trophies,,H,O
+2020,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZM,,,1,trophies,Number of specimens,H,C
+2020,II,Glaucostegus halavi,Elasmobranchii,Rhinopristiformes,Glaucostegidae,Glaucostegus,AE,HK,,3,,fins,Number of specimens,E,O
+2020,II,Glaucostegus halavi,Elasmobranchii,Rhinopristiformes,Glaucostegidae,Glaucostegus,HK,AE,,3,3,fins,Number of specimens,E,O
+2020,II,Heloderma horridum,Reptilia,Sauria,Helodermatidae,Heloderma,US,CR,,,13,live,Number of specimens,B,C
+2020,II,Hexaprotodon liberiensis,Mammalia,Artiodactyla,Hippopotamidae,Hexaprotodon,AT,AE,ZA,,2,skins,Number of specimens,E,C
+2020,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,EE,ZA,,1,,trophies,,H,C
+2020,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,NA,,1,,skin pieces,Number of specimens,H,I
+2020,II,Hirudo medicinalis,Hirudinoidea,Arhynchobdellida,Hirudinidae,Hirudo,US,FR,,45100,,live,Number of specimens,B,C
+2020,II,Hirudo medicinalis,Hirudinoidea,Arhynchobdellida,Hirudinidae,Hirudo,US,UA,FR,8800,,live,Number of specimens,B,C
+2020,II,Hirudo medicinalis,Hirudinoidea,Arhynchobdellida,Hirudinidae,Hirudo,UZ,AZ,,150000,,live,,B,C
+2020,II,Hirudo verbana,Hirudinoidea,Arhynchobdellida,Hirudinidae,Hirudo,US,TR,,10,,live,kg,E,I
+2020,II,Conolophus subcristatus,Reptilia,Sauria,Iguanidae,Conolophus,JP,UG,,1,,live,Number of specimens,B,C
+2020,II,Conolophus subcristatus,Reptilia,Sauria,Iguanidae,Conolophus,SE,UG,,,2,live,,B,C
+2020,II,Conolophus subcristatus,Reptilia,Sauria,Iguanidae,Conolophus,TH,UG,,2,4,live,,B,C
+2020,II,Isurus oxyrinchus,Elasmobranchii,Lamniformes,Lamnidae,Isurus,AE,HK,,3,,fins,Number of specimens,E,O
+2020,II,Isurus oxyrinchus,Elasmobranchii,Lamniformes,Lamnidae,Isurus,HK,AE,,3,3,fins,Number of specimens,E,O
+2020,II,Isurus oxyrinchus,Elasmobranchii,Lamniformes,Lamnidae,Isurus,MA,AE,,,3,fins,Number of specimens,E,O
+2020,II,Dalbergia baronii,,Fabales,Leguminosae,Dalbergia,NL,CA,XX,,1,wood product,Number of specimens,L,I
+2020,II,Dalbergia latifolia,,Fabales,Leguminosae,Dalbergia,US,DE,XX,,6,wood product,,L,I
+2020,II,Guibourtia spp.,,Fabales,Leguminosae,Guibourtia,SG,HK,XX,98.6,,specimens,g,L,I
+2020,II,Aloe arborescens,,Liliales,Liliaceae,Aloe,KR,CN,,,4000,extract,kg,M,A
+2020,II,Chalcopsitta atra,Aves,Psittaciformes,Loriidae,Chalcopsitta,CN,NL,,1,,bodies,Number of specimens,E,C
+2020,II,Chalcopsitta atra,Aves,Psittaciformes,Loriidae,Chalcopsitta,ID,PH,,,3,live,,L,I
+2020,II,Eos rubra,Aves,Psittaciformes,Loriidae,Eos,ID,PH,,,3,live,,L,I
+2020,II,Glossopsitta concinna,Aves,Psittaciformes,Loriidae,Glossopsitta,LK,KW,,2,,live,Number of specimens,B,C
+2020,II,Lorius lory,Aves,Psittaciformes,Loriidae,Lorius,ID,PH,,,11,live,,L,I
+2020,II,Trichoglossus haematodus,Aves,Psittaciformes,Loriidae,Trichoglossus,ID,PH,,,1,live,,L,I
+2020,II,Meliaceae spp.,,Sapindales,Meliaceae,,RU,NL,XX,,2,wood product,,E,O
+2020,II,Acanthastrea amakusensis,Anthozoa,Scleractinia,Mussidae,Acanthastrea,LK,AU,,300,,live,Number of specimens,B,C
+2020,II,Scolymia australis,Anthozoa,Scleractinia,Mussidae,Scolymia,LK,AU,,300,,live,,B,C
+2020,II,Galaxea astreata,Anthozoa,Scleractinia,Oculinidae,Galaxea,LK,VN,,750,,live,,B,C
+2020,II,Bletilla striata,,Orchidales,Orchidaceae,Bletilla,US,JP,,,4,live,Number of specimens,G,A
+2020,II,Bulbophyllum biflorum,,Orchidales,Orchidaceae,Bulbophyllum,TW,JP,,,4,live,Number of specimens,G,A
+2020,II,Cattleya alaorii,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,2,live,Number of specimens,G,A
+2020,II,Cattleya amethystoglossa,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,2,live,Number of specimens,G,A
+2020,II,Cattleya bicolor,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,1,live,Number of specimens,G,A
+2020,II,Cattleya blumenscheinii,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,3,live,Number of specimens,G,A
+2020,II,Cattleya caulescens,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,5,live,Number of specimens,G,A
+2020,II,Cattleya crispa,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,8,live,Number of specimens,G,A
+2020,II,Cattleya crispata,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,2,live,Number of specimens,G,A
+2020,II,Cattleya fidelensis,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,6,live,Number of specimens,G,A
+2020,II,Cattleya gaskelliana,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,4,live,Number of specimens,G,A
+2020,II,Cattleya granulosa,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,6,live,Number of specimens,G,A
+2020,II,Cattleya hoehnei,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,3,live,Number of specimens,G,A
+2020,II,Cattleya loddigesii,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,1,live,Number of specimens,G,A
+2020,II,Cattleya lueddemanniana,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,4,live,Number of specimens,G,A
+2020,II,Cattleya luteola,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,3,live,Number of specimens,G,A
+2020,II,Cattleya maxima,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,1,live,Number of specimens,G,A
+2020,II,Cattleya nobilior,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,1,live,Number of specimens,G,A
+2020,II,Cattleya percivaliana,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,1,live,Number of specimens,G,A
+2020,II,Cattleya pfisteri,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,3,live,Number of specimens,G,A
+2020,II,Cattleya tigrina,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,4,live,Number of specimens,G,A
+2020,II,Cymbidium aliciae,,Orchidales,Orchidaceae,Cymbidium,TW,JP,,,4,live,Number of specimens,G,A
+2020,II,Cymbidium canaliculatum,,Orchidales,Orchidaceae,Cymbidium,TW,JP,,,52,live,Number of specimens,G,A
+2020,II,Encyclia diurna,,Orchidales,Orchidaceae,Encyclia,TW,JP,,,3,live,Number of specimens,G,A
+2020,II,Encyclia rufa,,Orchidales,Orchidaceae,Encyclia,TW,JP,,,3,live,Number of specimens,G,A
+2020,II,Gastrodia elata,,Orchidales,Orchidaceae,Gastrodia,KR,CN,,,500,roots,Number of specimens,B,A
+2020,II,Gastrodia elata,,Orchidales,Orchidaceae,Gastrodia,US,CN,XX,10,,medicine,Number of specimens,M,I
+2020,II,Guarianthe bowringiana,,Orchidales,Orchidaceae,Guarianthe,TW,JP,,,3,live,Number of specimens,G,A
+2020,II,Laelia superbiens,,Orchidales,Orchidaceae,Laelia,TW,JP,,,1,live,Number of specimens,G,A
+2020,II,Oncidium baueri,,Orchidales,Orchidaceae,Oncidium,TW,JP,,,5,live,Number of specimens,G,A
+2020,II,Orchidaceae spp.,,Orchidales,Orchidaceae,,TW,JP,,,3,derivatives,Number of specimens,G,A
+2020,II,Orchidaceae spp.,,Orchidales,Orchidaceae,,TW,JP,,,123,live,Number of specimens,G,A
+2020,II,Orchidaceae spp.,,Orchidales,Orchidaceae,,US,JP,,,6,live,Number of specimens,G,A
+2020,II,Orchidaceae hybrid,,Orchidales,Orchidaceae,,FR,TH,,100,,cultures,Number of specimens,G,A
+2020,II,Phalaenopsis hybrid,,Orchidales,Orchidaceae,Phalaenopsis,KR,CN,,26292,,live,Number of specimens,B,A
+2020,II,Ponerorchis keiskei,,Orchidales,Orchidaceae,Ponerorchis,US,JP,,,1,live,Number of specimens,G,A
+2020,II,Pavo muticus,Aves,Galliformes,Phasianidae,Pavo,MY,ZA,,9,,live,Number of specimens,B,C
+2020,II,Pavo muticus,Aves,Galliformes,Phasianidae,Pavo,MY,ZA,,,18,live,,B,C
+2020,II,Phoenicopterus ruber,Aves,Ciconiiformes,Phoenicopteridae,Phoenicopterus,CN,SG,NL,53,,live,Number of specimens,B,C
+2020,II,Peltocephalus dumerilianus,Reptilia,Testudines,Podocnemididae,Peltocephalus,US,AT,,,9,live,,B,C
+2020,II,Podocnemis spp.,Reptilia,Testudines,Podocnemididae,Podocnemis,CH,FR,XX,1,,feathers,Number of specimens,E,O
+2020,II,Goniopora lobata,Anthozoa,Scleractinia,Poritidae,Goniopora,LK,VN,,750,,live,,B,C
+2020,II,Goniopora stutchburyi,Anthozoa,Scleractinia,Poritidae,Goniopora,LK,VN,,750,,live,,B,C
+2020,II,Agapornis fischeri,Aves,Psittaciformes,Psittacidae,Agapornis,ID,PH,,,35,live,,B,C
+2020,II,Agapornis fischeri,Aves,Psittaciformes,Psittacidae,Agapornis,LK,CZ,,40,,live,Number of specimens,B,C
+2020,II,Agapornis fischeri,Aves,Psittaciformes,Psittacidae,Agapornis,PH,BE,,16,,live,,B,C
+2020,II,Agapornis fischeri,Aves,Psittaciformes,Psittacidae,Agapornis,PK,PH,,,150,live,,B,C
+2020,II,Agapornis fischeri,Aves,Psittaciformes,Psittacidae,Agapornis,UZ,NL,,500,,live,,B,C
+2020,II,Agapornis lilianae,Aves,Psittaciformes,Psittacidae,Agapornis,PH,BE,,10,,live,,B,C
+2020,II,Agapornis nigrigenis,Aves,Psittaciformes,Psittacidae,Agapornis,PH,BE,,15,,live,,B,C
+2020,II,Agapornis personatus,Aves,Psittaciformes,Psittacidae,Agapornis,PH,BE,,34,,live,,B,C
+2020,II,Agapornis personatus,Aves,Psittaciformes,Psittacidae,Agapornis,PK,PH,,,40,live,,B,C
+2020,II,Alisterus scapularis,Aves,Psittaciformes,Psittacidae,Alisterus,LK,CZ,,8,,live,Number of specimens,B,C
+2020,II,Alisterus scapularis,Aves,Psittaciformes,Psittacidae,Alisterus,LK,CZ,,8,,live,,B,C
+2020,II,Amazona aestiva,Aves,Psittaciformes,Psittacidae,Amazona,LK,QA,,4,,live,,B,C
+2020,II,Amazona aestiva,Aves,Psittaciformes,Psittacidae,Amazona,PH,CZ,AT,2,,live,,B,C
+2020,II,Amazona aestiva,Aves,Psittaciformes,Psittacidae,Amazona,PH,CZ,SK,4,,live,,B,C
+2020,II,Amazona aestiva,Aves,Psittaciformes,Psittacidae,Amazona,PH,CZ,,4,,live,,B,C
+2020,II,Amazona aestiva,Aves,Psittaciformes,Psittacidae,Amazona,PH,FR,,8,,live,,B,C
+2020,II,Amazona albifrons,Aves,Psittaciformes,Psittacidae,Amazona,LK,QA,,4,,live,,B,C
+2020,II,Amazona amazonica,Aves,Psittaciformes,Psittacidae,Amazona,CH,FR,XX,1,,feathers,Number of specimens,E,O
+2020,II,Amazona autumnalis,Aves,Psittaciformes,Psittacidae,Amazona,PH,CZ,IT,3,,live,,B,C
+2020,II,Amazona autumnalis,Aves,Psittaciformes,Psittacidae,Amazona,PH,CZ,SE,3,,live,,B,C
+2020,II,Amazona autumnalis,Aves,Psittaciformes,Psittacidae,Amazona,PH,DE,,16,,live,,B,C
+2020,II,Amazona barbadensis,Aves,Psittaciformes,Psittacidae,Amazona,LB,ZA,,,2,live,,B,C
+2020,II,Amazona brasiliensis,Aves,Psittaciformes,Psittacidae,Amazona,PH,CH,,2,,live,,B,C
+2020,II,Amazona dufresniana,Aves,Psittaciformes,Psittacidae,Amazona,PH,FR,,2,,live,,B,C
+2020,II,Amazona farinosa,Aves,Psittaciformes,Psittacidae,Amazona,CH,FR,XX,5,,feathers,Number of specimens,E,O
+2020,II,Amazona xantholora,Aves,Psittaciformes,Psittacidae,Amazona,LK,QA,,4,,live,,B,C
+2020,II,Aprosmictus erythropterus,Aves,Psittaciformes,Psittacidae,Aprosmictus,ZA,NA,,4,,live,,B,C
+2020,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,CH,FR,XX,15,,feathers,Number of specimens,E,O
+2020,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,CH,PT,,2,,live,Number of specimens,B,C
+2020,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,CH,PT,,,2,live,,B,C
+2020,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,LK,PH,,6,,live,Number of specimens,B,C
+2020,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,PH,TH,PH,1,,live,,B,C
+2020,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,PL,CH,,2,,live,,B,C
+2020,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,TH,PH,,5,,live,,B,C
+2020,II,Ara chloropterus,Aves,Psittaciformes,Psittacidae,Ara,CH,FR,XX,16,,feathers,Number of specimens,E,O
+2020,II,Ara chloropterus,Aves,Psittaciformes,Psittacidae,Ara,LK,PH,,6,,live,Number of specimens,B,C
+2020,II,Ara hybrid,Aves,Psittaciformes,Psittacidae,Ara,LB,ZA,,,2,live,,B,C
+2020,II,Ara hybrid,Aves,Psittaciformes,Psittacidae,Ara,LK,CZ,,17,,live,Number of specimens,B,C
+2020,II,Ara hybrid,Aves,Psittaciformes,Psittacidae,Ara,LK,CZ,,8,,live,,B,C
+2020,II,Ara hybrid,Aves,Psittaciformes,Psittacidae,Ara,TH,CZ,DE,6,,live,,B,C
+2020,II,Aratinga aurea,Aves,Psittaciformes,Psittacidae,Aratinga,CH,FR,XX,2,,feathers,Number of specimens,E,O
+2020,II,Aratinga solstitialis,Aves,Psittaciformes,Psittacidae,Aratinga,LK,KW,,17,,live,Number of specimens,B,C
+2020,II,Barnardius zonarius,Aves,Psittaciformes,Psittacidae,Barnardius,LK,CZ,,20,,live,Number of specimens,B,C
+2020,II,Barnardius zonarius,Aves,Psittaciformes,Psittacidae,Barnardius,ZA,NA,,10,,live,,B,C
+2020,II,Cyanoliseus patagonus,Aves,Psittaciformes,Psittacidae,Cyanoliseus,LK,CZ,,10,,live,Number of specimens,B,C
+2020,II,Cyanoliseus patagonus,Aves,Psittaciformes,Psittacidae,Cyanoliseus,LK,CZ,,10,,live,,B,C
+2020,II,Diopsittaca nobilis,Aves,Psittaciformes,Psittacidae,Diopsittaca,PH,BR,,5,,live,,B,C
+2020,II,Eclectus roratus,Aves,Psittaciformes,Psittacidae,Eclectus,ID,PH,,,8,live,,L,I
+2020,II,Forpus conspicillatus,Aves,Psittaciformes,Psittacidae,Forpus,PH,BE,,8,,live,,B,C
+2020,II,Forpus xanthops,Aves,Psittaciformes,Psittacidae,Forpus,PH,BE,,4,,live,,B,C
+2020,II,Lathamus discolor,Aves,Psittaciformes,Psittacidae,Lathamus,LK,CZ,,20,,live,Number of specimens,B,C
+2020,II,Myiopsitta monachus,Aves,Psittaciformes,Psittacidae,Myiopsitta,LK,CZ,,110,,live,Number of specimens,B,C
+2020,II,Myiopsitta monachus,Aves,Psittaciformes,Psittacidae,Myiopsitta,LK,CZ,,20,,live,,B,C
+2020,II,Myiopsitta monachus,Aves,Psittaciformes,Psittacidae,Myiopsitta,LK,QA,,6,,live,,B,C
+2020,II,Myiopsitta monachus,Aves,Psittaciformes,Psittacidae,Myiopsitta,PH,NL,,35,,live,,B,C
+2020,II,Nandayus nenday,Aves,Psittaciformes,Psittacidae,Nandayus,LK,CZ,,10,,live,Number of specimens,B,C
+2020,II,Nandayus nenday,Aves,Psittaciformes,Psittacidae,Nandayus,LK,CZ,,10,,live,,B,C
+2020,II,Neophema chrysostoma,Aves,Psittaciformes,Psittacidae,Neophema,ZA,NA,,30,,live,,B,C
+2020,II,Neophema elegans,Aves,Psittaciformes,Psittacidae,Neophema,ZA,NA,,26,,live,,B,C
+2020,II,Neophema pulchella,Aves,Psittaciformes,Psittacidae,Neophema,LK,CZ,,30,,live,Number of specimens,B,C
+2020,II,Neophema pulchella,Aves,Psittaciformes,Psittacidae,Neophema,LK,CZ,,30,,live,,B,C
+2020,II,Neophema pulchella,Aves,Psittaciformes,Psittacidae,Neophema,ZA,NA,,25,,live,,B,C
+2020,II,Neophema splendida,Aves,Psittaciformes,Psittacidae,Neophema,LK,CZ,,30,,live,Number of specimens,B,C
+2020,II,Neophema splendida,Aves,Psittaciformes,Psittacidae,Neophema,LK,CZ,,30,,live,,B,C
+2020,II,Neophema splendida,Aves,Psittaciformes,Psittacidae,Neophema,PH,US,,8,,live,,B,C
+2020,II,Neophema splendida,Aves,Psittaciformes,Psittacidae,Neophema,ZA,NA,,28,,live,,B,C
+2020,II,Neopsephotus bourkii,Aves,Psittaciformes,Psittacidae,Neopsephotus,LK,CZ,,30,,live,Number of specimens,B,C
+2020,II,Neopsephotus bourkii,Aves,Psittaciformes,Psittacidae,Neopsephotus,LK,CZ,,30,,live,,B,C
+2020,II,Neopsephotus bourkii,Aves,Psittaciformes,Psittacidae,Neopsephotus,ZA,NA,,9,,live,,B,C
+2020,II,Northiella haematogaster,Aves,Psittaciformes,Psittacidae,Northiella,ZA,NA,,4,,live,,B,C
+2020,II,Pionites leucogaster,Aves,Psittaciformes,Psittacidae,Pionites,LK,CZ,,33,,live,Number of specimens,B,C
+2020,II,Pionites leucogaster,Aves,Psittaciformes,Psittacidae,Pionites,LK,CZ,,13,,live,,B,C
+2020,II,Pionites leucogaster,Aves,Psittaciformes,Psittacidae,Pionites,LK,SG,,2,,live,Number of specimens,B,C
+2020,II,Pionites leucogaster,Aves,Psittaciformes,Psittacidae,Pionites,TH,CZ,DE,74,,live,,B,C
+2020,II,Pionites melanocephalus,Aves,Psittaciformes,Psittacidae,Pionites,CH,SK,,1,,live,Number of specimens,B,F
+2020,II,Pionus menstruus,Aves,Psittaciformes,Psittacidae,Pionus,DE,PH,,,8,live,,B,C
+2020,II,Platycercus caledonicus,Aves,Psittaciformes,Psittacidae,Platycercus,ZA,NA,,4,,live,,B,C
+2020,II,Platycercus elegans,Aves,Psittaciformes,Psittacidae,Platycercus,LK,CZ,,20,,live,Number of specimens,B,C
+2020,II,Platycercus elegans,Aves,Psittaciformes,Psittacidae,Platycercus,ZA,NA,,12,,live,,B,C
+2020,II,Platycercus eximius,Aves,Psittaciformes,Psittacidae,Platycercus,LK,CZ,,57,,live,Number of specimens,B,C
+2020,II,Platycercus eximius,Aves,Psittaciformes,Psittacidae,Platycercus,PH,NL,,36,,live,,B,C
+2020,II,Platycercus eximius,Aves,Psittaciformes,Psittacidae,Platycercus,PH,US,,6,,live,,B,C
+2020,II,Platycercus eximius,Aves,Psittaciformes,Psittacidae,Platycercus,ZA,NA,,1,,live,,B,C
+2020,II,Poicephalus gulielmi,Aves,Psittaciformes,Psittacidae,Poicephalus,LK,QA,,8,,live,,B,C
+2020,II,Polytelis alexandrae,Aves,Psittaciformes,Psittacidae,Polytelis,LK,CZ,,30,,live,Number of specimens,B,C
+2020,II,Polytelis alexandrae,Aves,Psittaciformes,Psittacidae,Polytelis,LK,CZ,,30,,live,,B,C
+2020,II,Polytelis alexandrae,Aves,Psittaciformes,Psittacidae,Polytelis,PH,US,,4,,live,,B,C
+2020,II,Polytelis alexandrae,Aves,Psittaciformes,Psittacidae,Polytelis,ZA,NA,,24,,live,,B,C
+2020,II,Polytelis anthopeplus,Aves,Psittaciformes,Psittacidae,Polytelis,ZA,NA,,4,,live,,B,C
+2020,II,Psephotellus varius,Aves,Psittaciformes,Psittacidae,Psephotellus,LK,CZ,,20,,live,Number of specimens,B,C
+2020,II,Psephotellus varius,Aves,Psittaciformes,Psittacidae,Psephotellus,ZA,NA,,18,,live,,B,C
+2020,II,Psephotus haematonotus,Aves,Psittaciformes,Psittacidae,Psephotus,LK,CZ,,20,,live,Number of specimens,B,C
+2020,II,Psephotus haematonotus,Aves,Psittaciformes,Psittacidae,Psephotus,LK,CZ,,20,,live,,B,C
+2020,II,Psephotus haematonotus,Aves,Psittaciformes,Psittacidae,Psephotus,PH,NL,,30,,live,,B,C
+2020,II,Psittacula alexandri,Aves,Psittaciformes,Psittacidae,Psittacula,PH,US,,3,,live,,B,F
+2020,II,Psittacula columboides,Aves,Psittaciformes,Psittacidae,Psittacula,PH,GB,SK,7,,live,,B,C
+2020,II,Psittacula derbiana,Aves,Psittaciformes,Psittacidae,Psittacula,PH,GB,SK,5,,live,,B,C
+2020,II,Psittacula eupatria,Aves,Psittaciformes,Psittacidae,Psittacula,PH,US,,6,,live,,B,F
+2020,II,Psittacula eupatria,Aves,Psittaciformes,Psittacidae,Psittacula,PK,AE,NL,,2,live,Number of specimens,B,C
+2020,II,Psittacula eupatria,Aves,Psittaciformes,Psittacidae,Psittacula,TH,AE,,24,,live,,B,C
+2020,II,Psittaculirostris desmarestii,Aves,Psittaciformes,Psittacidae,Psittaculirostris,ID,PH,,,1,live,,L,I
+2020,II,Psittrichas fulgidus,Aves,Psittaciformes,Psittacidae,Psittrichas,ID,PH,,,1,live,,L,I
+2020,II,Purpureicephalus spurius,Aves,Psittaciformes,Psittacidae,Purpureicephalus,LK,CZ,,10,,live,Number of specimens,B,C
+2020,II,Purpureicephalus spurius,Aves,Psittaciformes,Psittacidae,Purpureicephalus,LK,CZ,,10,,live,,B,C
+2020,II,Purpureicephalus spurius,Aves,Psittaciformes,Psittacidae,Purpureicephalus,ZA,NA,,12,,live,,B,C
+2020,II,Pyrrhura molinae,Aves,Psittaciformes,Psittacidae,Pyrrhura,LK,KW,,14,,live,Number of specimens,B,C
+2020,II,Pyrrhura pfrimeri,Aves,Psittaciformes,Psittacidae,Pyrrhura,PH,BR,,12,,live,,B,C
+2020,II,Leiopython albertisii,Reptilia,Serpentes,Pythonidae,Leiopython,CH,AT,,2,,live,Number of specimens,B,C
+2020,II,Leiopython albertisii,Reptilia,Serpentes,Pythonidae,Leiopython,CH,AT,,,2,live,,B,C
+2020,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,PH,US,,15,,live,,B,C
+2020,II,Morelia spilota,Reptilia,Serpentes,Pythonidae,Morelia,BE,CH,NL,2,2,bodies,Number of specimens,E,C
+2020,II,Morelia spilota,Reptilia,Serpentes,Pythonidae,Morelia,RU,BY,,,1,live,,B,C
+2020,II,Morelia viridis,Reptilia,Serpentes,Pythonidae,Morelia,KZ,BY,,,4,live,,B,C
+2020,II,Morelia viridis,Reptilia,Serpentes,Pythonidae,Morelia,NO,DK,,,10,live,,B,C
+2020,II,Python bivittatus,Reptilia,Serpentes,Pythonidae,Python,MX,CH,VN,,1,leather products (small),Number of specimens,H,C
+2020,II,Python breitensteini,Reptilia,Serpentes,Pythonidae,Python,CH,AT,,1,,live,Number of specimens,B,C
+2020,II,Python breitensteini,Reptilia,Serpentes,Pythonidae,Python,CH,AT,,,1,live,,B,C
+2020,II,Python brongersmai,Reptilia,Serpentes,Pythonidae,Python,CH,AT,,7,,live,Number of specimens,B,C
+2020,II,Python brongersmai,Reptilia,Serpentes,Pythonidae,Python,CH,AT,,,7,live,,B,C
+2020,II,Python brongersmai,Reptilia,Serpentes,Pythonidae,Python,RU,BY,,,2,live,,B,C
+2020,II,Python curtus,Reptilia,Serpentes,Pythonidae,Python,CH,AT,,2,,live,Number of specimens,B,C
+2020,II,Python curtus,Reptilia,Serpentes,Pythonidae,Python,CH,AT,,,2,live,,B,C
+2020,II,Python molurus,Reptilia,Serpentes,Pythonidae,Python,BE,CH,BE,1,,bodies,Number of specimens,E,C
+2020,II,Python molurus,Reptilia,Serpentes,Pythonidae,Python,BE,CH,NL,2,,bodies,Number of specimens,E,C
+2020,II,Python regius,Reptilia,Serpentes,Pythonidae,Python,BE,CH,NL,6,6,bodies,Number of specimens,E,C
+2020,II,Python regius,Reptilia,Serpentes,Pythonidae,Python,NO,DK,,14,,live,Number of specimens,B,C
+2020,II,Python regius,Reptilia,Serpentes,Pythonidae,Python,PH,CA,,5,,live,,B,C
+2020,II,Python regius,Reptilia,Serpentes,Pythonidae,Python,PH,HK,US,11,,live,,B,C
+2020,II,Python regius,Reptilia,Serpentes,Pythonidae,Python,PH,US,,100,,live,,B,C
+2020,II,Python regius,Reptilia,Serpentes,Pythonidae,Python,US,CA,,,50,live,Number of specimens,B,F
+2020,II,Python regius,Reptilia,Serpentes,Pythonidae,Python,US,CA,,,8,specimens,g,M,F
+2020,II,Ramphastos spp.,Aves,Piciformes,Ramphastidae,Ramphastos,CH,FR,XX,1,,feathers,Number of specimens,E,O
+2020,II,Ramphastos toco,Aves,Piciformes,Ramphastidae,Ramphastos,LK,PH,,2,,live,Number of specimens,B,C
+2020,II,Ramphastos tucanus,Aves,Piciformes,Ramphastidae,Ramphastos,CH,FR,XX,2,,feathers,Number of specimens,E,O
+2020,II,Ramphastos tucanus,Aves,Piciformes,Ramphastidae,Ramphastos,LK,SG,,6,,live,Number of specimens,B,C
+2020,II,Ramphastos vitellinus,Aves,Piciformes,Ramphastidae,Ramphastos,CH,FR,XX,4,,feathers,Number of specimens,E,O
+2020,II,Ramphastos vitellinus,Aves,Piciformes,Ramphastidae,Ramphastos,LK,PH,,2,,live,Number of specimens,B,C
+2020,II,Ramphastos vitellinus,Aves,Piciformes,Ramphastidae,Ramphastos,LK,SG,,4,,live,Number of specimens,B,C
+2020,II,Ramphastos vitellinus,Aves,Piciformes,Ramphastidae,Ramphastos,PH,BR,,1,,live,,B,C
+2020,II,Rhincodon typus,Elasmobranchii,Orectolobiformes,Rhincodontidae,Rhincodon,CA,IT,XX,,1,bones,,E,O
+2020,II,Rhina ancylostomus,Elasmobranchii,Rhinopristiformes,Rhinidae,Rhina,AE,HK,,2,,fins,Number of specimens,E,O
+2020,II,Rhina ancylostomus,Elasmobranchii,Rhinopristiformes,Rhinidae,Rhina,HK,AE,,2,2,fins,Number of specimens,E,O
+2020,II,Rhina ancylostomus,Elasmobranchii,Rhinopristiformes,Rhinidae,Rhina,MA,AE,,,2,fins,Number of specimens,E,O
+2020,II,Rhynchobatus australiae,Elasmobranchii,Rhinopristiformes,Rhinidae,Rhynchobatus,AE,HK,,1,,fins,Number of specimens,E,O
+2020,II,Rhynchobatus australiae,Elasmobranchii,Rhinopristiformes,Rhinidae,Rhynchobatus,HK,AE,,1,1,fins,Number of specimens,E,O
+2020,II,Rhynchobatus australiae,Elasmobranchii,Rhinopristiformes,Rhinidae,Rhynchobatus,MA,AE,HK,,1,fins,Number of specimens,E,O
+2020,II,Rhynchobatus djiddensis,Elasmobranchii,Rhinopristiformes,Rhinidae,Rhynchobatus,AE,HK,,4,,fins,Number of specimens,E,O
+2020,II,Rhynchobatus djiddensis,Elasmobranchii,Rhinopristiformes,Rhinidae,Rhynchobatus,HK,AE,,4,4,fins,Number of specimens,E,O
+2020,II,Rhynchobatus djiddensis,Elasmobranchii,Rhinopristiformes,Rhinidae,Rhynchobatus,MA,AE,,,4,fins,Number of specimens,E,O
+2020,II,Strix uralensis,Aves,Strigiformes,Strigidae,Strix,CH,AT,AT,1,,live,Number of specimens,B,C
+2020,II,Strix uralensis,Aves,Strigiformes,Strigidae,Strix,CH,AT,AT,,1,live,,B,C
+2020,II,Strix uralensis,Aves,Strigiformes,Strigidae,Strix,CH,AT,CZ,1,,live,Number of specimens,B,C
+2020,II,Strix uralensis,Aves,Strigiformes,Strigidae,Strix,CH,AT,CZ,,1,live,,B,C
+2020,II,Gracula religiosa,Aves,Passeriformes,Sturnidae,Gracula,NO,DK,,3,,live,Number of specimens,B,C
+2020,II,Hippocampus kuda,Actinopteri,Syngnathiformes,Syngnathidae,Hippocampus,US,PW,,,8,live,Number of specimens,B,F
+2020,II,Taxus wallichiana,,Pinales,Taxaceae,Taxus,IE,SG,CN,,0.3,extract,kg,M,A
+2020,II,Taxus wallichiana,,Pinales,Taxaceae,Taxus,IN,SG,CN,,20,extract,kg,M,A
+2020,II,Taxus wallichiana,,Pinales,Taxaceae,Taxus,SG,CN,,20.3,,extract,kg,M,A
+2020,II,Aldabrachelys gigantea,Reptilia,Testudines,Testudinidae,Aldabrachelys,CA,CH,SC,,29,specimens,Number of specimens,M,O
+2020,II,Aldabrachelys gigantea,Reptilia,Testudines,Testudinidae,Aldabrachelys,CA,CH,XX,,24,specimens,Number of specimens,M,O
+2020,II,Aldabrachelys gigantea,Reptilia,Testudines,Testudinidae,Aldabrachelys,PH,HK,SC,50,,live,,B,C
+2020,II,Centrochelys sulcata,Reptilia,Testudines,Testudinidae,Centrochelys,PH,HK,TG,5,,live,,B,F
+2020,II,Centrochelys sulcata,Reptilia,Testudines,Testudinidae,Centrochelys,PH,MY,EG,15,,live,,B,C
+2020,II,Chelonoidis carbonarius,Reptilia,Testudines,Testudinidae,Chelonoidis,PH,HK,SR,50,,live,,B,C
+2020,II,Stigmochelys pardalis,Reptilia,Testudines,Testudinidae,Stigmochelys,PH,MY,KE,30,,live,,B,C
+2020,II,Testudo graeca,Reptilia,Testudines,Testudinidae,Testudo,PH,HK,SY,100,,live,,B,C
+2020,II,Testudo hermanni,Reptilia,Testudines,Testudinidae,Testudo,CH,SK,CZ,1,,live,Number of specimens,B,C
+2020,II,Testudo hermanni,Reptilia,Testudines,Testudinidae,Testudo,PH,HK,MK,2,,live,,B,C
+2020,II,Testudo horsfieldii,Reptilia,Testudines,Testudinidae,Testudo,CH,BY,,1,,live,Number of specimens,B,C
+2020,II,Testudo horsfieldii,Reptilia,Testudines,Testudinidae,Testudo,PH,HK,UZ,100,,live,,B,F
+2020,II,Testudo marginata,Reptilia,Testudines,Testudinidae,Testudo,PH,HK,SI,14,,live,,B,C
+2020,II,Eudocimus ruber,Aves,Ciconiiformes,Threskiornithidae,Eudocimus,CN,SG,NL,80,,live,Number of specimens,B,C
+2020,II,Tridacnidae spp.,Bivalvia,Veneroida,Tridacnidae,,US,MH,,1062,,meat,g,M,I
+2020,II,Tridacnidae spp.,Bivalvia,Veneroida,Tridacnidae,,US,MH,,11,,meat,kg,M,I
+2020,II,Ursus americanus,Mammalia,Carnivora,Ursidae,Ursus,AT,AR,,1,,trophies,,H,C
+2020,II,Ursus arctos,Mammalia,Carnivora,Ursidae,Ursus,BG,MK,,,1,live,Number of specimens,E,I
+2020,II,Ursus arctos,Mammalia,Carnivora,Ursidae,Ursus,BG,MK,,1,,live,,E,I
+2020,II,Ursus arctos,Mammalia,Carnivora,Ursidae,Ursus,DE,AL,,1,,live,,E,I
+2020,II,Varanus acanthurus,Reptilia,Sauria,Varanidae,Varanus,NO,DK,,,2,live,,B,C
+2020,II,Varanus acanthurus,Reptilia,Sauria,Varanidae,Varanus,RU,BY,,,1,live,,B,C
+2020,II,Varanus boehmei,Reptilia,Sauria,Varanidae,Varanus,CH,FR,ID,1,1,live,Number of specimens,B,C
+2020,II,Varanus cumingi,Reptilia,Sauria,Varanidae,Varanus,MY,HK,,2,,live,Number of specimens,E,I
+2020,II,Varanus macraei,Reptilia,Sauria,Varanidae,Varanus,ID,PH,,,1,live,,L,I
+2020,II,Varanus rainerguentheri,Reptilia,Sauria,Varanidae,Varanus,ID,PH,,,2,live,,L,I
+2020,II,Protobothrops mangshanensis,Reptilia,Serpentes,Viperidae,Protobothrops,DE,CH,,2,,live,,B,C
+2020,III,Antilope cervicapra,Mammalia,Artiodactyla,Bovidae,Antilope,CA,US,,,1,trophies,Number of specimens,H,C
+2020,III,Antilope cervicapra,Mammalia,Artiodactyla,Bovidae,Antilope,CN,US,,,2,trophies,Number of specimens,H,F
+2020,III,Antilope cervicapra,Mammalia,Artiodactyla,Bovidae,Antilope,DE,US,,2,,trophies,,H,F
+2020,III,Antilope cervicapra,Mammalia,Artiodactyla,Bovidae,Antilope,ES,US,,,1,trophies,Number of specimens,H,C
+2020,III,Antilope cervicapra,Mammalia,Artiodactyla,Bovidae,Antilope,ES,US,,1,,trophies,,H,C
+2020,III,Antilope cervicapra,Mammalia,Artiodactyla,Bovidae,Antilope,GB,US,,,1,trophies,Number of specimens,H,C
+2020,III,Antilope cervicapra,Mammalia,Artiodactyla,Bovidae,Antilope,MX,US,US,1,,trophies,Number of specimens,H,F
+2020,III,Antilope cervicapra,Mammalia,Artiodactyla,Bovidae,Antilope,RU,AU,,,1,trophies,Number of specimens,H,C
+2020,III,Boselaphus tragocamelus,Mammalia,Artiodactyla,Bovidae,Boselaphus,CN,US,,,2,trophies,Number of specimens,H,F
+2020,III,Boselaphus tragocamelus,Mammalia,Artiodactyla,Bovidae,Boselaphus,ES,US,,,1,trophies,Number of specimens,H,F
+2020,III,Boselaphus tragocamelus,Mammalia,Artiodactyla,Bovidae,Boselaphus,ES,US,,1,,trophies,,H,F
+2020,III,Boselaphus tragocamelus,Mammalia,Artiodactyla,Bovidae,Boselaphus,FR,US,,,1,trophies,Number of specimens,H,F
+2020,III,Boselaphus tragocamelus,Mammalia,Artiodactyla,Bovidae,Boselaphus,GB,US,,,1,trophies,Number of specimens,H,F
+2020,III,Axis porcinus,Mammalia,Artiodactyla,Cervidae,Axis,AU,ZA,,,1,trophies,,H,F
+2020,III,Axis porcinus,Mammalia,Artiodactyla,Cervidae,Axis,RO,ZA,,,1,trophies,,H,F
+2020,III,Axis porcinus,Mammalia,Artiodactyla,Cervidae,Axis,RU,AU,,,2,trophies,Number of specimens,H,C
+2020,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,US,TZ,,1,,trophies,Number of specimens,H,I
+2020,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,IT,XX,16,,hair products,Number of specimens,E,I
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,AR,US,,,273,specimens,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,AT,US,,,3000,derivatives,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,AU,FR,,24.066,0.22,specimens,ml,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,AU,US,,,600,specimens,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,BE,CH,NL,1,1,bodies,Number of specimens,E,C
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,BO,US,,,14,specimens,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,BR,US,,,280,specimens,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,CA,US,,,560,specimens,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,CH,DE,SE,15,,derivatives,Number of specimens,M,C
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,CH,FR,,,0.000768,specimens,kg,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,CH,FR,,,0.22,specimens,ml,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,CL,US,,,83,specimens,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,CN,US,,,4350,specimens,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,CO,US,,,204,specimens,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,CR,US,,,52,specimens,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,DE,US,,,385250,derivatives,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,EC,US,,,17,specimens,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,FR,US,,,178199,derivatives,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,GT,US,,,15,specimens,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,HK,US,,,200,specimens,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,HN,US,,,10,specimens,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,IE,US,,,3200,derivatives,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,IR,FR,,,0.00384,specimens,kg,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,IT,US,,,17070,specimens,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,JM,US,,,10,specimens,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,JP,FR,,,0.002304,specimens,kg,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,JP,US,,,11000,derivatives,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,JP,US,,11380,380,specimens,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,KR,FR,,1.375,,specimens,ml,M,C
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,KR,FR,,,0.968,specimens,ml,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,KR,FR,,1.375,,specimens,Number of specimens,M,C
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,KR,FR,,1.375,,specimens,Number of specimens,M,C
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,KR,US,,,333,specimens,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,MX,US,,,495,specimens,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,PA,US,,,56,specimens,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,PY,US,,,20,specimens,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,SE,US,,0.22,,specimens,ml,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,SV,US,,,30,specimens,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,TR,FR,,,0.000768,specimens,kg,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,TT,US,,,2,specimens,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,TW,US,,,442,specimens,Number of specimens,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,US,FR,,,0.000768,specimens,kg,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,US,FR,,,1.65,specimens,ml,M,F
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,US,FR,,60,,specimens,Number of specimens,M,C
+2020,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,UY,FR,,,0.022,specimens,ml,M,F
+2020,III,Civettictis civetta,Mammalia,Carnivora,Viverridae,Civettictis,US,ZA,,2,,trophies,Number of specimens,H,I
+2020,N,Hystrix cristata,Mammalia,Rodentia,Hystricidae,Hystrix,AE,FR,,,1,skeletons,Number of specimens,E,F

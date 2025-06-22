@@ -1,0 +1,1869 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2021,I,Addax nasomaculatus,Mammalia,Artiodactyla,Bovidae,Addax,ES,MX,,1,1,trophies,Number of specimens,H,F
+2021,I,Capra falconeri,Mammalia,Artiodactyla,Bovidae,Capra,CN,US,,1,,bodies,Number of specimens,H,F
+2021,I,Capra falconeri,Mammalia,Artiodactyla,Bovidae,Capra,MX,US,,1,1,trophies,Number of specimens,H,F
+2021,I,Nanger dama,Mammalia,Artiodactyla,Bovidae,Nanger,MX,US,,1,1,trophies,Number of specimens,H,F
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,AR,MX,,,1,trophies,Number of specimens,H,C
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,AT,ZA,,2,4,trophies,,H,F
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,AU,ZA,,,2,trophies,,H,F
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,CA,US,,1,,skin pieces,Number of specimens,H,F
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,CH,ZA,,1,,trophies,Number of specimens,H,F
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,CH,ZA,,,1,trophies,,H,F
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,DK,ZA,,7,5,trophies,,H,F
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,ES,MX,,1,1,trophies,Number of specimens,H,F
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,ES,ZA,,1,,skins,Number of specimens,H,F
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,ES,ZA,,11,,trophies,Number of specimens,H,F
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,ES,ZA,,,11,trophies,,H,F
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,FR,ZA,,,1,trophies,,H,F
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,HR,ZA,,1,,trophies,Number of specimens,H,F
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,HR,ZA,,,1,trophies,,H,F
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,HU,ZA,,1,,trophies,,H,F
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,IT,ZA,,1,,trophies,Number of specimens,H,F
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,IT,ZA,,,1,trophies,,H,F
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,MX,ZA,,1,,trophies,Number of specimens,H,F
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,NO,ZA,,1,,trophies,Number of specimens,H,F
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,NO,ZA,,,2,trophies,,H,F
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,NZ,ZA,,1,,trophies,Number of specimens,H,F
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,PL,ZA,,1,,trophies,Number of specimens,H,F
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,PL,ZA,,,2,trophies,,H,F
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,RO,ZA,,2,,trophies,Number of specimens,H,C
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,RU,ZA,,4,6,trophies,,H,F
+2021,I,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,SK,ZA,,1,,trophies,,H,F
+2021,I,Oryx leucoryx,Mammalia,Artiodactyla,Bovidae,Oryx,BE,AE,,1,,trophies,Number of specimens,H,C
+2021,I,Oryx leucoryx,Mammalia,Artiodactyla,Bovidae,Oryx,DK,AE,,1,,trophies,,H,C
+2021,I,Oryx leucoryx,Mammalia,Artiodactyla,Bovidae,Oryx,RU,ZA,,1,,trophies,,H,F
+2021,I,Oryx leucoryx,Mammalia,Artiodactyla,Bovidae,Oryx,ZA,AE,,,1,skulls,Number of specimens,H,C
+2021,I,Oryx leucoryx,Mammalia,Artiodactyla,Bovidae,Oryx,ZA,AE,,,1,trophies,Number of specimens,H,C
+2021,I,Oryx leucoryx,Mammalia,Artiodactyla,Bovidae,Oryx,ZA,AE,,1,,trophies,,H,C
+2021,I,Cacatua goffiniana,Aves,Psittaciformes,Cacatuidae,Cacatua,AE,ZA,,,1,live,,B,C
+2021,I,Cacatua hybrid,Aves,Psittaciformes,Cacatuidae,Cacatua,KW,ZA,,,2,live,,B,C
+2021,I,Cacatua moluccensis,Aves,Psittaciformes,Cacatuidae,Cacatua,AE,ZA,,,6,live,,B,C
+2021,I,Cacatua moluccensis,Aves,Psittaciformes,Cacatuidae,Cacatua,KW,ZA,,2,8,live,,B,C
+2021,I,Cacatua moluccensis,Aves,Psittaciformes,Cacatuidae,Cacatua,LB,ZA,,,3,live,,B,C
+2021,I,Cacatua moluccensis,Aves,Psittaciformes,Cacatuidae,Cacatua,QA,ZA,,1,,live,Number of specimens,B,C
+2021,I,Cacatua sulphurea,Aves,Psittaciformes,Cacatuidae,Cacatua,KW,ZA,,1,1,live,,B,C
+2021,I,Probosciger aterrimus,Aves,Psittaciformes,Cacatuidae,Probosciger,DE,PH,,,1,live,,B,C
+2021,I,Probosciger aterrimus,Aves,Psittaciformes,Cacatuidae,Probosciger,KW,ZA,,1,1,live,,B,C
+2021,I,Speothos venaticus,Mammalia,Carnivora,Canidae,Speothos,CN,NL,DE,1,,bodies,Number of specimens,E,C
+2021,I,Callimico goeldii,Mammalia,Primates,Cebidae,Callimico,DE,CH,,1,,live,Number of specimens,B,C
+2021,I,Callimico goeldii,Mammalia,Primates,Cebidae,Callimico,TH,CZ,,2,,live,,B,C
+2021,I,Leontopithecus chrysomelas,Mammalia,Primates,Cebidae,Leontopithecus,AE,CZ,DE,7,,live,Number of specimens,B,C
+2021,I,Leontopithecus chrysomelas,Mammalia,Primates,Cebidae,Leontopithecus,AE,CZ,PL,1,,live,Number of specimens,B,C
+2021,I,Leontopithecus chrysomelas,Mammalia,Primates,Cebidae,Leontopithecus,AE,CZ,,2,,live,Number of specimens,B,C
+2021,I,Leontopithecus chrysomelas,Mammalia,Primates,Cebidae,Leontopithecus,ZA,CZ,,2,,live,,B,C
+2021,I,Saguinus oedipus,Mammalia,Primates,Cebidae,Saguinus,AE,CZ,,4,,live,Number of specimens,B,C
+2021,I,Saguinus oedipus,Mammalia,Primates,Cebidae,Saguinus,BR,GB,XX,,1,specimens,Number of specimens,M,O
+2021,I,Saguinus oedipus,Mammalia,Primates,Cebidae,Saguinus,IN,GB,XX,,0.002,specimens,kg,M,O
+2021,I,Saguinus oedipus,Mammalia,Primates,Cebidae,Saguinus,MZ,ZA,,,2,live,,B,C
+2021,I,Macaca sylvanus,Mammalia,Primates,Cercopithecidae,Macaca,GB,ES,XX,,2,live,Number of specimens,E,I
+2021,I,Rucervus duvaucelii,Mammalia,Artiodactyla,Cervidae,Rucervus,MX,US,,1,,trophies,Number of specimens,H,F
+2021,I,Rucervus eldii,Mammalia,Artiodactyla,Cervidae,Rucervus,MX,US,,1,,trophies,Number of specimens,H,F
+2021,I,Microcebus rufus,Mammalia,Primates,Cheirogaleidae,Microcebus,DE,CH,,4,,live,Number of specimens,B,C
+2021,I,Chelonia mydas,Reptilia,Testudines,Cheloniidae,Chelonia,US,PT,AO,,1,bones,Number of specimens,E,O
+2021,I,Cheloniidae spp.,Reptilia,Testudines,Cheloniidae,,GB,CH,XX,,1,carvings,Number of specimens,H,O
+2021,I,Cheloniidae spp.,Reptilia,Testudines,Cheloniidae,,US,FM,,2,,jewellery,Number of specimens,M,I
+2021,I,Cheloniidae spp.,Reptilia,Testudines,Cheloniidae,,US,FM,,4,,shells,Number of specimens,M,I
+2021,I,Eretmochelys imbricata,Reptilia,Testudines,Cheloniidae,Eretmochelys,FR,MC,,,1,live,,M,I
+2021,I,Eretmochelys imbricata,Reptilia,Testudines,Cheloniidae,Eretmochelys,MX,ES,XX,2,,scales,Number of specimens,E,O
+2021,I,Eretmochelys imbricata,Reptilia,Testudines,Cheloniidae,Eretmochelys,SG,GB,XX,1,,shells,Number of specimens,E,O
+2021,I,Eretmochelys imbricata,Reptilia,Testudines,Cheloniidae,Eretmochelys,US,ES,XX,1,,shells,Number of specimens,E,O
+2021,I,Caloenas nicobarica,Aves,Columbiformes,Columbidae,Caloenas,FR,MC,,2,,live,Number of specimens,B,C
+2021,I,Caloenas nicobarica,Aves,Columbiformes,Columbidae,Caloenas,FR,MC,,,2,live,,B,C
+2021,I,Saussurea costus,,Asterales,Compositae,Saussurea,MY,CN,,25,,powder,kg,M,A
+2021,I,Saussurea costus,,Asterales,Compositae,Saussurea,MY,CN,,10,,roots,kg,M,A
+2021,I,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,BE,TN,,15,,bodies,Number of specimens,E,C
+2021,I,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,BE,TN,,2,,specimens,Number of specimens,E,C
+2021,I,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,TZ,,1,,trophies,Number of specimens,H,I
+2021,I,Fitzroya cupressoides,,Pinales,Cupressaceae,Fitzroya,IE,GB,CL,107,,live,,G,D
+2021,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,CA,DE,XX,,0.5,ivory carvings,kg,L,I
+2021,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,CA,DE,,0.5,,jewellery - ivory ,kg,L,I
+2021,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,GB,HK,XX,,5,ivory carvings,Number of specimens,E,O
+2021,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,US,CA,XX,,1,ivory carvings,Number of specimens,L,I
+2021,I,Elephantidae spp.,Mammalia,Proboscidea,Elephantidae,,ZA,MW,,1,,specimens,,L,I
+2021,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,CN,GB,XX,1,,ivory carvings,Number of specimens,E,O
+2021,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,DE,GB,MM,,1,ivory carvings,Number of specimens,E,O
+2021,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,IT,CH,XX,6,,specimens,Number of specimens,M,O
+2021,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,NL,CH,DE,,1,specimens,Number of specimens,M,F
+2021,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,NL,CH,LK,,1,specimens,Number of specimens,M,F
+2021,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,NL,CH,MM,,1,specimens,Number of specimens,M,F
+2021,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,NL,CH,,,5,specimens,Number of specimens,M,C
+2021,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,TH,,2,,unspecified,Number of specimens,M,I
+2021,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MX,DE,XX,1,,ivory carvings,Number of specimens,E,O
+2021,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MX,DE,XX,2,,leather products (small),Number of specimens,E,O
+2021,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,BE,CD,1,,tusks,Number of specimens,E,O
+2021,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,DE,XX,,1.27,ivory carvings,kg,L,I
+2021,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ES,CF,1,,ivory carvings,Number of specimens,E,O
+2021,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,KE,,,1.115,unspecified,kg,L,I
+2021,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,MX,KE,,2,feet,Number of specimens,H,O
+2021,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,MX,KE,,2,tusks,Number of specimens,H,O
+2021,I,Equus przewalskii,Mammalia,Perissodactyla,Equidae,Equus,RU,US,,8,,live,,B,C
+2021,I,Falco hybrid,Aves,Falconiformes,Falconidae,Falco,AE,GB,,,14,live,Number of specimens,B,C
+2021,I,Falco hybrid,Aves,Falconiformes,Falconidae,Falco,BG,QA,ES,5,,live,,B,C
+2021,I,Falco hybrid,Aves,Falconiformes,Falconidae,Falco,GB,AE,ES,,1,live,Number of specimens,B,C
+2021,I,Falco hybrid,Aves,Falconiformes,Falconidae,Falco,GB,AE,GB,,1,live,Number of specimens,B,C
+2021,I,Falco hybrid,Aves,Falconiformes,Falconidae,Falco,GE,AE,ES,1,1,live,Number of specimens,B,C
+2021,I,Falco hybrid,Aves,Falconiformes,Falconidae,Falco,GE,AE,GB,1,2,live,Number of specimens,B,C
+2021,I,Falco hybrid,Aves,Falconiformes,Falconidae,Falco,KZ,AE,MA,3,,live,,B,C
+2021,I,Falco peregrinus,Aves,Falconiformes,Falconidae,Falco,AE,GB,,,1,live,Number of specimens,B,C
+2021,I,Falco peregrinus,Aves,Falconiformes,Falconidae,Falco,AE,PL,,1,,live,Number of specimens,B,C
+2021,I,Falco peregrinus,Aves,Falconiformes,Falconidae,Falco,BH,GB,,,2,live,Number of specimens,B,C
+2021,I,Falco peregrinus,Aves,Falconiformes,Falconidae,Falco,CA,AT,,2,,live,Number of specimens,B,C
+2021,I,Falco peregrinus,Aves,Falconiformes,Falconidae,Falco,CA,US,,4,,live,Number of specimens,B,D
+2021,I,Falco peregrinus,Aves,Falconiformes,Falconidae,Falco,CH,FR,,1,,live,Number of specimens,B,C
+2021,I,Falco peregrinus,Aves,Falconiformes,Falconidae,Falco,GE,AE,GB,,1,live,Number of specimens,B,C
+2021,I,Falco peregrinus,Aves,Falconiformes,Falconidae,Falco,GE,AE,IT,,1,live,Number of specimens,B,C
+2021,I,Falco peregrinus,Aves,Falconiformes,Falconidae,Falco,UZ,AM,,,10,live,kg,B,C
+2021,I,Falco peregrinus,Aves,Falconiformes,Falconidae,Falco,UZ,AM,,2,,live,Number of specimens,B,C
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,CA,ES,CA,2,,live,Number of specimens,B,D
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,CA,ES,GB,1,,live,Number of specimens,B,C
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,CA,SI,AT,1,,live,Number of specimens,B,C
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,CN,CA,,4,,bodies,Number of specimens,E,F
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,ES,CA,AT,,2,live,Number of specimens,B,C
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,ES,CA,CA,,1,live,Number of specimens,B,D
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,ES,CA,US,,3,live,Number of specimens,B,D
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,ES,CA,,,12,live,Number of specimens,B,D
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GB,AE,AT,,3,live,Number of specimens,B,C
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GB,AE,CA,,2,live,Number of specimens,B,C
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GB,AE,CA,,1,live,Number of specimens,B,D
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GB,AE,DE,,1,live,Number of specimens,B,C
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GB,AE,DK,,1,live,Number of specimens,B,C
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GB,AE,DK,,24,live,Number of specimens,B,D
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GB,AE,ES,,2,live,Number of specimens,B,C
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GB,AE,GB,,27,live,Number of specimens,B,C
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GB,AE,GB,,2,live,Number of specimens,B,D
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GB,AE,US,,5,live,Number of specimens,B,D
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GB,AE,,,1,live,Number of specimens,B,C
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GE,AE,CA,1,1,live,Number of specimens,B,D
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GE,AE,DE,1,3,live,Number of specimens,B,C
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GE,AE,ES,3,4,live,Number of specimens,B,C
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GE,AE,GB,6,6,live,Number of specimens,B,C
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GE,AE,SI,,1,live,Number of specimens,B,C
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GE,AE,SL,1,,live,Number of specimens,B,C
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GE,AE,US,2,2,live,Number of specimens,B,D
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,GE,AE,,,1,live,Number of specimens,B,C
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,KZ,AE,ES,16,,live,,B,C
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,SI,CA,,3,,live,Number of specimens,B,D
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,SK,CA,,,1,live,Number of specimens,B,C
+2021,I,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,UZ,XX,,6,,live,Number of specimens,B,C
+2021,I,Acinonyx jubatus,Mammalia,Carnivora,Felidae,Acinonyx,CN,ZA,,2,,bodies,Number of specimens,E,C
+2021,I,Acinonyx jubatus,Mammalia,Carnivora,Felidae,Acinonyx,CN,ZA,,,2,trophies,,E,C
+2021,I,Acinonyx jubatus,Mammalia,Carnivora,Felidae,Acinonyx,MX,ZA,,12,,live,Number of specimens,B,D
+2021,I,Herpailurus yagouaroundi,Mammalia,Carnivora,Felidae,Herpailurus,ZA,SG,,8,,live,,B,C
+2021,I,Neofelis nebulosa,Mammalia,Carnivora,Felidae,Neofelis,DE,US,,1,1,live,Number of specimens,B,F
+2021,I,Panthera hybrid,Mammalia,Carnivora,Felidae,Panthera,TZ,RU,,,1,live,,B,C
+2021,I,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,DE,GB,,3,,live,Number of specimens,B,C
+2021,I,Panthera onca,Mammalia,Carnivora,Felidae,Panthera,RU,ZA,,,1,trophies,,E,D
+2021,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,PH,AE,,4,,live,,B,C
+2021,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,SZ,MZ,,8,,skins,,L,I
+2021,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,US,AU,,1,,rug,Number of specimens,H,I
+2021,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,US,NA,,2,,trophies,Number of specimens,H,I
+2021,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,US,TZ,,1,,trophies,Number of specimens,H,I
+2021,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,US,ZA,ZW,1,,trophies,Number of specimens,H,I
+2021,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,US,ZM,,2,,bones,Number of specimens,H,I
+2021,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,US,ZM,,2,,trophies,Number of specimens,H,I
+2021,I,Panthera tigris,Mammalia,Carnivora,Felidae,Panthera,NO,DE,,,1,live,Number of specimens,B,F
+2021,I,Panthera tigris,Mammalia,Carnivora,Felidae,Panthera,PH,ID,,4,,live,,B,C
+2021,I,Panthera tigris,Mammalia,Carnivora,Felidae,Panthera,TG,ZA,,,2,live,,B,C
+2021,I,Panthera tigris,Mammalia,Carnivora,Felidae,Panthera,US,AU,,2,,rug,Number of specimens,H,I
+2021,I,Panthera tigris,Mammalia,Carnivora,Felidae,Panthera,XX,ZW,,,3,live,Number of specimens,E,C
+2021,I,Panthera uncia,Mammalia,Carnivora,Felidae,Panthera,CH,FR,,1,,bodies,Number of specimens,E,C
+2021,I,Pardofelis marmorata,Mammalia,Carnivora,Felidae,Pardofelis,GB,AE,,2,,live,Number of specimens,B,F
+2021,I,Prionailurus bengalensis,Mammalia,Carnivora,Felidae,Prionailurus,ZA,SG,,5,,live,,B,C
+2021,I,Melanochelys tricarinata,Reptilia,Testudines,Geoemydidae,Melanochelys,CH,HK,XX,10,,live,Number of specimens,E,I
+2021,I,Gorilla gorilla,Mammalia,Primates,Hominidae,Gorilla,NL,CH,,,4,specimens,Number of specimens,M,C
+2021,I,Pongo abelii,Mammalia,Primates,Hominidae,Pongo,DE,CH,DE,,1,specimens,Number of specimens,M,C
+2021,I,Pongo abelii,Mammalia,Primates,Hominidae,Pongo,DE,CH,XX,,1,specimens,Number of specimens,M,O
+2021,I,Pongo abelii,Mammalia,Primates,Hominidae,Pongo,DE,CH,,,3,specimens,Number of specimens,M,C
+2021,I,Hylobates lar,Mammalia,Primates,Hylobatidae,Hylobates,BE,IL,,1,,live,Number of specimens,E,C
+2021,I,Brachylophus vitiensis,Reptilia,Sauria,Iguanidae,Brachylophus,CA,UG,,1,1,live,Number of specimens,B,C
+2021,I,Brachylophus vitiensis,Reptilia,Sauria,Iguanidae,Brachylophus,ID,UG,,,1,live,Number of specimens,B,C
+2021,I,Brachylophus vitiensis,Reptilia,Sauria,Iguanidae,Brachylophus,TH,UG,,,6,live,Number of specimens,B,C
+2021,I,Brachylophus vitiensis,Reptilia,Sauria,Iguanidae,Brachylophus,ZA,UG,,,6,live,Number of specimens,B,C
+2021,I,Propithecus coquereli,Mammalia,Primates,Indriidae,Propithecus,DE,US,,6,,live,Number of specimens,B,F
+2021,I,Dalbergia nigra,,Fabales,Leguminosae,Dalbergia,JP,BR,,0.015,,sawn wood,m3,L,O
+2021,I,Lemur catta,Mammalia,Primates,Lemuridae,Lemur,AE,CZ,DE,2,,live,Number of specimens,B,C
+2021,I,Lemur catta,Mammalia,Primates,Lemuridae,Lemur,AE,ES,,11,,live,Number of specimens,B,C
+2021,I,Lemur catta,Mammalia,Primates,Lemuridae,Lemur,TH,ES,,,4,live,Number of specimens,B,C
+2021,I,Varecia rubra,Mammalia,Primates,Lemuridae,Varecia,PH,US,,6,,live,,B,C
+2021,I,Varecia variegata,Mammalia,Primates,Lemuridae,Varecia,PH,US,,18,,live,,B,C
+2021,I,Aonyx cinereus,Mammalia,Carnivora,Mustelidae,Aonyx,ZA,SG,,5,,live,,B,C
+2021,I,Mustela nigripes,Mammalia,Carnivora,Mustelidae,Mustela,CA,US,,4,,live,Number of specimens,B,F
+2021,I,Chlamydotis macqueenii,Aves,Gruiformes,Otididae,Chlamydotis,AE,KZ,,250,,live,Number of specimens,B,C
+2021,I,Chlamydotis macqueenii,Aves,Gruiformes,Otididae,Chlamydotis,AE,KZ,,,248,live,,B,C
+2021,I,Chlamydotis macqueenii,Aves,Gruiformes,Otididae,Chlamydotis,UZ,AE,,,1100,live,Number of specimens,B,C
+2021,I,Chlamydotis macqueenii,Aves,Gruiformes,Otididae,Chlamydotis,UZ,KZ,,,1030,live,,B,C
+2021,I,Chlamydotis undulata,Aves,Gruiformes,Otididae,Chlamydotis,AE,MA,,304,,live,Number of specimens,B,C
+2021,I,Chlamydotis undulata,Aves,Gruiformes,Otididae,Chlamydotis,AE,MA,,,3923,live,,B,C
+2021,I,Chlamydotis undulata,Aves,Gruiformes,Otididae,Chlamydotis,MR,MA,,,75,live,,B,C
+2021,I,Physeter macrocephalus,Mammalia,Cetacea,Physeteridae,Physeter,IT,GB,FJ,1,1,carvings,Number of specimens,E,O
+2021,I,Physeter macrocephalus,Mammalia,Cetacea,Physeteridae,Physeter,IT,GB,NZ,2,2,bone carvings,Number of specimens,E,O
+2021,I,Physeter macrocephalus,Mammalia,Cetacea,Physeteridae,Physeter,IT,GB,TO,1,1,carvings,Number of specimens,E,O
+2021,I,Amazona auropalliata,Aves,Psittaciformes,Psittacidae,Amazona,AE,ZA,,,8,live,,B,C
+2021,I,Amazona auropalliata,Aves,Psittaciformes,Psittacidae,Amazona,KW,ZA,,29,73,live,,B,C
+2021,I,Amazona auropalliata,Aves,Psittaciformes,Psittacidae,Amazona,LB,ZA,,,34,live,,B,C
+2021,I,Amazona auropalliata,Aves,Psittaciformes,Psittacidae,Amazona,QA,ZA,,6,,live,Number of specimens,B,C
+2021,I,Amazona auropalliata,Aves,Psittaciformes,Psittacidae,Amazona,QA,ZA,,,6,live,,B,C
+2021,I,Amazona auropalliata,Aves,Psittaciformes,Psittacidae,Amazona,TH,US,,2,,live,,B,F
+2021,I,Amazona finschi,Aves,Psittaciformes,Psittacidae,Amazona,AE,ZA,,,3,live,,B,C
+2021,I,Amazona leucocephala,Aves,Psittaciformes,Psittacidae,Amazona,ZA,AE,,5,,live,,B,C
+2021,I,Amazona oratrix,Aves,Psittaciformes,Psittacidae,Amazona,AE,ZA,,,9,live,,B,C
+2021,I,Amazona oratrix,Aves,Psittaciformes,Psittacidae,Amazona,KW,ZA,,20,30,live,,B,C
+2021,I,Amazona oratrix,Aves,Psittaciformes,Psittacidae,Amazona,LB,ZA,,,19,live,,B,C
+2021,I,Amazona oratrix,Aves,Psittaciformes,Psittacidae,Amazona,QA,ZA,,6,,live,Number of specimens,B,C
+2021,I,Amazona oratrix,Aves,Psittaciformes,Psittacidae,Amazona,QA,ZA,,,6,live,,B,C
+2021,I,Amazona vinacea,Aves,Psittaciformes,Psittacidae,Amazona,KW,ZA,,,3,live,,B,C
+2021,I,Amazona vinacea,Aves,Psittaciformes,Psittacidae,Amazona,LB,ZA,,,6,live,,B,C
+2021,I,Amazona vinacea,Aves,Psittaciformes,Psittacidae,Amazona,QA,ZA,,4,,live,Number of specimens,B,C
+2021,I,Amazona vinacea,Aves,Psittaciformes,Psittacidae,Amazona,QA,ZA,,,4,live,,B,C
+2021,I,Anodorhynchus hyacinthinus,Aves,Psittaciformes,Psittacidae,Anodorhynchus,AE,MT,,2,,live,Number of specimens,B,C
+2021,I,Anodorhynchus hyacinthinus,Aves,Psittaciformes,Psittacidae,Anodorhynchus,CH,MT,,20,20,live,Number of specimens,B,C
+2021,I,Anodorhynchus hyacinthinus,Aves,Psittaciformes,Psittacidae,Anodorhynchus,SG,PH,,,2,live,,B,C
+2021,I,Anodorhynchus hyacinthinus,Aves,Psittaciformes,Psittacidae,Anodorhynchus,TH,PH,,4,2,live,,B,C
+2021,I,Anodorhynchus leari,Aves,Psittaciformes,Psittacidae,Anodorhynchus,BR,ES,,,1,live,Number of specimens,B,F
+2021,I,Anodorhynchus leari,Aves,Psittaciformes,Psittacidae,Anodorhynchus,DE,SG,QA,2,,live,Number of specimens,B,C
+2021,I,Anodorhynchus leari,Aves,Psittaciformes,Psittacidae,Anodorhynchus,DE,SG,XX,2,,live,Number of specimens,B,I
+2021,I,Ara spp.,Aves,Psittaciformes,Psittacidae,Ara,AE,ZA,,,2,live,,B,C
+2021,I,Ara spp.,Aves,Psittaciformes,Psittacidae,Ara,KW,ZA,,,1,live,,B,C
+2021,I,Ara spp.,Aves,Psittaciformes,Psittacidae,Ara,LB,ZA,,,3,live,,B,C
+2021,I,Ara glaucogularis,Aves,Psittaciformes,Psittacidae,Ara,BD,ZA,,,8,live,,B,C
+2021,I,Ara glaucogularis,Aves,Psittaciformes,Psittacidae,Ara,CA,GB,XX,2,,live,Number of specimens,B,F
+2021,I,Ara glaucogularis,Aves,Psittaciformes,Psittacidae,Ara,KW,ZA,,,2,live,,B,C
+2021,I,Ara glaucogularis,Aves,Psittaciformes,Psittacidae,Ara,LB,ZA,,,1,live,,B,C
+2021,I,Ara hybrid,Aves,Psittaciformes,Psittacidae,Ara,KW,ZA,,,1,live,,B,C
+2021,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,BD,ZA,,,3,live,,B,C
+2021,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,ID,LK,,,11,live,Number of specimens,B,C
+2021,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,KW,ZA,,10,1,live,,B,C
+2021,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,LB,ZA,,,5,live,,B,C
+2021,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,US,MX,,,1,specimens,Number of specimens,E,O
+2021,I,Ara militaris,Aves,Psittaciformes,Psittacidae,Ara,KW,ZA,,,5,live,,B,C
+2021,I,Ara militaris,Aves,Psittaciformes,Psittacidae,Ara,KW,ZA,,2,,live,,B,D
+2021,I,Cyanopsitta spixii,Aves,Psittaciformes,Psittacidae,Cyanopsitta,DE,SG,DE,1,,live,Number of specimens,B,C
+2021,I,Cyanopsitta spixii,Aves,Psittaciformes,Psittacidae,Cyanopsitta,DE,SG,PH,1,,live,Number of specimens,B,C
+2021,I,Guarouba guarouba,Aves,Psittaciformes,Psittacidae,Guarouba,CA,GB,XX,8,,live,Number of specimens,B,F
+2021,I,Guarouba guarouba,Aves,Psittaciformes,Psittacidae,Guarouba,KW,ZA,,4,15,live,,B,C
+2021,I,Guarouba guarouba,Aves,Psittaciformes,Psittacidae,Guarouba,LB,ZA,,,9,live,,B,C
+2021,I,Primolius couloni,Aves,Psittaciformes,Psittacidae,Primolius,CH,ES,,2,2,live,Number of specimens,B,C
+2021,I,Primolius maracana,Aves,Psittaciformes,Psittacidae,Primolius,KW,ZA,,,3,live,,B,C
+2021,I,Primolius maracana,Aves,Psittaciformes,Psittacidae,Primolius,LB,ZA,,,4,live,,B,C
+2021,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,FR,BI,YE,,1,live,Number of specimens,B,F
+2021,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,ID,ZA,,,200,live,,B,D
+2021,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,KW,ZA,,,101,live,,B,D
+2021,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,UZ,XX,,11,,live,Number of specimens,B,C
+2021,I,Pteropodidae spp.,Mammalia,Chiroptera,Pteropodidae,,IT,GB,XX,2,2,derivatives,Number of specimens,E,O
+2021,I,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,CH,DE,GB,1,1,live,Number of specimens,B,F
+2021,I,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,IT,GB,DE,,20,derivatives,Number of specimens,B,C
+2021,I,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,KE,DE,,,2,live,Number of specimens,B,C
+2021,I,Rhinoceros sondaicus,Mammalia,Perissodactyla,Rhinocerotidae,Rhinoceros,ZA,FR,,1,,specimens,,L,I
+2021,I,Rhinocerotidae spp.,Mammalia,Perissodactyla,Rhinocerotidae,,ZA,VN,,,56,specimens,Number of specimens,L,I
+2021,I,Rhinocerotidae spp.,Mammalia,Perissodactyla,Rhinocerotidae,,ZA,VN,,56,,specimens,,L,I
+2021,I,Rhynochetos jubatus,Aves,Gruiformes,Rhynochetidae,Rhynochetos,CN,GB,XX,1,,bodies,Number of specimens,E,O
+2021,I,Spheniscus humboldti,Aves,Sphenisciformes,Spheniscidae,Spheniscus,CN,GB,XX,2,,bodies,Number of specimens,E,O
+2021,I,Spheniscus humboldti,Aves,Sphenisciformes,Spheniscidae,Spheniscus,UA,DE,,,3,live,Number of specimens,B,C
+2021,I,Leucopsar rothschildi,Aves,Passeriformes,Sturnidae,Leucopsar,LK,ID,,30,,live,Number of specimens,B,C
+2021,I,Telmatobius culeus,Amphibia,Anura,Telmatobiidae,Telmatobius,SG,GB,,,19,live,Number of specimens,B,C
+2021,I,Astrochelys radiata,Reptilia,Testudines,Testudinidae,Astrochelys,DE,CN,XX,14,,live,Number of specimens,B,I
+2021,I,Malacochersus tornieri,Reptilia,Testudines,Testudinidae,Malacochersus,AE,GB,,8,,live,Number of specimens,B,F
+2021,I,Pyxis planicauda,Reptilia,Testudines,Testudinidae,Pyxis,DE,CH,,,3,live,Number of specimens,B,F
+2021,I,Geronticus eremita,Aves,Ciconiiformes,Threskiornithidae,Geronticus,CN,BE,NL,1,,bodies,Number of specimens,E,C
+2021,I,Melursus ursinus,Mammalia,Carnivora,Ursidae,Melursus,GB,CZ,,1,,live,Number of specimens,E,F
+2021,I,Melursus ursinus,Mammalia,Carnivora,Ursidae,Melursus,GB,CZ,,,1,live,,E,F
+2021,I,Melursus ursinus,Mammalia,Carnivora,Ursidae,Melursus,GB,DE,,,1,live,Number of specimens,B,C
+2021,I,Ursus thibetanus,Mammalia,Carnivora,Ursidae,Ursus,DE,RU,,2,,live,Number of specimens,B,C
+2021,I,Ursus thibetanus,Mammalia,Carnivora,Ursidae,Ursus,DE,RU,,,2,live,,B,C
+2021,I,Encephalartos hirsutus,,Cycadales,Zamiaceae,Encephalartos,TH,ZA,,,2,live,,G,D
+2021,I,Encephalartos hirsutus,,Cycadales,Zamiaceae,Encephalartos,US,ZA,,,2,live,,G,D
+2021,I,Cetacea spp.,Mammalia,Cetacea,,,IT,GB,XX,,1,bone carvings,Number of specimens,E,O
+2021,I,Cetacea spp.,Mammalia,Cetacea,,,IT,GB,XX,1,,bones,Number of specimens,E,O
+2021,II,Accipiter gentilis,Aves,Falconiformes,Accipitridae,Accipiter,RS,PL,DE,,2,live,Number of specimens,B,C
+2021,II,Aquila verreauxii,Aves,Falconiformes,Accipitridae,Aquila,US,CA,ZA,2,,live,Number of specimens,B,D
+2021,II,Aquila verreauxii,Aves,Falconiformes,Accipitridae,Aquila,US,GB,,1,1,live,Number of specimens,B,C
+2021,II,Gypaetus barbatus,Aves,Falconiformes,Accipitridae,Gypaetus,CH,ES,,1,1,live,Number of specimens,B,C
+2021,II,Haliaeetus leucogaster,Aves,Falconiformes,Accipitridae,Haliaeetus,FR,GB,,1,,live,Number of specimens,B,C
+2021,II,Hieraaetus spilogaster,Aves,Falconiformes,Accipitridae,Hieraaetus,GB,ZA,,,3,live,,B,C
+2021,II,Necrosyrtes monachus,Aves,Falconiformes,Accipitridae,Necrosyrtes,ZA,US,,4,,live,,B,F
+2021,II,Torgos tracheliotus,Aves,Falconiformes,Accipitridae,Torgos,ZA,US,,1,,live,,B,F
+2021,II,Acipenser baerii,Actinopteri,Acipenseriformes,Acipenseridae,Acipenser,US,DE,CH,123,,caviar,g,L,C
+2021,II,Acipenser baerii,Actinopteri,Acipenseriformes,Acipenseridae,Acipenser,US,DE,CH,319607,,extract,mg,L,C
+2021,II,Acipenser baerii,Actinopteri,Acipenseriformes,Acipenseridae,Acipenser,US,DE,CH,10585,,extract,mg,L,D
+2021,II,Acipenser baerii,Actinopteri,Acipenseriformes,Acipenseridae,Acipenser,VN,CN,,,8000,live,kg,B,C
+2021,II,Acipenser baerii,Actinopteri,Acipenseriformes,Acipenseridae,Acipenser,VN,IT,,,10,eggs (live),kg,B,C
+2021,II,Acipenser baerii x gueldenstaedtii,Actinopteri,Acipenseriformes,Acipenseridae,Acipenser,TW,IT,,,5,eggs (live),kg,B,C
+2021,II,Acipenser gueldenstaedtii,Actinopteri,Acipenseriformes,Acipenseridae,Acipenser,US,DE,IT,7,,caviar,g,L,C
+2021,II,Acipenser gueldenstaedtii,Actinopteri,Acipenseriformes,Acipenseridae,Acipenser,US,DE,IT,6807,,extract,mg,L,C
+2021,II,Acipenser gueldenstaedtii,Actinopteri,Acipenseriformes,Acipenseridae,Acipenser,US,DE,IT,297,,extract,mg,L,D
+2021,II,Acipenser oxyrinchus,Actinopteri,Acipenseriformes,Acipenseridae,Acipenser,PL,CA,,2,,eggs (live),kg,B,C
+2021,II,Acipenser stellatus,Actinopteri,Acipenseriformes,Acipenseridae,Acipenser,CL,IT,,,100000,eggs (live),Number of specimens,B,C
+2021,II,Huso huso,Actinopteri,Acipenseriformes,Acipenseridae,Huso,US,IR,,250,,caviar,g,M,I
+2021,II,Uromastyx ocellata,Reptilia,Sauria,Agamidae,Uromastyx,NO,DK,,6,,live,Number of specimens,B,C
+2021,II,Uromastyx ocellata,Reptilia,Sauria,Agamidae,Uromastyx,NO,DK,,,6,live,,B,C
+2021,II,Ambystoma mexicanum,Amphibia,Caudata,Ambystomatidae,Ambystoma,US,AT,,1000,,eggs (live),Number of specimens,M,C
+2021,II,Ambystoma mexicanum,Amphibia,Caudata,Ambystomatidae,Ambystoma,US,AT,,,1200,eggs (live),,M,C
+2021,II,Ambystoma mexicanum,Amphibia,Caudata,Ambystomatidae,Ambystoma,US,AT,,40,,live,Number of specimens,M,C
+2021,II,Ambystoma mexicanum,Amphibia,Caudata,Ambystomatidae,Ambystoma,US,AT,,,1080,live,,M,C
+2021,II,Cygnus melancoryphus,Aves,Anseriformes,Anatidae,Cygnus,CH,DE,,1,1,live,Number of specimens,B,C
+2021,II,Cygnus melancoryphus,Aves,Anseriformes,Anatidae,Cygnus,UZ,NL,,30,,live,Number of specimens,B,C
+2021,II,Panax quinquefolius,,Apiales,Araliaceae,Panax,CN,CA,,17690.4,,roots,kg,M,A
+2021,II,Panax quinquefolius,,Apiales,Araliaceae,Panax,US,CN,US,1,,roots,kg,G,I
+2021,II,Boa constrictor,Reptilia,Serpentes,Boidae,Boa,AT,CH,,,64,specimens,Number of specimens,M,C
+2021,II,Boa constrictor,Reptilia,Serpentes,Boidae,Boa,TH,SE,,18,,live,,B,C
+2021,II,Boa constrictor,Reptilia,Serpentes,Boidae,Boa,US,CA,,,8,live,Number of specimens,B,F
+2021,II,Boa constrictor,Reptilia,Serpentes,Boidae,Boa,US,CR,,,40,live,Number of specimens,B,C
+2021,II,Corallus annulatus,Reptilia,Serpentes,Boidae,Corallus,FR,CR,,,6,live,Number of specimens,B,C
+2021,II,Corallus annulatus,Reptilia,Serpentes,Boidae,Corallus,US,CR,,,8,live,Number of specimens,B,C
+2021,II,Corallus batesii,Reptilia,Serpentes,Boidae,Corallus,SR,US,,10,,live,,B,C
+2021,II,Corallus ruschenbergerii,Reptilia,Serpentes,Boidae,Corallus,US,CR,,,5,live,Number of specimens,B,C
+2021,II,Epicrates cenchria,Reptilia,Serpentes,Boidae,Epicrates,KR,DE,,7,,live,Number of specimens,E,C
+2021,II,Lichanura trivirgata,Reptilia,Serpentes,Boidae,Lichanura,US,CA,XX,1,,specimens,Number of specimens,M,I
+2021,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,AU,ES,,1,1,trophies,Number of specimens,H,F
+2021,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,AU,ZA,,,3,trophies,,H,F
+2021,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,BE,ZA,,,1,trophies,,H,F
+2021,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,CA,MX,,,3,trophies,Number of specimens,H,C
+2021,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,CN,US,,1,,bodies,Number of specimens,H,F
+2021,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,CN,US,,1,,trophies,Number of specimens,H,F
+2021,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,CN,ZA,,,1,trophies,,H,F
+2021,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,DE,ZA,,1,,skulls,Number of specimens,H,F
+2021,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,DE,ZA,,,1,trophies,,H,F
+2021,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,DK,ZA,,1,2,trophies,,H,F
+2021,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,ES,ZA,,,5,trophies,,H,F
+2021,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,HR,ZA,,,2,trophies,,H,F
+2021,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,LB,ES,,,1,trophies,Number of specimens,H,F
+2021,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,MX,US,,1,,leather products (small),Number of specimens,H,F
+2021,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,NG,ZA,,,2,trophies,,H,F
+2021,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,NO,ZA,,1,,trophies,Number of specimens,H,F
+2021,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,NO,ZA,,,2,trophies,,H,F
+2021,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,RU,ZA,,,3,trophies,,H,F
+2021,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,TR,ZA,,,2,trophies,,H,F
+2021,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,US,ES,,5,6,trophies,Number of specimens,H,F
+2021,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,US,MX,,,2,trophies,Number of specimens,H,C
+2021,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,US,ZA,,1,,trophies,Number of specimens,H,F
+2021,II,Ammotragus lervia,Mammalia,Artiodactyla,Bovidae,Ammotragus,US,ZA,,,28,trophies,,H,F
+2021,II,Cephalophus dorsalis,Mammalia,Artiodactyla,Bovidae,Cephalophus,US,ZA,LR,1,,trophies,Number of specimens,H,I
+2021,II,Damaliscus pygargus pygargus,Mammalia,Artiodactyla,Bovidae,Damaliscus,CN,ZA,,3,,bodies,Number of specimens,E,F
+2021,II,Damaliscus pygargus pygargus,Mammalia,Artiodactyla,Bovidae,Damaliscus,CN,ZA,,,3,trophies,,E,F
+2021,II,Damaliscus pygargus pygargus,Mammalia,Artiodactyla,Bovidae,Damaliscus,MX,ZA,,1,,trophies,Number of specimens,H,F
+2021,II,Damaliscus pygargus pygargus,Mammalia,Artiodactyla,Bovidae,Damaliscus,US,ZA,,1,,trophies,Number of specimens,H,I
+2021,II,Damaliscus pygargus pygargus,Mammalia,Artiodactyla,Bovidae,Damaliscus,US,ZA,,,1,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,AE,ZA,,1,,trophies,Number of specimens,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,AE,ZA,,,2,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,AR,ZA,,1,,trophies,Number of specimens,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,AR,ZA,,,4,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,AT,ZA,,1,5,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,AU,ZA,,1,,skins,Number of specimens,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,AU,ZA,,11,,trophies,Number of specimens,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,AU,ZA,,,9,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,BE,ZA,,,1,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,CA,ZA,,,6,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,CH,FR,ZA,1,,trophies,Number of specimens,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,CH,ZA,,,3,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,CN,ZA,,1,,bodies,Number of specimens,E,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,CN,ZA,,,1,trophies,,E,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,CN,ZA,,,3,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,CZ,ZA,,2,3,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,DE,ZA,,5,,skins,Number of specimens,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,DE,ZA,,3,,trophies,Number of specimens,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,DE,ZA,,,4,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,DK,ZA,,8,5,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,EC,ZA,,,2,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,ES,ZA,,,10,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,FR,ZA,,1,,trophies,Number of specimens,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,FR,ZA,,,5,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,GB,ZA,,,1,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,HU,ZA,,5,4,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,IT,ZA,,,5,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,MU,ZA,,,2,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,MX,ZA,,1,,bodies,Number of specimens,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,MX,ZA,,4,,skins,Number of specimens,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,MX,ZA,,2,,skulls,Number of specimens,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,MX,ZA,,7,,trophies,Number of specimens,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,MX,ZA,,,12,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,NA,ZM,,1,1,trophies,Number of specimens,H,C
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,NG,ZA,,,2,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,NL,ZA,,,2,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,NO,ZA,,4,,trophies,Number of specimens,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,NO,ZA,,,4,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,PE,ZA,,,4,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,PL,ZA,,5,,trophies,Number of specimens,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,PL,ZA,,,1,trophies,,H,C
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,PL,ZA,,,13,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,PT,ZA,,1,,trophies,Number of specimens,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,PT,ZA,,,1,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,RE,ZA,,,1,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,RS,ZA,,,1,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,RU,ZA,,,4,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,SA,ZA,,1,,leather products (large),Number of specimens,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,SA,ZA,,2,,trophies,Number of specimens,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,SA,ZA,,,3,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,SE,ZA,,2,4,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,SG,ZM,,,1,trophies,Number of specimens,H,C
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,UA,ZA,,,4,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,US,ZA,,,6,horns,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,US,ZA,,1,,skins,Number of specimens,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,US,ZA,,,2,skulls,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,US,ZA,,1,,trophies,Number of specimens,H,C
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,US,ZA,,54,,trophies,Number of specimens,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,US,ZA,,,268,trophies,,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,US,ZM,,,2,skulls,Number of specimens,H,C
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,US,ZM,,6,13,trophies,Number of specimens,H,C
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,US,ZM,,3,,trophies,Number of specimens,H,I
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,UY,ZA,,1,,skulls,Number of specimens,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,UY,ZA,,1,,trophies,Number of specimens,H,F
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,ZA,ZM,,,4,trophies,Number of specimens,H,C
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,ZA,ZM,,4,,trophies,,H,C
+2021,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,ZA,ZW,,2,,trophies,,H,F
+2021,II,Ovis bochariensis,Mammalia,Artiodactyla,Bovidae,Ovis,CA,UZ,,,2,trophies,Number of specimens,H,C
+2021,II,Ovis bochariensis,Mammalia,Artiodactyla,Bovidae,Ovis,RU,UZ,,,2,trophies,Number of specimens,H,C
+2021,II,Ovis canadensis,Mammalia,Artiodactyla,Bovidae,Ovis,AE,MX,,,1,trophies,Number of specimens,H,F
+2021,II,Ovis canadensis,Mammalia,Artiodactyla,Bovidae,Ovis,BE,MX,,1,1,trophies,Number of specimens,H,C
+2021,II,Ovis canadensis,Mammalia,Artiodactyla,Bovidae,Ovis,CA,MX,,,5,trophies,Number of specimens,H,C
+2021,II,Ovis canadensis,Mammalia,Artiodactyla,Bovidae,Ovis,ES,MX,,,1,trophies,Number of specimens,H,C
+2021,II,Ovis canadensis,Mammalia,Artiodactyla,Bovidae,Ovis,ES,US,MX,,1,trophies,Number of specimens,H,C
+2021,II,Ovis canadensis,Mammalia,Artiodactyla,Bovidae,Ovis,PL,MX,,2,2,trophies,Number of specimens,H,C
+2021,II,Ovis canadensis,Mammalia,Artiodactyla,Bovidae,Ovis,US,MX,,24,146,trophies,Number of specimens,H,C
+2021,II,Ovis canadensis,Mammalia,Artiodactyla,Bovidae,Ovis,US,MX,,,2,trophies,Number of specimens,H,O
+2021,II,Ovis cycloceros arkal,Mammalia,Artiodactyla,Bovidae,Ovis,MX,US,,1,,trophies,Number of specimens,H,F
+2021,II,Ovis polii,Mammalia,Artiodactyla,Bovidae,Ovis,US,KG,,1,,trophies,Number of specimens,H,I
+2021,II,Ovis punjabiensis,Mammalia,Artiodactyla,Bovidae,Ovis,MX,US,,1,,trophies,Number of specimens,H,F
+2021,II,Philantomba monticola,Mammalia,Artiodactyla,Bovidae,Philantomba,US,ZM,,,2,trophies,Number of specimens,H,C
+2021,II,Cacatua alba,Aves,Psittaciformes,Cacatuidae,Cacatua,LK,PH,,6,,live,Number of specimens,B,C
+2021,II,Cacatua ducorpsii,Aves,Psittaciformes,Cacatuidae,Cacatua,LK,CZ,,7,,live,Number of specimens,B,C
+2021,II,Cacatua galerita,Aves,Psittaciformes,Cacatuidae,Cacatua,LK,PH,,6,,live,Number of specimens,B,C
+2021,II,Cacatua galerita,Aves,Psittaciformes,Cacatuidae,Cacatua,UZ,ID,,6,,live,Number of specimens,B,C
+2021,II,Calyptorhynchus banksii,Aves,Psittaciformes,Cacatuidae,Calyptorhynchus,AE,CY,,,2,live,Number of specimens,B,C
+2021,II,Calyptorhynchus funereus,Aves,Psittaciformes,Cacatuidae,Calyptorhynchus,AE,CY,,,2,live,Number of specimens,B,C
+2021,II,Eolophus roseicapilla,Aves,Psittaciformes,Cacatuidae,Eolophus,LK,CZ,,15,,live,Number of specimens,B,C
+2021,II,Eolophus roseicapilla,Aves,Psittaciformes,Cacatuidae,Eolophus,LK,PH,,2,,live,Number of specimens,B,C
+2021,II,Echinocactus polycephalus,,Caryophyllales,Cactaceae,Echinocactus,US,HK,US,39,,live,Number of specimens,M,I
+2021,II,Canis lupus,Mammalia,Carnivora,Canidae,Canis,GR,AD,FR,2,,live,,E,C
+2021,II,Canis lupus,Mammalia,Carnivora,Canidae,Canis,GR,AD,,2,,live,,E,C
+2021,II,Vulpes zerda,Mammalia,Carnivora,Canidae,Vulpes,AE,ZA,,8,,live,Number of specimens,B,C
+2021,II,Vulpes zerda,Mammalia,Carnivora,Canidae,Vulpes,AE,ZA,,,8,live,,B,C
+2021,II,Vulpes zerda,Mammalia,Carnivora,Canidae,Vulpes,ID,ZA,,,2,live,,B,C
+2021,II,Callithrix argentata,Mammalia,Primates,Cebidae,Callithrix,TH,CZ,DE,1,,live,,B,C
+2021,II,Callithrix argentata,Mammalia,Primates,Cebidae,Callithrix,TH,CZ,,1,,live,,B,C
+2021,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,AE,CZ,,4,,live,Number of specimens,B,C
+2021,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,CA,FR,,,8,live,Number of specimens,M,C
+2021,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,CH,FR,CH,2,,specimens,Number of specimens,M,C
+2021,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,CH,FR,,6,4,specimens,Number of specimens,M,C
+2021,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,GB,JP,,327,,specimens,Number of specimens,M,C
+2021,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,US,DE,FR,2,105,specimens,Number of specimens,M,C
+2021,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,US,DE,NL,,210,specimens,Number of specimens,M,C
+2021,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,US,DE,,136,2961,specimens,Number of specimens,M,C
+2021,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,US,FR,CH,8,7,specimens,ml,M,C
+2021,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,US,FR,DE,107,63,specimens,ml,M,C
+2021,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,US,FR,,3,3,live,Number of specimens,M,C
+2021,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,US,FR,,9,9,live,Number of specimens,M,F
+2021,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,US,FR,,365,250,specimens,ml,M,C
+2021,II,Callithrix pygmaea,Mammalia,Primates,Cebidae,Callithrix,AE,CZ,DE,8,,live,Number of specimens,B,C
+2021,II,Callithrix pygmaea,Mammalia,Primates,Cebidae,Callithrix,AE,CZ,,2,,live,Number of specimens,B,C
+2021,II,Saguinus imperator,Mammalia,Primates,Cebidae,Saguinus,TH,CZ,DE,2,,live,,B,C
+2021,II,Saguinus imperator,Mammalia,Primates,Cebidae,Saguinus,TH,CZ,,2,,live,,B,C
+2021,II,Saguinus labiatus,Mammalia,Primates,Cebidae,Saguinus,TH,CZ,,4,,live,,B,C
+2021,II,Saguinus midas,Mammalia,Primates,Cebidae,Saguinus,AE,CZ,,6,,live,Number of specimens,B,C
+2021,II,Saguinus midas,Mammalia,Primates,Cebidae,Saguinus,MZ,ZA,,,2,live,,B,C
+2021,II,Cercocebus atys,Mammalia,Primates,Cercopithecidae,Cercocebus,GH,DE,,,1,live,Number of specimens,B,C
+2021,II,Chlorocebus spp.,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,AT,JP,,950,extract,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,AE,GB,XX,,0.007,specimens,kg,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,AT,GB,XX,3381,,specimens,g,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,AT,GB,XX,,3.3,specimens,kg,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,AT,GB,XX,4,4,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,AU,NL,,5.5,,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,AU,US,,1,,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,BD,GB,JP,,0.002,specimens,kg,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,BD,GB,XX,,0.003,specimens,kg,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,BE,BR,,5,,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,BE,KR,JP,,20,specimens,Number of specimens,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,BE,US,JP,,10,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,BE,US,,13,4,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,BR,GB,JP,,1,specimens,g,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,BR,GB,JP,,0.002,specimens,kg,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,BR,GB,JP,,1,specimens,Number of specimens,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,BR,GB,US,,0.001,specimens,kg,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,BR,GB,XX,,0.002,specimens,kg,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,BR,GB,XX,,4,specimens,Number of specimens,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,CA,GB,XX,,2,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,CA,JP,,,1,specimens,g,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,CA,US,,,2,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,CA,US,,,4,specimens,Number of specimens,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,CH,GB,US,1,1,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,CH,GB,XX,1,,specimens,g,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,CH,GB,XX,,0.003,specimens,kg,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,CH,GB,XX,1,1,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,CH,US,,1,,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,CH,US,,8,3,specimens,Number of specimens,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,CN,DE,JP,,1.8,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,CN,GB,JP,,1,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,CN,US,,95,140,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,DE,CA,XX,2,,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,DE,GB,US,39,20,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,DE,GB,XX,0.2,0.2,specimens,kg,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,DE,GB,XX,1,1,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,DE,GB,XX,,1,specimens,Number of specimens,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,DE,US,,88,66,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,DE,US,,,55,specimens,ml,M,I
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,DE,US,,72,47,specimens,Number of specimens,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,DZ,GB,US,,1,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,ES,GB,XX,,2,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,FI,GB,XX,,1,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,FR,GB,XX,0.4,0.3,specimens,kg,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,FR,GB,XX,,1,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,FR,GB,XX,,1,specimens,Number of specimens,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,FR,US,,,748,specimens,ml,M,C
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,FR,US,,969,,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,FR,US,,,68,specimens,Number of specimens,M,C
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,FR,US,,177,13,specimens,Number of specimens,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,DE,JP,45,,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,DE,JP,1,31,specimens,Number of specimens,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,DE,US,180,180,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,FR,XX,172,54.98,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,JP,CH,15,15,specimens,Number of specimens,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,JP,XX,2,,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,KR,GB,5,,specimens,Number of specimens,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,KR,JP,,5,specimens,Number of specimens,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,KR,JP,,5,specimens,,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,NL,,377,394.4,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,SE,,,10,specimens,,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,US,,,302,specimens,ml,M,C
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,US,,915,62,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,US,,,20,specimens,Number of specimens,M,C
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,US,,41,16,specimens,Number of specimens,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,HU,GB,XX,,0.002,specimens,kg,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,ID,GB,JP,,0.006,specimens,kg,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,ID,GB,US,,1,specimens,Number of specimens,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,ID,GB,XX,,0.005,specimens,kg,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,ID,JP,,,2,specimens,g,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,ID,NL,,,5,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,IE,GB,XX,1,,specimens,,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,IE,US,,,4,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,IE,US,,15,,specimens,,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,IN,FR,GB,,149,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,IN,GB,JP,,0.003,specimens,kg,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,IN,GB,XX,,0.005,specimens,kg,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,IN,GB,XX,,4,specimens,Number of specimens,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,IT,GB,XX,,0.002,specimens,kg,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,JP,US,,25,,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,JP,US,,198,,specimens,Number of specimens,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,KH,GB,XX,,0.001,specimens,kg,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,KR,DE,JP,5.4,5.4,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,KR,GB,XX,,0.004,specimens,kg,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,KR,US,,,10,specimens,Number of specimens,M,C
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,KR,US,,96,,specimens,Number of specimens,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,KZ,GB,US,,2,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,MY,GB,JP,,1,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,NG,US,,,61,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,NL,GB,CH,,1,specimens,Number of specimens,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,NL,GB,CH,1,,specimens,,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,NL,GB,JP,,2,specimens,Number of specimens,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,NL,GB,JP,2,,specimens,,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,NL,GB,XX,0.2,0.1,specimens,kg,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,NL,US,,,240,specimens,Number of specimens,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,NL,US,,260,,specimens,,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,NO,GB,JP,4,,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,NO,GB,XX,,4,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,NO,GB,XX,4,,specimens,Number of specimens,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,NZ,JP,,1,,derivatives,g,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,NZ,JP,,,1,specimens,g,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,NZ,NL,,,540,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,RS,GB,JP,1,1,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,RS,GB,XX,,1,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,RU,GB,US,,0.011,specimens,kg,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,RU,GB,US,,7,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,RU,JP,,,1,specimens,g,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,RU,US,,,2,specimens,Number of specimens,M,C
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,RU,US,,,2,specimens,Number of specimens,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,SE,GB,XX,,0.7,specimens,kg,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,SG,CH,XX,,1,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,SG,US,,34,,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,SG,US,,26,30,specimens,Number of specimens,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,TH,JP,,,1,specimens,g,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,TR,GB,XX,1,1,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,UG,GB,US,,4,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,UG,GB,XX,,9,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,AT,JP,821,72,extract,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,AU,JP,135,,extract,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,BR,,725,,specimens,Number of specimens,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,DE,JP,751,751,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,DE,US,4457,4425,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,DE,US,1411,,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,DE,US,,5,specimens,Number of specimens,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,DE,XX,480,1891,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ES,US,,2.4,derivatives,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ES,US,7,,specimens,ml,M,C
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ES,US,,7.2,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ES,,2,,specimens,ml,M,C
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,FR,XX,,10,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,GB,CH,30,,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,GB,CH,,4,specimens,Number of specimens,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,GB,JP,30,30,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,GB,JP,,69,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,GB,US,8,7.5,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,GB,XX,,0.001,specimens,kg,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,GB,XX,61,84,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,GB,XX,,9,specimens,Number of specimens,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,GB,,3,3,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,JP,US,,4,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,JP,US,4,,specimens,Number of specimens,M,C
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,KR,JP,2,,specimens,ml,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,KR,JP,,2,specimens,Number of specimens,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,NL,US,10,10,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,NL,,6,,specimens,ml,M,C
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,NL,,8,152,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,SG,US,79,,specimens,ml,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,UY,NL,,6,,specimens,Number of specimens,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,UY,NL,,,6,specimens,,M,F
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,ZA,GB,XX,,0.001,specimens,kg,M,O
+2021,II,Chlorocebus aethiops,Mammalia,Primates,Cercopithecidae,Chlorocebus,ZA,US,,5,,specimens,,M,F
+2021,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,ZA,,2,,trophies,Number of specimens,H,I
+2021,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,AU,GB,JP,,7,specimens,ml,M,F
+2021,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,AU,GB,JP,,50,specimens,ml,M,O
+2021,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,AU,GB,JP,50,,specimens,Number of specimens,M,O
+2021,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,AU,GB,,4,,specimens,ml,M,F
+2021,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,FR,KN,,30,21,live,Number of specimens,M,C
+2021,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,JP,US,1,,specimens,Number of specimens,M,O
+2021,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,GB,US,XX,302.5,,specimens,ml,M,O
+2021,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,IE,US,,500,,specimens,ml,M,F
+2021,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,NL,US,,,673,specimens,Number of specimens,M,F
+2021,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,NL,US,,913,,specimens,,M,F
+2021,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,BB,,60,60,specimens,ml,M,C
+2021,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,GB,XX,2,,specimens,Number of specimens,M,I
+2021,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,KN,,59,120,live,Number of specimens,M,C
+2021,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,KN,,,341,specimens,Number of specimens,M,C
+2021,II,Chlorocebus sabaeus,Mammalia,Primates,Cercopithecidae,Chlorocebus,US,SG,JP,18,,specimens,ml,M,O
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AE,US,CN,,4,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AR,US,CN,,27,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AU,CA,KH,,276,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AU,CH,MU,,10,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AU,FR,MU,,12,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AU,GB,MU,9,48,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AU,JP,KH,16,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AU,US,CN,1542,106,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,AU,US,KH,405,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,BE,CN,,81.4,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,BE,GB,MU,,0.10,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,BE,GB,MU,115,115,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,BE,GB,MU,134,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,BE,MU,,0.10,,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,BE,MU,,6120,5620,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,BE,MU,,22140,21470,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,BE,MU,,,165.1,specimens,,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,BE,US,CN,178,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,BE,US,KH,146.2,146,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,BE,US,MU,150,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,BE,US,MU,100,,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,BE,US,,3037,2937,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,BN,US,CN,,18,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,CH,CN,,279,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,CH,MU,,190,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,CH,MU,,303,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,CH,MU,,85,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,DE,MU,,480,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,DE,MU,,319,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,DE,VN,,1240,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,DK,VN,,400,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,ES,VN,,726,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,FR,MU,,172,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,FR,MU,,96,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,GB,VN,,185.6,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,KR,KH,,190,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,KR,VN,,374,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,MU,,,178,live,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,MU,,,270,live,,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,CH,,37,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,CN,,39,live,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,CN,,191,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,CN,,19,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,CN,,225,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,KH,,432,live,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,KH,,851,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,KH,,5316,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,KH,,450,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,MU,,420,live,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,MU,,275,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,MU,,705,specimens,g,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,MU,,8881,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,MU,,473,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,MU,,8,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,MY,,183,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,PH,,38,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,PH,,8,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,VN,,192,live,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,VN,,40,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,,,67,live,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,,,5174,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,,,2,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,BE,CN,30,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,BE,CN,9,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,BE,MU,190,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,BE,MU,6,,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,CA,CN,,48.9,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,CA,CN,383.5,383.5,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,CA,KH,,418,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,CA,KH,512.8,6,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,CA,KH,6,6,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,CA,MU,,34.6,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,CA,MU,,24.2,specimens,g,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,CA,MU,19.7,571.88,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,CA,MU,1.8,171.76,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,CN,37,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,CN,16,692,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,MU,,7,specimens,kg,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,MU,40,40,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,MU,1799,3125,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,MU,277,1258,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,VN,2515,2934,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DE,,16,16,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,DK,MU,,160,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,ES,MU,,0.16,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,ES,MU,300,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,ES,MU,15,63,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,ES,MU,64,97,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,ES,VN,7.870,28.068,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,ES,VN,12,,specimens,l,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,ES,VN,168,168,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,ES,VN,13262,6628.49,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,CN,,0.011000003,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,CN,93,129.299999905,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,CN,31,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,KH,,0.00360,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,KH,,7.40000010,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,MR,2.1,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,MU,150,,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,MU,8825,,specimens,g,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,MU,,0.515,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,MU,4.62,13.448,specimens,kg,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,MU,1102.45,2485.6228571,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,MU,2860.5,4400.6971428,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,MU,2,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,MU,4,,specimens,Number of specimens,M,D
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,MU,46,21,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,VN,,0.05252,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,VN,1381,2029.380,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,VN,33,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,,871,806.5,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,,30,,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,FR,,12,9,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,GB,CN,,253.5,specimens,m,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,GB,MU,,0.112,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,GB,MU,436.05,1255.01,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,GB,MU,203,225.2,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,GB,MU,72,1164,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,GB,VN,110.2,110.2,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,GB,VN,128,128,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,GB,,2,2,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,IT,MU,,29.05,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,IT,MU,813,813,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,IT,VN,2,,specimens,l,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,IT,VN,12,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,IT,VN,155,155,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,CN,,16,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,CN,286.05,371,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,CN,120,583,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,KH,1833.464,1885,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,KH,5.6,3,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,KH,40,124,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,MU,4.5,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,MU,175.1,,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,MU,9,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,MU,300,,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,VN,2,2,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,,388.5,396,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CH,ZA,CN,,17,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CN,FR,MU,,199.2,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CN,US,CN,349,199,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CN,US,CN,1991,89895,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CN,US,KH,16,31,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CN,US,MU,30,65,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CO,US,CN,,14,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CO,US,XX,,7,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,CW,US,CN,,25,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CA,CN,2,2,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CA,KH,9945,10116,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CA,KH,80.32,94.36,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CA,MU,142,,specimens,g,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CA,MU,470.360,352.90,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CA,MU,120.58,138.28,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CH,DE,,28,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CH,VN,,118,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CN,,118.3,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,CN,,603,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,GB,MU,1313.78,825.35,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,GB,MU,7328,6754,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,GB,MU,2299,2424,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,GB,VN,3193,3193,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,GB,,0.4,0.4,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,GB,,34660,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,IL,DE,,843,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,IL,VN,843,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,JP,KH,7.68,,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,MU,,,40,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,CN,15.5,,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,CN,543.35,323,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,CN,16,,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,CN,27,27,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,KH,14255.5,2556,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,KH,20,,specimens,mg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,KH,1915.15,1818,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,KH,0.05,,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,KH,,320,specimens,ml,M,I
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,KH,56,56,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,KH,3180,,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,MU,34.85,,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,MU,561.7,522,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,MU,164,164,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,MU,340,340,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,,15.2,8,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,,,15,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DK,CH,MU,,19,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DK,CH,,16,,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DK,GB,CN,,10.4,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DK,GB,MU,,135.4,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DK,GB,MU,,1546,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DK,GB,VN,,810.1,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DK,GB,VN,,2936,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DK,GB,,338,,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DK,GB,,2,,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DK,GB,,1220.1,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DK,GB,,6303,,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DK,US,CN,,1410,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DK,US,CN,,11,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DK,US,,1050,,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DK,US,,50,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DK,US,,21,21,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,DK,US,,1368,,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ES,CH,MU,300,300,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ES,CH,MU,6,3,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ES,CH,VN,12,12,specimens,l,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ES,CH,VN,38700,38700,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ES,CH,VN,5456,5287,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ES,MU,,3750,,live,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ES,MU,,,2789,live,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ES,US,CN,1773,1431,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ES,US,VN,72,72,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ES,VN,,736,,live,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,CA,CN,7,7,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,CA,KH,,44.5,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,CA,MU,130,154,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,CA,MU,70,154,specimens,g,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,CA,MU,220.2,109.5,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,CA,MU,81.6,76.5,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,CH,MU,385,430,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,CH,MU,,50,specimens,g,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,CH,VN,828,828,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,CN,,2033,,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,CN,,2.4,,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,CN,,298,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,GB,MU,29.2003,9.6,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,GB,MU,0.002,0.284,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,GB,MU,0.100,0.020,specimens,kg,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,GB,MU,1585.71,1428.63,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,GB,MU,176.250,203.250,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,GB,MU,2890,1854,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,GB,MU,,80,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,GB,VN,24,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,MU,,163,,live,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,MU,,353,,live,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,MU,,,198,live,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,MU,,,270,live,,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,MU,,20,20,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,CN,2,65,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,CN,23,348,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,ID,,1,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,ID,2,,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,KH,108.62,142,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,KH,0.1880,,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,KH,873.92,1016,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,KH,,140,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,KH,9,,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,MU,,26,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,MU,,16,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,MU,58,,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,,1.8,2,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,FR,VN,,880,,live,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,BE,CN,116,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,BE,MU,44,,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,BE,US,25,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,CA,CH,4.95,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,CA,CN,184.25,179,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,CA,KH,,6.2,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,CA,MU,13.9,47.05,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,CA,MU,69,105.90,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,CH,CN,5.11,5.11,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,CN,,0.006,,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,DE,CN,,0.001,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,DE,CN,0.6,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,DE,CN,,18,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,DE,MU,1.2,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,DE,MU,11836,11576,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,DE,MU,714,718,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,DE,VN,248.12,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,DE,VN,15752,15189,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,DE,,1782,2014,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,DK,MU,,1,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,DK,MU,914,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,DK,MU,,914,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,DK,VN,1354,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,DK,VN,,2845,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,ES,MU,403,1031,live,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,ES,MU,48,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,ES,VN,500,510,live,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,ES,VN,204.8,419.6,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,FR,MU,0.500,,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,FR,MU,3.388,3.44980,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,FR,MU,1580.020,1149.5199950,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,FR,MU,153.4,96.199999,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,FR,MU,11.6,,specimens,m3,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,FR,MU,,1,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,FR,MU,,1,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,FR,VN,0.12,,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,FR,VN,,0.0576,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,FR,VN,,180,specimens,mg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,FR,VN,14.1,24,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,FR,VN,,7.2,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,FR,VN,,3,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,FR,,90,160,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,IT,MU,8.4,908.4,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,KR,CN,,102,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,KR,CN,102,102,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,KR,VN,10,115,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,KR,VN,,115,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,MU,MU,13,,live,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,MU,,1185,,live,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,MU,,,1041,live,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,MU,,12130,8100,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,MU,,10047,10000,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,MU,,,20,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,MU,,,47,specimens,,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,CH,60,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,CN,,29,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,CN,616.8,37,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,CN,669,644,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,KH,0.4,108,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,KH,0.1084,,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,KH,426,79,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,KH,32,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,MU,0.8,,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,MU,0.8,,specimens,g,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,MU,0.0048,,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,MU,0.0032,,specimens,kg,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,PH,2,2,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,VN,30,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,VN,,1,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,,800,710,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,,18,,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GB,VN,,94,,live,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GH,ZA,CN,,7,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,GT,US,VN,,1,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,HK,KR,VN,93,186,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IE,GB,MU,,106,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IE,GB,MU,212,,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IE,US,,2500,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IL,DE,VN,,337,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IL,ES,MU,,21,live,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IL,GB,MU,,34,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IL,US,CN,,385,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IN,CN,,,92,derivatives,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IN,CN,,,226.5,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IN,ES,VN,,1086,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IN,FR,VN,,8.446,specimens,kg,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IN,GB,VN,,10,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IN,GB,VN,,16,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IN,MU,,,24.2,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IN,MU,,,1221.2,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IN,US,CN,,6,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IN,US,CN,,16,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IN,US,KH,,90,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IN,US,KH,,76,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IN,US,KH,,8,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IN,US,MU,,134,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IN,US,,,652,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IT,CA,MU,74.75,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IT,GB,VN,9.6,42.6,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IT,RU,,6,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IT,US,CN,42992,3023,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IT,US,KH,15298,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IT,US,VN,16889,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,IT,US,,,6556,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,CA,CN,28.5,28.5,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,CA,KH,387.10,29.4,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,CA,KH,30.90,0.6,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,CA,MU,49.6,24,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,CA,MU,48,48,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,CH,CN,,22,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,CH,VN,,3,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,FR,MU,0.168,3.166,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,FR,PH,0.166,0.166,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,FR,VN,0.166,0.166,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,IT,MU,1.695,1.695,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,IT,MU,87.240,87.240,specimens,kg,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,US,CN,1.2,1,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,US,CN,435,223,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,US,CN,184,396,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,US,KH,,13,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,US,KH,0.4,,specimens,g,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,US,KH,202.8,32,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,US,KH,,7,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,US,KH,23,16,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,US,MU,96,40,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,US,PH,672,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,JP,US,,4.5,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KP,FR,MU,,13.05,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KP,FR,MU,,13.05,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,CA,KH,1273.1,,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,CA,KH,114,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,CN,,560,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,CO,,250,,live,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,FR,MU,,372.6,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,FR,MU,,18.4,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,GB,MR,34.6,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,GB,MU,18,,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,GB,MU,75.3,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,KH,,440,,live,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,KH,,40,,live,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,US,CN,10,,extract,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,US,CN,14,,extract,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,US,CN,30,10,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,US,CN,,17,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,US,KH,0.08,,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,US,MU,18,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,US,MU,27,,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,US,,100,,extract,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,US,,100,,extract,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,US,,635,145,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,US,,10,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,US,,25,,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KR,VN,,578,,live,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,KW,US,CN,,430,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,LB,US,CN,,68,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,MU,SE,MU,,6,specimens,,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,MW,US,CN,,4,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,MW,ZA,CN,,5,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,MX,US,CN,,343,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NG,ZA,CN,,10,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NG,ZA,VN,,10,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,CA,CN,,1043,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,CA,VN,,1612.3,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,GB,DE,13,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,GB,DE,,65,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,GB,MU,191.7,222.2,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,GB,MU,23.8,23.8,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,GB,MU,,2973,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,GB,MU,3188,,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,GB,VN,44,133,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,GB,VN,89,,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,GB,,100,100,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,US,CN,1377,1377,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,US,CN,,933,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,US,CN,933,,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,US,KH,130,210,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,US,KH,,392,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,US,KH,200,,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,US,MU,,1002,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,US,MU,,86,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NL,US,MU,35,,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NO,DE,MU,,2,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NO,GB,MU,,4,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NO,GB,MU,,94,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NZ,AU,,,360,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,NZ,US,,275,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,OM,US,CN,,23,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,PA,US,CN,,24,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,PH,US,CN,,78,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,PT,GB,MU,6.75,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,PT,GB,MU,160,100,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,PT,GB,VN,,14,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,PT,GB,VN,14,353,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,PY,US,CN,,25,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,RS,US,VN,,1,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,RU,US,CN,,23,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SA,US,CN,,127,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SA,US,,51,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SE,CA,KH,304,,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SE,CA,KH,36,12,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SE,CN,,31,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SE,GB,MU,,14,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SE,JP,CN,,7.4,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SE,KR,VN,192,638,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SE,US,KH,,7,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SG,US,CN,94,104,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SG,US,MU,10,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SV,US,CN,,4,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SV,US,VN,,8,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,SZ,ZA,CN,,1,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,TH,US,CN,,2,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,TN,US,CN,,44,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,TN,US,VN,,6,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,TR,US,CN,,11,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,TR,US,CN,11,,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,TW,US,CN,,908,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,TZ,CA,KH,,1.5,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,CM,472,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,CN,140354,180903.06,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,CN,135,410.10,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,CN,,33458,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,CN,1,,specimens,Number of specimens,M,I
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,KH,70856,97780.70,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,KH,1000,,specimens,g,M,I
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,KH,225,1,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,KH,2503,5524.77,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,KH,,18,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,KH,,92869,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,KH,,134,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,KM,20,,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,KM,2,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,MU,296,289,specimens,g,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,MU,1367,2566.75,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,MU,273,6628.71,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,MU,,11713,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,MU,1162,15201,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,US,20,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,US,,985,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,VN,,14566,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,,35843,,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,,35843,,specimens,g,M,I
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CH,CN,39,53.744,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CH,CN,6,6,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CH,FR,,24.5,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CH,MU,,2.5,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CH,MU,,19,specimens,g,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CH,MU,,31.5,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CH,MU,,56.2,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CH,MU,4,,unspecified,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CH,VN,,150,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CN,,482,,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CN,,9,,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CN,,1346,210,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,CN,,5738,1000,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,CN,4,886,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,CN,13,,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,FR,45,,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,MU,,35.45,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,MU,400,,specimens,mg,M,I
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,MU,50,34.59,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,MU,3,,specimens,ml,M,I
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,MU,6382,10443,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,MU,337,443,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,VN,13346,10980,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,,380,268,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DK,FR,29,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,DK,,,1501.4,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,ES,CN,2752,2572,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,ES,HK,,180,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,ES,MU,,31,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,ES,VN,144,716,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,KH,,12.8,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,MU,,2.138900001,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,MU,,11.88460012,specimens,kg,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,MU,519,1110.20000302,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,MU,38,54.25,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,MU,267,782.333334,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,MU,263,2283.666668,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,VN,,1,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,,9999,,specimens,g,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,,102,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,,3612,,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,,152,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,FR,,915,,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,CN,75,75,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,JP,4,4,specimens,ml,M,O
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,MU,,6.65,specimens,g,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,MU,,0.0252,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,MU,,0.0298,specimens,kg,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,MU,304,653,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,MU,,389,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,MU,3432,3549,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,VN,16,11.43,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,VN,,0.0080,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,VN,174,491.235,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,VN,,20.8,specimens,m,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,VN,4250,4214,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,,171,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,IL,,50,,unspecified,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,IT,MU,,32663.71,specimens,g,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,IT,MU,83,80,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,IT,MU,160,163,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,JP,CN,,10,live,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,JP,CN,,7.5,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,JP,CN,3123,8540,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,JP,CN,156,,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,JP,KH,178,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,JP,KH,169,,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,JP,KH,465,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,JP,KH,2846,28,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,JP,,1658,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,KH,XX,39,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,KR,CO,372,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,KR,KH,3,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,KR,KH,1003,1403,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,KR,VN,1500,,specimens,g,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,KR,VN,492,4.8,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,KR,VN,8067,22322,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,KR,,32,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,MU,,2511,,live,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,MU,,3513,,live,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,MU,,,2459,live,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,MU,,,3409,live,,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,MU,,40,354.2,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,MU,,188,675.3,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,MU,,1,,specimens,ml,M,I
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,MU,,77,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,MU,,43,,specimens,Number of specimens,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,MU,,,22,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,MU,,,8,specimens,,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,NL,CN,280,288,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,NL,,,1.5,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,PH,,,1673,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,SE,CN,1,,specimens,kg,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,SE,CN,,12.5,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,SE,CN,25,,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,SE,MU,3,,specimens,Number of specimens,M,I
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,SG,CN,460,,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,VN,,622,,extract,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,US,VN,,6401,43020,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,XX,DE,MU,,372,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,XX,IE,CN,,12,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,XX,IE,KH,,3,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ZA,MU,,,1.1,specimens,ml,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ZA,MU,,,0.4,specimens,ml,M,F
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ZA,US,CN,,890,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ZA,US,VN,,10,specimens,Number of specimens,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ZA,US,,1112,,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ZW,ZA,CN,,7,specimens,,M,C
+2021,II,Macaca fascicularis,Mammalia,Primates,Cercopithecidae,Macaca,ZW,ZA,VN,,1,specimens,,M,C
+2021,II,Macaca fuscata,Mammalia,Primates,Cercopithecidae,Macaca,GB,JP,,,2,specimens,Number of specimens,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,AT,US,,56,56,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,AU,GB,,100,100,specimens,Number of specimens,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,AU,US,,150.85,,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,CN,,133,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,,,200,specimens,mg,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CA,US,,,967,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CH,BE,CN,53,,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CH,BE,FR,,22,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CH,GB,US,2,2,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CH,NL,,288,,specimens,Number of specimens,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CH,NL,,,288,specimens,,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CH,US,,8,5,specimens,Number of specimens,M,F
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CN,US,CN,39,,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,CN,US,CN,,9,specimens,Number of specimens,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,DE,CA,CN,14,14,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,DE,GB,,3,3,live,Number of specimens,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,DE,GB,,20,,specimens,g,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,DE,GB,,35,28.013,specimens,kg,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,DE,GB,,5867,10,specimens,Number of specimens,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,KH,,19,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,,50.43,16,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,DE,US,,273,273,specimens,Number of specimens,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,DK,CA,CN,,2.28,specimens,g,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,DK,CA,CN,,28.76,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,DK,CA,,3.8442,,specimens,g,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,DK,CA,,18,,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,DK,US,,10,10,specimens,g,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,ES,GB,,730,209,specimens,Number of specimens,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,ES,US,,345,,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,ES,US,,79,,specimens,Number of specimens,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,FR,CA,CN,48,,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,FR,CA,CN,,100,specimens,Number of specimens,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,,223.2,194,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,FR,US,,8,,specimens,Number of specimens,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,GB,JP,US,30,,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,GB,JP,US,,36,specimens,Number of specimens,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,CN,160,,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,,0.05,,specimens,kg,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,,,500,specimens,mg,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,,1136.6,88,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,GB,US,,500,1136,specimens,Number of specimens,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,IE,US,,500,,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,IN,GB,XX,,0.001,specimens,kg,M,O
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,KR,CA,CN,180,180,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,KR,TH,,3258,3258,specimens,Number of specimens,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,KR,US,,0.16,,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,MY,CA,CN,,1.88,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,NL,CA,CN,,748.5,specimens,l,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,NL,CA,CN,1327.25,357.75,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,NL,US,CN,320,420,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,PH,US,,0.4,,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,RU,GB,US,,3,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,CN,138275,238035,specimens,g,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,CN,4158,1032.47,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,CN,,195,specimens,Number of specimens,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,US,,505,specimens,Number of specimens,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,CA,XX,,2,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,CN,,100,,specimens,g,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,CN,,200,,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,CN,,27,specimens,Number of specimens,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,DE,US,12,11.75,specimens,ml,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,GB,XX,,1,specimens,ml,M,O
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,NL,,,50,specimens,,M,C
+2021,II,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,US,TH,,952,953,specimens,Number of specimens,M,C
+2021,II,Papio anubis,Mammalia,Primates,Cercopithecidae,Papio,SE,US,,,45,specimens,Number of specimens,M,F
+2021,II,Papio cynocephalus,Mammalia,Primates,Cercopithecidae,Papio,US,TZ,,1,,trophies,Number of specimens,H,I
+2021,II,Papio cynocephalus,Mammalia,Primates,Cercopithecidae,Papio,US,ZM,,1,,skulls,Number of specimens,H,I
+2021,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,DK,ZA,,1,,trophies,,H,F
+2021,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,GB,ZA,NA,,1,trophies,,H,C
+2021,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,,6,skulls,,H,C
+2021,II,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,US,ZA,,2,,trophies,Number of specimens,H,C
+2021,II,Theropithecus gelada,Mammalia,Primates,Cercopithecidae,Theropithecus,US,ZA,ET,1,,trophies,Number of specimens,H,I
+2021,II,Furcifer pardalis,Reptilia,Sauria,Chamaeleonidae,Furcifer,PH,HK,CZ,20,,live,,B,C
+2021,II,Trioceros jacksonii,Reptilia,Sauria,Chamaeleonidae,Trioceros,KR,HK,KE,50,,live,Number of specimens,B,C
+2021,II,Crocodylus spp.,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,CN,XX,1,,skulls,Number of specimens,M,I
+2021,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,AT,ZA,,,3,skins,,H,C
+2021,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,BE,TN,,2,,specimens,Number of specimens,E,C
+2021,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,BE,ZA,,1,,trophies,Number of specimens,H,C
+2021,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,CA,ZA,,,1,trophies,,H,C
+2021,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,DE,ZA,,,1,trophies,,H,C
+2021,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,JP,ZA,,,1000,skins,,H,C
+2021,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,PL,ZA,,,1,skins,,H,C
+2021,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,PL,ZA,,,3,trophies,,H,C
+2021,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,ZA,,1,,skins,Number of specimens,H,C
+2021,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,ZA,,1,,trophies,Number of specimens,H,C
+2021,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,ZA,,2,,trophies,Number of specimens,H,I
+2021,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,ZA,,,5,trophies,,H,C
+2021,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,US,ZM,,1,,trophies,Number of specimens,H,I
+2021,II,Crocodylus porosus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,AE,FR,AU,1,,leather products (small),Number of specimens,E,C
+2021,II,Cycas revoluta,,Cycadales,Cycadaceae,Cycas,SA,AE,CN,1000,,dried plants,Number of specimens,G,A
+2021,II,Cycas revoluta,,Cycadales,Cycadaceae,Cycas,SA,AE,CN,,500,live,Number of specimens,B,A
+2021,II,Tursiops truncatus,Mammalia,Cetacea,Delphinidae,Tursiops,CN,ES,,,8,live,Number of specimens,E,F
+2021,II,Dendrobates auratus,Amphibia,Anura,Dendrobatidae,Dendrobates,KR,DE,,6,,live,Number of specimens,E,C
+2021,II,Dendrobates auratus,Amphibia,Anura,Dendrobatidae,Dendrobates,US,CO,,4,,live,Number of specimens,B,C
+2021,II,Dendrobates leucomelas,Amphibia,Anura,Dendrobatidae,Dendrobates,KR,DE,,6,,live,Number of specimens,E,C
+2021,II,Dendrobates tinctorius,Amphibia,Anura,Dendrobatidae,Dendrobates,KR,DE,NL,18,,live,Number of specimens,E,C
+2021,II,Epipedobates anthonyi,Amphibia,Anura,Dendrobatidae,Epipedobates,KR,DE,AT,6,,live,Number of specimens,E,C
+2021,II,Oophaga histrionica,Amphibia,Anura,Dendrobatidae,Oophaga,US,CO,,43,,live,Number of specimens,B,C
+2021,II,Oophaga lehmanni,Amphibia,Anura,Dendrobatidae,Oophaga,US,CO,,8,,live,Number of specimens,B,C
+2021,II,Phyllobates aurotaenia,Amphibia,Anura,Dendrobatidae,Phyllobates,US,CO,,7,,live,Number of specimens,B,C
+2021,II,Phyllobates bicolor,Amphibia,Anura,Dendrobatidae,Phyllobates,KR,DE,PL,6,,live,Number of specimens,E,C
+2021,II,Phyllobates bicolor,Amphibia,Anura,Dendrobatidae,Phyllobates,US,CO,,2,,live,Number of specimens,B,C
+2021,II,Phyllobates terribilis,Amphibia,Anura,Dendrobatidae,Phyllobates,US,CO,,3,,live,Number of specimens,B,C
+2021,II,Ranitomeya ventrimaculata,Amphibia,Anura,Dendrobatidae,Ranitomeya,KR,DE,AT,5,,live,Number of specimens,E,C
+2021,II,Cibotium barometz,,Dicksoniales,Dicksoniaceae,Cibotium,MY,CN,,10,,powder,kg,M,A
+2021,II,Naja atra,Reptilia,Serpentes,Elapidae,Naja,AU,FR,,,0.0001,derivatives,kg,M,O
+2021,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,AE,US,,,2,specimens,ml,M,O
+2021,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,AU,FR,DE,,0.000110,derivatives,kg,M,C
+2021,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,AU,FR,,0.005,,derivatives,g,M,C
+2021,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,AU,US,,,3,specimens,ml,M,O
+2021,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,CA,US,,,3,specimens,ml,M,O
+2021,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,CA,US,,,1,specimens,Number of specimens,M,O
+2021,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,CN,US,,,20,specimens,ml,M,O
+2021,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,DE,US,XX,1,,specimens,ml,M,O
+2021,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,DE,US,,,1,specimens,ml,M,O
+2021,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,HK,US,,,5,specimens,ml,M,O
+2021,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,JP,US,XX,7,,specimens,ml,M,O
+2021,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,JP,US,,,7,specimens,ml,M,O
+2021,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,KR,FR,DE,,0.0001,derivatives,kg,M,C
+2021,II,Naja kaouthia,Reptilia,Serpentes,Elapidae,Naja,KR,US,,,19,specimens,ml,M,O
+2021,II,Naja naja,Reptilia,Serpentes,Elapidae,Naja,AU,FR,,,0.0003,derivatives,kg,M,C
+2021,II,Naja naja,Reptilia,Serpentes,Elapidae,Naja,DE,US,,11,,medicine,g,M,F
+2021,II,Ophiophagus hannah,Reptilia,Serpentes,Elapidae,Ophiophagus,AU,FR,DE,,0.0001,derivatives,kg,M,F
+2021,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ES,XX,,1,ivory carvings,Number of specimens,E,O
+2021,II,Clemmys guttata,Reptilia,Testudines,Emydidae,Clemmys,US,CA,,108,,specimens,Number of specimens,E,I
+2021,II,Malaclemys terrapin,Reptilia,Testudines,Emydidae,Malaclemys,PH,HK,US,10,,live,,B,F
+2021,II,Terrapene carolina,Reptilia,Testudines,Emydidae,Terrapene,CA,US,XX,,3,carapaces,Number of specimens,E,O
+2021,II,Terrapene carolina,Reptilia,Testudines,Emydidae,Terrapene,KR,HK,ES,20,,live,Number of specimens,B,C
+2021,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,PE,ZA,,,2,trophies,,H,C
+2021,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,NA,,1,,skins,Number of specimens,H,I
+2021,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,ZA,,,1,trophies,,H,F
+2021,II,Euphorbia resinifera,,Euphorbiales,Euphorbiaceae,Euphorbia,DE,CH,,90,,live,Number of specimens,M,A
+2021,II,Euphorbia resinifera,,Euphorbiales,Euphorbiaceae,Euphorbia,US,DE,,,6.048,extract,l,M,A
+2021,II,Euphorbia resinifera,,Euphorbiales,Euphorbiaceae,Euphorbia,US,IT,,,19325,specimens,Number of specimens,M,A
+2021,II,Falco cherrug,Aves,Falconiformes,Falconidae,Falco,ES,QA,ES,1,,live,Number of specimens,B,C
+2021,II,Falco cherrug,Aves,Falconiformes,Falconidae,Falco,GE,AE,DE,,8,live,Number of specimens,B,C
+2021,II,Falco cherrug,Aves,Falconiformes,Falconidae,Falco,KZ,QA,GB,,7,live,Number of specimens,B,C
+2021,II,Falco cherrug,Aves,Falconiformes,Falconidae,Falco,SA,GE,CZ,,2,live,Number of specimens,B,C
+2021,II,Falco cherrug,Aves,Falconiformes,Falconidae,Falco,UZ,AM,,,10,live,kg,B,C
+2021,II,Falco cherrug,Aves,Falconiformes,Falconidae,Falco,UZ,AM,,1,,live,Number of specimens,B,C
+2021,II,Falco naumanni,Aves,Falconiformes,Falconidae,Falco,JP,UA,,2,,bodies,Number of specimens,H,C
+2021,II,Polihierax semitorquatus,Aves,Falconiformes,Falconidae,Polihierax,AE,ZA,,,8,live,,B,C
+2021,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,BG,ZA,,,1,trophies,,H,C
+2021,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,CL,RU,,,2,live,,B,C
+2021,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,NA,,1,,trophies,Number of specimens,H,I
+2021,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,1,,trophies,Number of specimens,H,I
+2021,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,US,ZA,,,4,trophies,,H,C
+2021,II,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,XX,ZW,,,2,live,Number of specimens,E,C
+2021,II,Felis lybica,Mammalia,Carnivora,Felidae,Felis,SE,ZA,,,1,trophies,,H,C
+2021,II,Leptailurus hybrid,Mammalia,Carnivora,Felidae,Leptailurus,US,SK,,,1,live,,B,C
+2021,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,CL,RU,,,2,live,,B,C
+2021,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,GB,NL,XX,2,,live,Number of specimens,E,I
+2021,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,GB,NL,XX,,2,live,,E,I
+2021,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,IN,ZA,,,6,live,,B,C
+2021,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,SE,ZA,,,1,trophies,,H,C
+2021,II,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,XX,ZW,,,2,live,Number of specimens,E,C
+2021,II,Lynx lynx,Mammalia,Carnivora,Felidae,Lynx,AE,CZ,,4,,live,Number of specimens,B,C
+2021,II,Lynx lynx,Mammalia,Carnivora,Felidae,Lynx,GR,AD,ES,2,,live,,E,C
+2021,II,Lynx lynx,Mammalia,Carnivora,Felidae,Lynx,GR,AD,,1,,live,,E,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,AE,ZA,,,2,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,AM,ZA,,,4,live,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,AR,ZA,,,2,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,AT,ZA,,1,1,bodies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,AT,ZA,,4,,bones,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,AT,ZA,,11,11,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,AU,ZA,,,2,bones,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BE,ZA,,1,,trophies,Number of specimens,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BE,ZA,,,4,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BG,ZA,,,4,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BR,ZA,,,2,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BY,RU,,,1,live,,B,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CA,ZA,,,36,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CH,ZA,,1,,trophies,Number of specimens,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CH,ZA,,,1,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CL,ZA,,,2,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CN,ZA,,6,,bodies,Number of specimens,E,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CN,ZA,,5,,bodies,Number of specimens,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CN,ZA,,1,,bodies,Number of specimens,H,D
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CN,ZA,,1,,skins,Number of specimens,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CN,ZA,,1,,trophies,Number of specimens,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CN,ZA,,,8,trophies,,E,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CN,ZA,,,12,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,CZ,ZA,,5,11,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,DE,ZA,,3,,trophies,Number of specimens,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,DE,ZA,,,16,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,DK,ZA,,,18,claws,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,DK,ZA,,9,22,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,ES,ZA,,3,,skins,Number of specimens,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,ES,ZA,,23,,trophies,Number of specimens,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,ES,ZA,,,22,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,FI,ZA,,1,,trophies,Number of specimens,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,FI,ZA,,,1,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,FR,ZA,,,3,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,GB,ZA,,3,,trophies,Number of specimens,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,GB,ZA,,,5,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,GH,ZA,,,4,live,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,HR,ZA,,2,,trophies,Number of specimens,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,HR,ZA,,,4,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,HU,ZA,,22,30,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,ID,ZA,,2,,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,IT,ZA,,,1,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,KW,ZA,,,2,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,LB,ZA,,,1,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,LU,ZA,,,1,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,MX,ZA,,4,,bones,Number of specimens,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,MX,ZA,,1,,leather products (large),Number of specimens,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,MX,ZA,,1,,skulls,Number of specimens,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,MX,ZA,,15,,trophies,Number of specimens,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,MX,ZA,,,18,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,MY,ZA,,1,,live,Number of specimens,B,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,NA,ZA,,2,,trophies,Number of specimens,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,NE,ZA,,,4,live,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,NO,DK,ZA,2,,trophies,Number of specimens,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,NO,DK,ZA,,2,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,NO,ZA,,1,,trophies,Number of specimens,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,PE,ZA,,,114,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,PH,AE,,3,,live,,B,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,PH,ZA,,,1,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,PL,ZA,,38,,trophies,Number of specimens,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,PL,ZA,,,27,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,RO,ZA,,1,,skulls,Number of specimens,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,RO,ZA,,3,,trophies,Number of specimens,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,RO,ZA,,,2,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,RS,ZA,,2,,trophies,Number of specimens,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,RU,LV,ZA,,1,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,RU,ZA,,,12,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,SA,ZA,,,3,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,SE,ZA,,,1,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,SK,ZA,,7,7,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,SR,HU,ZA,,1,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,TH,ZA,,,1,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,TJ,ZA,,,1,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,TR,ZA,,,1,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,TZ,ZA,,,8,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,UA,ZA,,,1,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,US,CA,ZA,,1,bodies,Number of specimens,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,US,GB,XX,2,,fur product (small),Number of specimens,E,O
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,US,ZA,XX,37,,specimens,Number of specimens,L,I
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,US,ZA,,2,,skulls,Number of specimens,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,US,ZA,,,37,specimens,,L,I
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,US,ZA,,2,,trophies,Number of specimens,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,US,ZA,,,14,trophies,,H,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,UZ,ZA,,2,,live,Number of specimens,B,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,UZ,ZA,,,2,live,,B,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,XX,ZW,,,2,live,Number of specimens,E,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,ZA,CM,,1,,live,,L,I
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,ZA,NL,DE,,3,live,,E,F
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,ZA,NL,,4,,live,,E,C
+2021,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,ZM,ZA,ZM,,1,trophies,,H,C
+2021,II,Prionailurus bengalensis,Mammalia,Carnivora,Felidae,Prionailurus,ZA,SG,XX,,2,live,Number of specimens,B,I
+2021,II,Puma concolor,Mammalia,Carnivora,Felidae,Puma,CH,AT,AR,1,,trophies,Number of specimens,H,C
+2021,II,Puma concolor,Mammalia,Carnivora,Felidae,Puma,CH,AT,AR,,1,trophies,,H,C
+2021,II,Naultinus grayii,Reptilia,Sauria,Gekkonidae,Naultinus,GB,CH,,2,,live,Number of specimens,B,C
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,AU,ZA,,,11,trophies,,H,O
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,CH,DE,CH,1,1,live,Number of specimens,B,C
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,CH,DE,ZA,3,3,trophies,Number of specimens,H,O
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,CN,ZA,,1,,trophies,Number of specimens,H,D
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,DE,CH,,1,,live,Number of specimens,B,O
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,GM,ZA,,,1,trophies,,H,O
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,ML,SN,,,3,live,,B,D
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,MX,ZA,,,1,trophies,,H,O
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,NZ,ZA,,,1,trophies,,H,C
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,PH,ZA,,,1,trophies,,H,C
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,SA,HU,ZW,,6,bones,,H,O
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,,1560,bones,,H,C
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,1,,trophies,Number of specimens,H,F
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,1,,trophies,Number of specimens,H,I
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,,1,trophies,,H,C
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZA,,,7,trophies,,H,O
+2021,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,US,ZW,,4,,feet,Number of specimens,H,I
+2021,II,Anthropoides virgo,Aves,Gruiformes,Gruidae,Anthropoides,ML,FR,NL,,2,live,Number of specimens,B,C
+2021,II,Balearica regulorum,Aves,Gruiformes,Gruidae,Balearica,ML,FR,BE,,6,live,Number of specimens,B,C
+2021,II,Grus grus,Aves,Gruiformes,Gruidae,Grus,JP,GB,XX,,1,bone carvings,Number of specimens,E,O
+2021,II,Grus grus,Aves,Gruiformes,Gruidae,Grus,JP,GB,XX,1,,bones,Number of specimens,E,O
+2021,II,Heliopora coerulea,Anthozoa,Helioporacea,Helioporidae,Heliopora,US,PW,,1,,jewellery,Number of specimens,M,I
+2021,II,Heloderma horridum,Reptilia,Sauria,Helodermatidae,Heloderma,GT,US,,,2,live,Number of specimens,E,F
+2021,II,Heloderma horridum,Reptilia,Sauria,Helodermatidae,Heloderma,PH,CZ,,3,,live,,B,C
+2021,II,Heloderma horridum,Reptilia,Sauria,Helodermatidae,Heloderma,US,CR,,,13,live,Number of specimens,B,C
+2021,II,Hexaprotodon liberiensis,Mammalia,Artiodactyla,Hippopotamidae,Hexaprotodon,PH,CL,,1,,live,,B,F
+2021,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,HU,ZA,,1,,trophies,,H,C
+2021,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,MX,NA,,1,,skulls,Number of specimens,H,C
+2021,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,PH,ID,,1,,live,,B,C
+2021,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZA,,2,,trophies,Number of specimens,H,I
+2021,II,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,US,ZM,,1,,trophies,Number of specimens,H,I
+2021,II,Hirudo medicinalis,Hirudinoidea,Arhynchobdellida,Hirudinidae,Hirudo,US,FR,LT,58300,,live,Number of specimens,B,C
+2021,II,Hirudo medicinalis,Hirudinoidea,Arhynchobdellida,Hirudinidae,Hirudo,US,FR,RO,2200,,live,Number of specimens,B,C
+2021,II,Hirudo medicinalis,Hirudinoidea,Arhynchobdellida,Hirudinidae,Hirudo,US,FR,,26400,,live,Number of specimens,B,C
+2021,II,Conolophus subcristatus,Reptilia,Sauria,Iguanidae,Conolophus,CA,UG,,,2,live,Number of specimens,B,C
+2021,II,Conolophus subcristatus,Reptilia,Sauria,Iguanidae,Conolophus,ID,UG,,,4,live,Number of specimens,B,C
+2021,II,Conolophus subcristatus,Reptilia,Sauria,Iguanidae,Conolophus,TH,UG,,,10,live,Number of specimens,B,C
+2021,II,Conolophus subcristatus,Reptilia,Sauria,Iguanidae,Conolophus,TH,UG,,6,,live,,B,C
+2021,II,Iguana iguana,Reptilia,Sauria,Iguanidae,Iguana,US,MX,,400,,bodies,Number of specimens,E,C
+2021,II,Pterocarpus erinaceus,,Fabales,Leguminosae,Pterocarpus,BJ,FR,XX,,1,wood product,Number of specimens,L,O
+2021,II,Chalcopsitta atra,Aves,Psittaciformes,Loriidae,Chalcopsitta,LK,TH,,20,,live,Number of specimens,B,C
+2021,II,Chalcopsitta atra,Aves,Psittaciformes,Loriidae,Chalcopsitta,UZ,ID,,10,,live,Number of specimens,B,C
+2021,II,Chalcopsitta cardinalis,Aves,Psittaciformes,Loriidae,Chalcopsitta,LK,TH,,10,,live,Number of specimens,B,C
+2021,II,Chalcopsitta duivenbodei,Aves,Psittaciformes,Loriidae,Chalcopsitta,LK,TH,,20,,live,Number of specimens,B,C
+2021,II,Chalcopsitta sintillata,Aves,Psittaciformes,Loriidae,Chalcopsitta,LK,TH,,10,,live,Number of specimens,B,C
+2021,II,Eos reticulata,Aves,Psittaciformes,Loriidae,Eos,LK,TH,,10,,live,Number of specimens,B,C
+2021,II,Eos rubra,Aves,Psittaciformes,Loriidae,Eos,LK,TH,,10,,live,Number of specimens,B,C
+2021,II,Eos squamata,Aves,Psittaciformes,Loriidae,Eos,LK,TH,,20,,live,Number of specimens,B,C
+2021,II,Lorius chlorocercus,Aves,Psittaciformes,Loriidae,Lorius,LK,TH,,10,,live,Number of specimens,B,C
+2021,II,Lorius garrulus,Aves,Psittaciformes,Loriidae,Lorius,LK,TH,,20,,live,Number of specimens,B,C
+2021,II,Lorius lory,Aves,Psittaciformes,Loriidae,Lorius,LK,TH,,20,,live,Number of specimens,B,C
+2021,II,Pseudeos fuscata,Aves,Psittaciformes,Loriidae,Pseudeos,LK,TH,,10,,live,Number of specimens,B,C
+2021,II,Trichoglossus haematodus,Aves,Psittaciformes,Loriidae,Trichoglossus,LK,TH,,20,,live,Number of specimens,B,C
+2021,II,Tauraco erythrolophus,Aves,Cuculiformes,Musophagidae,Tauraco,AO,PT,,,2,live,Number of specimens,E,C
+2021,II,Myrmecophaga tridactyla,Mammalia,Pilosa,Myrmecophagidae,Myrmecophaga,DE,CH,AR,1,,live,Number of specimens,B,I
+2021,II,Myrmecophaga tridactyla,Mammalia,Pilosa,Myrmecophagidae,Myrmecophaga,DE,CH,,1,,live,Number of specimens,B,C
+2021,II,Nautilus pompilius,Cephalopoda,Nautilida,Nautilidae,Nautilus,IT,GB,SB,1,1,carvings,Number of specimens,E,O
+2021,II,Nepenthes hybrid,,Nepenthales,Nepenthaceae,Nepenthes,PH,TH,,150,,live,,B,A
+2021,II,Acianthera decipiens,,Orchidales,Orchidaceae,Acianthera,SG,CR,,,6,live,Number of specimens,G,A
+2021,II,Aerangis splendida,,Orchidales,Orchidaceae,Aerangis,RW,NL,,20,,live,Number of specimens,G,A
+2021,II,Ansellia spp.,,Orchidales,Orchidaceae,Ansellia,RW,NL,,60,,live,Number of specimens,G,A
+2021,II,Arpophyllum giganteum,,Orchidales,Orchidaceae,Arpophyllum,SG,CR,,,8,live,Number of specimens,G,A
+2021,II,Brassavola nodosa,,Orchidales,Orchidaceae,Brassavola,SG,CR,,,4,live,Number of specimens,G,A
+2021,II,Bulbophyllum rothschildianum,,Orchidales,Orchidaceae,Bulbophyllum,TW,JP,,,2,live,Number of specimens,G,A
+2021,II,Campylocentrum schiedei,,Orchidales,Orchidaceae,Campylocentrum,SG,CR,,,3,live,Number of specimens,G,A
+2021,II,Catasetum maculatum,,Orchidales,Orchidaceae,Catasetum,SG,CR,,,1,live,Number of specimens,G,A
+2021,II,Cattleya amethystoglossa,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,2,live,Number of specimens,G,A
+2021,II,Cattleya bicolor,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,1,live,Number of specimens,G,A
+2021,II,Cattleya dowiana,,Orchidales,Orchidaceae,Cattleya,SG,CR,,,4,live,Number of specimens,G,A
+2021,II,Cattleya hoehnei,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,3,live,Number of specimens,G,A
+2021,II,Cattleya intermedia,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,2,live,Number of specimens,G,A
+2021,II,Cattleya lueddemanniana,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,4,live,Number of specimens,G,A
+2021,II,Cattleya lundii,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,3,live,Number of specimens,G,A
+2021,II,Cattleya luteola,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,3,live,Number of specimens,G,A
+2021,II,Cattleya nobilior,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,2,live,Number of specimens,G,A
+2021,II,Cattleya percivaliana,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,2,live,Number of specimens,G,A
+2021,II,Cattleya purpurata,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,2,live,Number of specimens,G,A
+2021,II,Cattleya walkeriana,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,2,live,Number of specimens,G,A
+2021,II,Cattleya warscewiczii,,Orchidales,Orchidaceae,Cattleya,TW,JP,,,2,live,Number of specimens,G,A
+2021,II,Clowesia rosea,,Orchidales,Orchidaceae,Clowesia,TW,JP,,,24,live,Number of specimens,G,A
+2021,II,Cochleanthes aromatica,,Orchidales,Orchidaceae,Cochleanthes,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Coelogyne spp.,,Orchidales,Orchidaceae,Coelogyne,TW,JP,,,3,live,Number of specimens,G,A
+2021,II,Comparettia falcata,,Orchidales,Orchidaceae,Comparettia,SG,CR,,,3,live,Number of specimens,G,A
+2021,II,Cymbidium atropurpureum,,Orchidales,Orchidaceae,Cymbidium,TW,JP,,,3,live,Number of specimens,G,A
+2021,II,Cymbidium canaliculatum,,Orchidales,Orchidaceae,Cymbidium,TW,JP,,,3,live,Number of specimens,G,A
+2021,II,Cymbidium ensifolium,,Orchidales,Orchidaceae,Cymbidium,TW,JP,,,3,live,Number of specimens,G,A
+2021,II,Dendrobium sanguinolentum,,Orchidales,Orchidaceae,Dendrobium,TW,JP,,,3,live,Number of specimens,G,A
+2021,II,Dressleria dilecta,,Orchidales,Orchidaceae,Dressleria,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Elleanthus spp.,,Orchidales,Orchidaceae,Elleanthus,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Encyclia ceratistes,,Orchidales,Orchidaceae,Encyclia,SG,CR,,,5,live,Number of specimens,G,A
+2021,II,Encyclia phoenicea,,Orchidales,Orchidaceae,Encyclia,TW,JP,,,3,live,Number of specimens,G,A
+2021,II,Epidendrum spp.,,Orchidales,Orchidaceae,Epidendrum,SG,CR,,,3,live,Number of specimens,G,A
+2021,II,Epidendrum ciliare,,Orchidales,Orchidaceae,Epidendrum,SG,CR,,,5,live,Number of specimens,G,A
+2021,II,Epidendrum circinatum,,Orchidales,Orchidaceae,Epidendrum,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Epidendrum exasperatum,,Orchidales,Orchidaceae,Epidendrum,SG,CR,,,1,live,Number of specimens,G,A
+2021,II,Epidendrum oerstedii,,Orchidales,Orchidaceae,Epidendrum,SG,CR,,,3,live,Number of specimens,G,A
+2021,II,Epidendrum pseudepidendrum,,Orchidales,Orchidaceae,Epidendrum,TW,JP,,,3,live,Number of specimens,G,A
+2021,II,Epidendrum radicans,,Orchidales,Orchidaceae,Epidendrum,SG,CR,,,4,live,Number of specimens,G,A
+2021,II,Guarianthe bowringiana,,Orchidales,Orchidaceae,Guarianthe,TW,JP,,,1,live,Number of specimens,G,A
+2021,II,Guarianthe laelioides,,Orchidales,Orchidaceae,Guarianthe,TW,JP,,,3,live,Number of specimens,G,A
+2021,II,Guarianthe skinneri,,Orchidales,Orchidaceae,Guarianthe,SG,CR,,,14,live,Number of specimens,G,A
+2021,II,Huntleya burtii,,Orchidales,Orchidaceae,Huntleya,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Isochilus linearis,,Orchidales,Orchidaceae,Isochilus,SG,CR,,,6,live,Number of specimens,G,A
+2021,II,Laelia lueddemannii,,Orchidales,Orchidaceae,Laelia,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Laelia superbiens,,Orchidales,Orchidaceae,Laelia,TW,JP,,,1,live,Number of specimens,G,A
+2021,II,Lycaste bradeorum,,Orchidales,Orchidaceae,Lycaste,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Lycaste brevispatha,,Orchidales,Orchidaceae,Lycaste,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Lycaste crinita,,Orchidales,Orchidaceae,Lycaste,TW,JP,,,2,live,Number of specimens,G,A
+2021,II,Lycaste deppei,,Orchidales,Orchidaceae,Lycaste,TW,JP,,,3,live,Number of specimens,G,A
+2021,II,Lycaste dowiana,,Orchidales,Orchidaceae,Lycaste,SG,CR,,,1,live,Number of specimens,G,A
+2021,II,Lycaste leucantha,,Orchidales,Orchidaceae,Lycaste,TW,JP,,,3,live,Number of specimens,G,A
+2021,II,Lycaste tricolor,,Orchidales,Orchidaceae,Lycaste,SG,CR,,,1,live,Number of specimens,G,A
+2021,II,Masdevallia wendlandiana,,Orchidales,Orchidaceae,Masdevallia,TW,JP,,,3,live,Number of specimens,G,A
+2021,II,Maxillaria spp.,,Orchidales,Orchidaceae,Maxillaria,SG,CR,,,5,live,Number of specimens,G,A
+2021,II,Maxillaria biolleyi,,Orchidales,Orchidaceae,Maxillaria,SG,CR,,,4,live,Number of specimens,G,A
+2021,II,Maxillaria egertoniana,,Orchidales,Orchidaceae,Maxillaria,SG,CR,,,3,live,Number of specimens,G,A
+2021,II,Maxillaria endresii,,Orchidales,Orchidaceae,Maxillaria,SG,CR,,,3,live,Number of specimens,G,A
+2021,II,Maxillaria fulgens,,Orchidales,Orchidaceae,Maxillaria,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Maxillaria grandiflora,,Orchidales,Orchidaceae,Maxillaria,TW,JP,,,3,live,Number of specimens,G,A
+2021,II,Maxillaria hedwigiae,,Orchidales,Orchidaceae,Maxillaria,SG,CR,,,1,live,Number of specimens,G,A
+2021,II,Maxillaria horichii,,Orchidales,Orchidaceae,Maxillaria,SG,CR,,,3,live,Number of specimens,G,A
+2021,II,Maxillaria maleolens,,Orchidales,Orchidaceae,Maxillaria,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Maxillaria oreocharis,,Orchidales,Orchidaceae,Maxillaria,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Maxillaria pseudoneglecta,,Orchidales,Orchidaceae,Maxillaria,SG,CR,,,3,live,Number of specimens,G,A
+2021,II,Maxillaria ringens,,Orchidales,Orchidaceae,Maxillaria,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Maxillaria rufescens,,Orchidales,Orchidaceae,Maxillaria,TW,JP,,,3,live,Number of specimens,G,A
+2021,II,Maxillaria tenuifolia,,Orchidales,Orchidaceae,Maxillaria,SG,CR,,,4,live,Number of specimens,G,A
+2021,II,Maxillaria uncata,,Orchidales,Orchidaceae,Maxillaria,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Maxillaria variabilis,,Orchidales,Orchidaceae,Maxillaria,TW,JP,,,3,live,Number of specimens,G,A
+2021,II,Miltonia regnellii,,Orchidales,Orchidaceae,Miltonia,TW,JP,,,2,live,Number of specimens,G,A
+2021,II,Miltonia spectabilis,,Orchidales,Orchidaceae,Miltonia,TW,JP,,,3,live,Number of specimens,G,A
+2021,II,Myoxanthus spp.,,Orchidales,Orchidaceae,Myoxanthus,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Nidema spp.,,Orchidales,Orchidaceae,Nidema,SG,CR,,,4,live,Number of specimens,G,A
+2021,II,Oncidium spp.,,Orchidales,Orchidaceae,Oncidium,SG,CR,,,7,live,Number of specimens,G,A
+2021,II,Oncidium baueri,,Orchidales,Orchidaceae,Oncidium,TW,JP,,,3,live,Number of specimens,G,A
+2021,II,Oncidium sphacelatum,,Orchidales,Orchidaceae,Oncidium,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Ophrys sphegodes,,Orchidales,Orchidaceae,Ophrys,RU,AZ,,,4,roots,,G,A
+2021,II,Orchidaceae spp.,,Orchidales,Orchidaceae,,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Orchidaceae spp.,,Orchidales,Orchidaceae,,TW,JP,,,200,live,Number of specimens,B,A
+2021,II,Orchidaceae spp.,,Orchidales,Orchidaceae,,TW,JP,,,131,live,Number of specimens,G,A
+2021,II,Otoglossum globuliferum,,Orchidales,Orchidaceae,Otoglossum,SG,CR,,,3,live,Number of specimens,G,A
+2021,II,Pabstiella tripterantha,,Orchidales,Orchidaceae,Pabstiella,SG,CR,,,3,live,Number of specimens,G,A
+2021,II,Phalaenopsis hybrid,,Orchidales,Orchidaceae,Phalaenopsis,CN,NL,,3468,,live,Number of specimens,B,A
+2021,II,Pholidota chinensis,,Orchidales,Orchidaceae,Pholidota,TW,JP,,,3,live,Number of specimens,G,A
+2021,II,Pleurothallis spp.,,Orchidales,Orchidaceae,Pleurothallis,SG,CR,,,1,live,Number of specimens,G,A
+2021,II,Pleurothallis spp.,,Orchidales,Orchidaceae,Pleurothallis,TW,JP,,,6,live,Number of specimens,G,A
+2021,II,Pleurothallis crocodiliceps,,Orchidales,Orchidaceae,Pleurothallis,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Pleurothallis ruscifolia,,Orchidales,Orchidaceae,Pleurothallis,SG,CR,,,5,live,Number of specimens,G,A
+2021,II,Pleurothallis tonduzii,,Orchidales,Orchidaceae,Pleurothallis,SG,CR,,,3,live,Number of specimens,G,A
+2021,II,Podangis spp.,,Orchidales,Orchidaceae,Podangis,RW,NL,,20,,live,Number of specimens,G,A
+2021,II,Prosthechea abbreviata,,Orchidales,Orchidaceae,Prosthechea,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Prosthechea baculus,,Orchidales,Orchidaceae,Prosthechea,SG,CR,,,3,live,Number of specimens,G,A
+2021,II,Prosthechea fragrans,,Orchidales,Orchidaceae,Prosthechea,SG,CR,,,3,live,Number of specimens,G,A
+2021,II,Prosthechea vagans,,Orchidales,Orchidaceae,Prosthechea,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Restrepia trichoglossa,,Orchidales,Orchidaceae,Restrepia,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Restrepiella ophiocephala,,Orchidales,Orchidaceae,Restrepiella,SG,CR,,,1,live,Number of specimens,G,A
+2021,II,Scaphyglottis bilineata,,Orchidales,Orchidaceae,Scaphyglottis,SG,CR,,,1,live,Number of specimens,G,A
+2021,II,Scaphyglottis mesocopis,,Orchidales,Orchidaceae,Scaphyglottis,SG,CR,,,3,live,Number of specimens,G,A
+2021,II,Scaphyglottis micrantha,,Orchidales,Orchidaceae,Scaphyglottis,SG,CR,,,5,live,Number of specimens,G,A
+2021,II,Scaphyglottis prolifera,,Orchidales,Orchidaceae,Scaphyglottis,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Sobralia spp.,,Orchidales,Orchidaceae,Sobralia,SG,CR,,,5,live,Number of specimens,G,A
+2021,II,Sobralia fragrans,,Orchidales,Orchidaceae,Sobralia,SG,CR,,,3,live,Number of specimens,G,A
+2021,II,Specklinia corniculata,,Orchidales,Orchidaceae,Specklinia,SG,CR,,,3,live,Number of specimens,G,A
+2021,II,Specklinia grobyi,,Orchidales,Orchidaceae,Specklinia,SG,CR,,,3,live,Number of specimens,G,A
+2021,II,Specklinia microphylla,,Orchidales,Orchidaceae,Specklinia,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Specklinia pfavii,,Orchidales,Orchidaceae,Specklinia,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Stanhopea wardii,,Orchidales,Orchidaceae,Stanhopea,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Stelis aprica,,Orchidales,Orchidaceae,Stelis,SG,CR,,,6,live,Number of specimens,G,A
+2021,II,Stelis argentata,,Orchidales,Orchidaceae,Stelis,SG,CR,,,5,live,Number of specimens,G,A
+2021,II,Stelis gelida,,Orchidales,Orchidaceae,Stelis,SG,CR,,,6,live,Number of specimens,G,A
+2021,II,Stelis imraei,,Orchidales,Orchidaceae,Stelis,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Trichosalpinx blaisdellii,,Orchidales,Orchidaceae,Trichosalpinx,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Trichosalpinx rotundata,,Orchidales,Orchidaceae,Trichosalpinx,SG,CR,,,1,live,Number of specimens,G,A
+2021,II,Vanilla dressleri,,Orchidales,Orchidaceae,Vanilla,SG,CR,,,1,live,Number of specimens,G,A
+2021,II,Vanilla odorata,,Orchidales,Orchidaceae,Vanilla,SG,CR,,,5,live,Number of specimens,G,A
+2021,II,Vanilla planifolia,,Orchidales,Orchidaceae,Vanilla,SG,CR,,,5,live,Number of specimens,G,A
+2021,II,Vanilla pompona,,Orchidales,Orchidaceae,Vanilla,SG,CR,,,5,live,Number of specimens,G,A
+2021,II,Xylobium elongatum,,Orchidales,Orchidaceae,Xylobium,SG,CR,,,3,live,Number of specimens,G,A
+2021,II,Xylobium squalens,,Orchidales,Orchidaceae,Xylobium,SG,CR,,,2,live,Number of specimens,G,A
+2021,II,Eupodotis senegalensis,Aves,Gruiformes,Otididae,Eupodotis,CN,BE,,1,,bodies,Number of specimens,E,C
+2021,II,Pandion haliaetus,Aves,Falconiformes,Pandionidae,Pandion,CA,US,XX,,8,feathers,Number of specimens,E,O
+2021,II,Ornithoptera croesus,Insecta,Lepidoptera,Papilionidae,Ornithoptera,CN,ID,,2,,bodies,Number of specimens,E,F
+2021,II,Ornithoptera goliath,Insecta,Lepidoptera,Papilionidae,Ornithoptera,CH,FR,XX,,2,bodies,Number of specimens,E,I
+2021,II,Ornithoptera meridionalis,Insecta,Lepidoptera,Papilionidae,Ornithoptera,CN,ID,,1,,bodies,Number of specimens,E,F
+2021,II,Ornithoptera priamus,Insecta,Lepidoptera,Papilionidae,Ornithoptera,CH,FR,XX,,4,bodies,Number of specimens,E,I
+2021,II,Ornithoptera rothschildi,Insecta,Lepidoptera,Papilionidae,Ornithoptera,CN,ID,,2,,bodies,Number of specimens,E,F
+2021,II,Papilio hospiton,Insecta,Lepidoptera,Papilionidae,Papilio,CH,FR,,,7,bodies,Number of specimens,E,I
+2021,II,Parnassius apollo,Insecta,Lepidoptera,Papilionidae,Parnassius,CH,FR,,,16,bodies,Number of specimens,E,I
+2021,II,Trogonoptera brookiana,Insecta,Lepidoptera,Papilionidae,Trogonoptera,CH,FR,XX,,3,bodies,Number of specimens,E,I
+2021,II,Troides criton,Insecta,Lepidoptera,Papilionidae,Troides,CN,ID,,2,,bodies,Number of specimens,E,F
+2021,II,Troides haliphron,Insecta,Lepidoptera,Papilionidae,Troides,CN,ID,,2,,bodies,Number of specimens,E,F
+2021,II,Troides helena,Insecta,Lepidoptera,Papilionidae,Troides,CN,ID,,1,,bodies,Number of specimens,E,F
+2021,II,Troides oblongomaculatus,Insecta,Lepidoptera,Papilionidae,Troides,CN,ID,,2,,bodies,Number of specimens,E,F
+2021,II,Troides vandepolli,Insecta,Lepidoptera,Papilionidae,Troides,CN,ID,,1,,bodies,Number of specimens,E,F
+2021,II,Pavo muticus,Aves,Galliformes,Phasianidae,Pavo,CN,GB,XX,4,,feathers,Number of specimens,E,O
+2021,II,Pavo muticus,Aves,Galliformes,Phasianidae,Pavo,CN,GB,XX,2,,feathers,,E,O
+2021,II,Pavo muticus,Aves,Galliformes,Phasianidae,Pavo,IN,ZA,,,20,live,,B,C
+2021,II,Polyplectron malacense,Aves,Galliformes,Phasianidae,Polyplectron,US,CA,,,6,live,Number of specimens,B,F
+2021,II,Syrmaticus reevesii,Aves,Galliformes,Phasianidae,Syrmaticus,BH,FR,,,24,live,Number of specimens,B,C
+2021,II,Syrmaticus reevesii,Aves,Galliformes,Phasianidae,Syrmaticus,LK,TH,,6,,live,Number of specimens,B,C
+2021,II,Syrmaticus reevesii,Aves,Galliformes,Phasianidae,Syrmaticus,US,CZ,,,2,trophies,,H,C
+2021,II,Podocnemis unifilis,Reptilia,Testudines,Podocnemididae,Podocnemis,PH,HK,PE,5,,live,,B,F
+2021,II,Agapornis canus,Aves,Psittaciformes,Psittacidae,Agapornis,PH,BE,,14,,live,,B,C
+2021,II,Agapornis fischeri,Aves,Psittaciformes,Psittacidae,Agapornis,LK,CZ,,250,,live,Number of specimens,B,C
+2021,II,Agapornis fischeri,Aves,Psittaciformes,Psittacidae,Agapornis,PK,PH,,,50,live,,B,C
+2021,II,Agapornis personatus,Aves,Psittaciformes,Psittacidae,Agapornis,PH,BE,,50,,live,,B,C
+2021,II,Alisterus scapularis,Aves,Psittaciformes,Psittacidae,Alisterus,UZ,CZ,,6,,live,Number of specimens,B,C
+2021,II,Amazona aestiva,Aves,Psittaciformes,Psittacidae,Amazona,LK,CZ,,67,,live,Number of specimens,B,C
+2021,II,Amazona aestiva,Aves,Psittaciformes,Psittacidae,Amazona,LK,QA,,4,,live,Number of specimens,B,C
+2021,II,Amazona aestiva,Aves,Psittaciformes,Psittacidae,Amazona,PH,CZ,AT,2,,live,,B,C
+2021,II,Amazona aestiva,Aves,Psittaciformes,Psittacidae,Amazona,ZA,NA,,,2,live,Number of specimens,B,C
+2021,II,Amazona albifrons,Aves,Psittaciformes,Psittacidae,Amazona,LK,CZ,,5,,live,Number of specimens,B,C
+2021,II,Amazona albifrons,Aves,Psittaciformes,Psittacidae,Amazona,LK,QA,,4,,live,Number of specimens,B,C
+2021,II,Amazona amazonica,Aves,Psittaciformes,Psittacidae,Amazona,LK,SR,,40,,live,Number of specimens,B,C
+2021,II,Amazona autumnalis,Aves,Psittaciformes,Psittacidae,Amazona,PH,CZ,IT,3,,live,,B,C
+2021,II,Amazona autumnalis,Aves,Psittaciformes,Psittacidae,Amazona,PH,CZ,SE,3,,live,,B,C
+2021,II,Amazona autumnalis,Aves,Psittaciformes,Psittacidae,Amazona,TH,CY,ES,2,,live,,B,C
+2021,II,Amazona farinosa,Aves,Psittaciformes,Psittacidae,Amazona,LK,GY,,12,,live,Number of specimens,B,C
+2021,II,Amazona ochrocephala,Aves,Psittaciformes,Psittacidae,Amazona,LK,CZ,,38,,live,Number of specimens,B,C
+2021,II,Amazona ochrocephala,Aves,Psittaciformes,Psittacidae,Amazona,LK,GY,,45,,live,Number of specimens,B,C
+2021,II,Amazona ochrocephala,Aves,Psittaciformes,Psittacidae,Amazona,LK,SR,,20,,live,Number of specimens,B,C
+2021,II,Amazona ochrocephala,Aves,Psittaciformes,Psittacidae,Amazona,ZA,NA,,,17,live,Number of specimens,B,C
+2021,II,Amazona ventralis,Aves,Psittaciformes,Psittacidae,Amazona,LK,CZ,,1,,live,Number of specimens,B,C
+2021,II,Amazona xantholora,Aves,Psittaciformes,Psittacidae,Amazona,LK,QA,,4,,live,Number of specimens,B,C
+2021,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,ID,LK,,,50,live,Number of specimens,B,C
+2021,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,LK,PH,,2,,live,Number of specimens,B,C
+2021,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,LK,SR,,24,,live,Number of specimens,B,C
+2021,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,RU,BY,,,1,live,,B,C
+2021,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,TH,AU,,6,,live,,B,C
+2021,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,TH,LK,,1,,live,,B,C
+2021,II,Ara chloropterus,Aves,Psittaciformes,Psittacidae,Ara,ID,LK,,,20,live,Number of specimens,B,C
+2021,II,Ara chloropterus,Aves,Psittaciformes,Psittacidae,Ara,KW,ZA,,,1,live,,B,C
+2021,II,Ara chloropterus,Aves,Psittaciformes,Psittacidae,Ara,LK,SR,,10,,live,Number of specimens,B,C
+2021,II,Ara chloropterus,Aves,Psittaciformes,Psittacidae,Ara,QA,ZA,,2,,live,Number of specimens,B,C
+2021,II,Ara chloropterus,Aves,Psittaciformes,Psittacidae,Ara,RU,BY,,,2,live,,B,C
+2021,II,Ara hybrid,Aves,Psittaciformes,Psittacidae,Ara,KW,ZA,,,1,live,,B,C
+2021,II,Ara hybrid,Aves,Psittaciformes,Psittacidae,Ara,LB,ZA,,,2,live,,B,C
+2021,II,Ara severus,Aves,Psittaciformes,Psittacidae,Ara,LK,SR,,6,,live,Number of specimens,B,C
+2021,II,Aratinga solstitialis,Aves,Psittaciformes,Psittacidae,Aratinga,DE,CH,,,4,specimens,Number of specimens,M,C
+2021,II,Aratinga solstitialis,Aves,Psittaciformes,Psittacidae,Aratinga,ID,LK,,,80,live,Number of specimens,B,C
+2021,II,Diopsittaca nobilis,Aves,Psittaciformes,Psittacidae,Diopsittaca,LK,GY,,47,,live,Number of specimens,B,C
+2021,II,Diopsittaca nobilis,Aves,Psittaciformes,Psittacidae,Diopsittaca,LK,SR,,6,,live,Number of specimens,B,C
+2021,II,Eclectus roratus,Aves,Psittaciformes,Psittacidae,Eclectus,LK,TH,,40,,live,Number of specimens,B,C
+2021,II,Forpus coelestis,Aves,Psittaciformes,Psittacidae,Forpus,LK,CZ,,50,,live,Number of specimens,B,C
+2021,II,Myiopsitta monachus,Aves,Psittaciformes,Psittacidae,Myiopsitta,LK,QA,,6,,live,Number of specimens,B,C
+2021,II,Nestor notabilis,Aves,Psittaciformes,Psittacidae,Nestor,GB,ZA,,1,,bodies,Number of specimens,E,C
+2021,II,Orthopsittaca manilata,Aves,Psittaciformes,Psittacidae,Orthopsittaca,LK,SR,,12,,live,Number of specimens,B,C
+2021,II,Pionites leucogaster,Aves,Psittaciformes,Psittacidae,Pionites,LK,CZ,,40,,live,Number of specimens,B,C
+2021,II,Pionites leucogaster,Aves,Psittaciformes,Psittacidae,Pionites,TH,PH,,50,,live,,B,C
+2021,II,Pionites melanocephalus,Aves,Psittaciformes,Psittacidae,Pionites,ID,LK,,,80,live,Number of specimens,B,C
+2021,II,Pionites melanocephalus,Aves,Psittaciformes,Psittacidae,Pionites,LK,SR,,48,,live,Number of specimens,B,C
+2021,II,Pionus chalcopterus,Aves,Psittaciformes,Psittacidae,Pionus,LK,CZ,,7,,live,Number of specimens,B,C
+2021,II,Pionus senilis,Aves,Psittaciformes,Psittacidae,Pionus,LK,CZ,,4,,live,Number of specimens,B,C
+2021,II,Poicephalus gulielmi,Aves,Psittaciformes,Psittacidae,Poicephalus,LK,QA,,8,,live,Number of specimens,B,C
+2021,II,Psittacula cyanocephala,Aves,Psittaciformes,Psittacidae,Psittacula,PH,AE,,5,,live,,B,C
+2021,II,Psittacula derbiana,Aves,Psittaciformes,Psittacidae,Psittacula,AO,PT,,,2,live,Number of specimens,B,C
+2021,II,Pyrrhura picta,Aves,Psittaciformes,Psittacidae,Pyrrhura,LK,SR,,34,,live,Number of specimens,B,C
+2021,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,PH,US,,10,,live,,B,C
+2021,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,US,MX,VN,,4,leather products (small),Number of specimens,H,C
+2021,II,Morelia viridis,Reptilia,Serpentes,Pythonidae,Morelia,TH,SE,US,4,,live,,B,F
+2021,II,Morelia viridis,Reptilia,Serpentes,Pythonidae,Morelia,TH,SE,,4,,live,,B,C
+2021,II,Python brongersmai,Reptilia,Serpentes,Pythonidae,Python,RU,BY,,,2,live,,B,C
+2021,II,Python regius,Reptilia,Serpentes,Pythonidae,Python,CH,PT,,1,,live,Number of specimens,B,C
+2021,II,Python regius,Reptilia,Serpentes,Pythonidae,Python,NO,DK,,2,,live,Number of specimens,B,C
+2021,II,Python regius,Reptilia,Serpentes,Pythonidae,Python,NO,SE,,,1,live,,B,C
+2021,II,Python regius,Reptilia,Serpentes,Pythonidae,Python,PH,US,,83,,live,,B,C
+2021,II,Python regius,Reptilia,Serpentes,Pythonidae,Python,TH,ID,US,26,,live,,B,C
+2021,II,Python regius,Reptilia,Serpentes,Pythonidae,Python,TH,SE,,42,,live,,B,C
+2021,II,Python regius,Reptilia,Serpentes,Pythonidae,Python,TH,US,,17,,live,,B,C
+2021,II,Python regius,Reptilia,Serpentes,Pythonidae,Python,US,CA,,,122,live,Number of specimens,B,F
+2021,II,Python regius,Reptilia,Serpentes,Pythonidae,Python,US,ZA,,15,,live,Number of specimens,B,C
+2021,II,Ramphastos toco,Aves,Piciformes,Ramphastidae,Ramphastos,LK,GY,,7,,live,Number of specimens,B,C
+2021,II,Ramphastos tucanus,Aves,Piciformes,Ramphastidae,Ramphastos,LK,PH,,2,,live,Number of specimens,B,C
+2021,II,Ramphastos vitellinus,Aves,Piciformes,Ramphastidae,Ramphastos,LK,TH,,4,,live,Number of specimens,B,C
+2021,II,Rhea americana,Aves,Rheiformes,Rheidae,Rhea,LK,TH,,12,,live,Number of specimens,B,C
+2021,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,US,ZA,,,1,trophies,,H,F
+2021,II,Pulsatrix perspicillata,Aves,Strigiformes,Strigidae,Pulsatrix,US,CA,,1,1,live,Number of specimens,B,C
+2021,II,Strix uralensis,Aves,Strigiformes,Strigidae,Strix,CH,AT,AT,1,,live,Number of specimens,B,C
+2021,II,Strix uralensis,Aves,Strigiformes,Strigidae,Strix,CH,AT,AT,,1,live,,B,C
+2021,II,Strix uralensis,Aves,Strigiformes,Strigidae,Strix,CH,AT,IT,1,,live,Number of specimens,B,C
+2021,II,Strix uralensis,Aves,Strigiformes,Strigidae,Strix,CH,AT,IT,,1,live,,B,C
+2021,II,Hippocampus abdominalis,Actinopteri,Syngnathiformes,Syngnathidae,Hippocampus,DE,CH,,20,,live,Number of specimens,B,C
+2021,II,Hippocampus barbouri,Actinopteri,Syngnathiformes,Syngnathidae,Hippocampus,DE,CH,,8,,live,Number of specimens,B,C
+2021,II,Hippocampus reidi,Actinopteri,Syngnathiformes,Syngnathidae,Hippocampus,DE,CH,,30,,live,Number of specimens,B,C
+2021,II,Hippocampus trimaculatus,Actinopteri,Syngnathiformes,Syngnathidae,Hippocampus,JP,CN,,,18.792,medicine,kg,M,C
+2021,II,Taxus wallichiana,,Pinales,Taxaceae,Taxus,IN,SG,CN,,10,extract,kg,M,A
+2021,II,Taxus wallichiana,,Pinales,Taxaceae,Taxus,SG,CN,,125,,extract,kg,M,A
+2021,II,Dracaena guianensis,Reptilia,Sauria,Teiidae,Dracaena,PH,HK,PE,12,,live,,B,F
+2021,II,Aldabrachelys gigantea,Reptilia,Testudines,Testudinidae,Aldabrachelys,KR,HK,SC,8,,live,Number of specimens,B,C
+2021,II,Aldabrachelys gigantea,Reptilia,Testudines,Testudinidae,Aldabrachelys,PH,HK,SC,6,,live,,B,C
+2021,II,Centrochelys sulcata,Reptilia,Testudines,Testudinidae,Centrochelys,ID,US,,20,,live,,B,C
+2021,II,Centrochelys sulcata,Reptilia,Testudines,Testudinidae,Centrochelys,PH,HK,TG,80,,live,,B,F
+2021,II,Chelonoidis carbonarius,Reptilia,Testudines,Testudinidae,Chelonoidis,PH,HK,BR,30,,live,,B,C
+2021,II,Chelonoidis carbonarius,Reptilia,Testudines,Testudinidae,Chelonoidis,PH,HK,VE,60,,live,,B,C
+2021,II,Manouria emys,Reptilia,Testudines,Testudinidae,Manouria,PH,HK,CN,12,,live,,B,C
+2021,II,Stigmochelys pardalis,Reptilia,Testudines,Testudinidae,Stigmochelys,KR,HK,KE,152,,live,Number of specimens,B,C
+2021,II,Stigmochelys pardalis,Reptilia,Testudines,Testudinidae,Stigmochelys,PH,HK,KE,50,,live,,B,C
+2021,II,Stigmochelys pardalis,Reptilia,Testudines,Testudinidae,Stigmochelys,PH,HK,ZM,10,,live,,B,C
+2021,II,Testudo graeca,Reptilia,Testudines,Testudinidae,Testudo,PH,HK,SY,230,,live,,B,C
+2021,II,Testudo hermanni,Reptilia,Testudines,Testudinidae,Testudo,KR,HK,SI,100,,live,Number of specimens,B,C
+2021,II,Testudo horsfieldii,Reptilia,Testudines,Testudinidae,Testudo,PH,HK,UZ,100,,live,,B,C
+2021,II,Testudo horsfieldii,Reptilia,Testudines,Testudinidae,Testudo,PH,HK,UZ,100,,live,,B,F
+2021,II,Tridacna gigas,Bivalvia,Veneroida,Tridacnidae,Tridacna,IT,GB,XX,1,1,carvings,Number of specimens,E,O
+2021,II,Tridacnidae spp.,Bivalvia,Veneroida,Tridacnidae,,US,MH,,10,,meat,kg,M,I
+2021,II,Calypte costae,Aves,Apodiformes,Trochilidae,Calypte,IT,GB,XX,1,1,feathers,Number of specimens,E,O
+2021,II,Trochilidae spp.,Aves,Apodiformes,Trochilidae,,MX,IT,XX,,5,garments,Number of specimens,E,O
+2021,II,Ursus spp.,Mammalia,Carnivora,Ursidae,Ursus,US,IT,XX,1,,hair products,Number of specimens,E,O
+2021,II,Ursus americanus,Mammalia,Carnivora,Ursidae,Ursus,US,CA,,1,,rug,Number of specimens,H,I
+2021,II,Ursus americanus,Mammalia,Carnivora,Ursidae,Ursus,US,CA,,1,,skulls,Number of specimens,H,I
+2021,II,Ursus americanus,Mammalia,Carnivora,Ursidae,Ursus,US,CA,,3,,trophies,Number of specimens,H,I
+2021,II,Ursus arctos,Mammalia,Carnivora,Ursidae,Ursus,BE,RU,,1,,live,Number of specimens,E,I
+2021,II,Varanus salvadorii,Reptilia,Sauria,Varanidae,Varanus,KR,ID,,3,,live,Number of specimens,B,C
+2021,III,Antilope cervicapra,Mammalia,Artiodactyla,Bovidae,Antilope,CA,AU,,,1,trophies,Number of specimens,H,C
+2021,III,Antilope cervicapra,Mammalia,Artiodactyla,Bovidae,Antilope,CA,MX,,,4,trophies,Number of specimens,H,C
+2021,III,Antilope cervicapra,Mammalia,Artiodactyla,Bovidae,Antilope,CA,US,,,1,trophies,Number of specimens,H,F
+2021,III,Antilope cervicapra,Mammalia,Artiodactyla,Bovidae,Antilope,RU,AU,,,1,trophies,Number of specimens,H,C
+2021,III,Antilope cervicapra,Mammalia,Artiodactyla,Bovidae,Antilope,US,MX,,,2,trophies,Number of specimens,H,C
+2021,III,Boselaphus tragocamelus,Mammalia,Artiodactyla,Bovidae,Boselaphus,UA,US,,,1,trophies,Number of specimens,H,F
+2021,III,Capra sibirica,Mammalia,Artiodactyla,Bovidae,Capra,US,KG,,1,,trophies,Number of specimens,H,I
+2021,III,Capra sibirica,Mammalia,Artiodactyla,Bovidae,Capra,US,MN,,1,,trophies,Number of specimens,H,I
+2021,III,Axis porcinus,Mammalia,Artiodactyla,Cervidae,Axis,AU,ZA,,1,,trophies,Number of specimens,H,F
+2021,III,Axis porcinus,Mammalia,Artiodactyla,Cervidae,Axis,MX,US,,1,,trophies,Number of specimens,H,F
+2021,III,Axis porcinus,Mammalia,Artiodactyla,Cervidae,Axis,US,ZA,,,2,trophies,,H,F
+2021,III,Chelydra serpentina,Reptilia,Testudines,Chelydridae,Chelydra,CA,US,XX,,6,carapaces,Number of specimens,E,O
+2021,III,Chelydra serpentina,Reptilia,Testudines,Chelydridae,Chelydra,CA,US,,,3,bodies,Number of specimens,E,F
+2021,III,Corallium secundum,Anthozoa,Gorgonacea,Coralliidae,Corallium,CH,HK,XX,2,,unspecified,Number of specimens,H,O
+2021,III,Crax globulosa,Aves,Galliformes,Cracidae,Crax,CN,BE,,1,,bodies,Number of specimens,E,C
+2021,III,Pauxi pauxi,Aves,Galliformes,Cracidae,Pauxi,CN,BE,,1,,bodies,Number of specimens,E,C
+2021,III,Mauremys reevesii,Reptilia,Testudines,Geoemydidae,Mauremys,PH,HK,CN,40,,live,,B,C
+2021,III,Hypancistrus zebra,Actinopteri,Siluriformes,Loricariidae,Hypancistrus,US,ID,,210,,live,Number of specimens,B,F
+2021,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,CN,ZA,,,1,trophies,,H,C
+2021,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,PH,ZA,,2,,live,,B,C
+2021,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,SA,HU,ZW,,1,trophies,,H,O
+2021,III,Meleagris ocellata,Aves,Galliformes,Phasianidae,Meleagris,CN,BE,,1,,bodies,Number of specimens,E,C
+2021,III,Pavo cristatus,Aves,Galliformes,Phasianidae,Pavo,CN,US,US,1,,bodies,Number of specimens,E,O
+2021,III,Pavo cristatus,Aves,Galliformes,Phasianidae,Pavo,CN,US,,4,,bodies,kg,E,O
+2021,III,Pavo cristatus,Aves,Galliformes,Phasianidae,Pavo,TH,US,,23,,live,,B,F
+2021,III,Potamotrygon spp.,Elasmobranchii,Myliobatiformes,Potamotrygonidae,Potamotrygon,JP,SG,,,4,live,Number of specimens,B,C
+2021,III,Nasua narica,Mammalia,Carnivora,Procyonidae,Nasua,US,CZ,,2,,live,Number of specimens,B,C
+2021,III,Crotalus durissus,Reptilia,Serpentes,Viperidae,Crotalus,AR,FR,DE,,0.002,derivatives,kg,M,C
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,AR,US,,,229,specimens,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,AT,US,,,4300,derivatives,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,AU,FR,,,0.0002,derivatives,kg,M,C
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,AU,FR,,0.22,0.22,specimens,ml,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,AU,US,,780,180,specimens,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,BM,US,,,2,specimens,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,CA,US,,,440,specimens,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,CH,DE,,10,,derivatives,Number of specimens,M,C
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,CH,FR,,,0.275,specimens,ml,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,CL,US,,,107,specimens,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,CN,DE,FR,70,,specimens,Number of specimens,M,C
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,CN,DE,,,50,derivatives,Number of specimens,M,C
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,CN,FR,,,0.638,specimens,ml,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,CN,US,,,7799,specimens,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,CO,US,,,379,specimens,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,CR,US,,,58,specimens,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,DE,US,,,575000,derivatives,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,EC,US,,,32,specimens,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,FR,US,,,189725,derivatives,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,GB,FR,,,0.036846,specimens,kg,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,GD,US,,,3,specimens,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,GT,US,,,8,specimens,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,HN,US,,,13,specimens,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,IE,US,,,4460,derivatives,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,IN,FR,,,0.160,specimens,ml,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,IT,US,,,17360,specimens,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,JM,US,,,6,specimens,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,JP,FR,,,0.00006,derivatives,kg,M,C
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,JP,FR,,,0.01920,specimens,kg,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,JP,FR,,,17488,specimens,mg,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,JP,US,,,72,derivatives,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,JP,US,,2000,2000,specimens,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,KR,FR,,11,,extract,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,KR,FR,,,0.231,specimens,ml,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,KR,US,,,370,specimens,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,MX,US,,,340,specimens,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,PA,US,,,89,specimens,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,SE,US,,0.572,,specimens,ml,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,SV,US,,,70,specimens,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,TT,US,,,4,specimens,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,TW,US,,,330,specimens,Number of specimens,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,US,FR,,,0.000768,specimens,kg,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,US,FR,,,1.27,specimens,ml,M,F
+2021,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,UY,US,,,85,specimens,Number of specimens,M,F
+2021,III,Arctictis binturong,Mammalia,Carnivora,Viverridae,Arctictis,GB,PL,HU,,1,live,Number of specimens,B,C
