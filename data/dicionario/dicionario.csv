@@ -1,0 +1,24 @@
+id_tabela,nome_coluna,chave,cobertura_temporal,valor
+trade_endangered_species,purpose,B,(1),Breeding in captivity or artificially propagation
+trade_endangered_species,purpose,E,(1),Educational
+trade_endangered_species,purpose,G,(1),Botanical garden
+trade_endangered_species,purpose,H,(1),Hunting trophy
+trade_endangered_species,purpose,L,(1),Law enforcement/judicial/forensic
+trade_endangered_species,purpose,M,(1),Medical (including biomedical research)
+trade_endangered_species,purpose,N,(1),Reintroduction or introduction into the wild
+trade_endangered_species,purpose,P,(1),Personal
+trade_endangered_species,purpose,Q,(1),Circus and travelling exhibitions
+trade_endangered_species,purpose,S,(1),Scientific
+trade_endangered_species,purpose,T,(1),Commercial
+trade_endangered_species,purpose,Z,(1),Zoo
+trade_endangered_species,source,A,(1),Artificially propagated plants
+trade_endangered_species,source,C,(1),Captive-bred animals
+trade_endangered_species,source,D,(1),Captive-bred/artificially propagated (Appendix I)
+trade_endangered_species,source,F,(1),Born in captivity (F1 and subsequent)
+trade_endangered_species,source,I,(1),Confiscations/seizures
+trade_endangered_species,source,O,(1),Pre-Convention
+trade_endangered_species,source,R,(1),Ranched
+trade_endangered_species,source,U,(1),Source unknown
+trade_endangered_species,source,W,(1),Wild
+trade_endangered_species,source,X,(1),Spacimens taken in the marine environment not under the jurisdiction of any State
+trade_endangered_species,source,Y,(1),Assisted production
