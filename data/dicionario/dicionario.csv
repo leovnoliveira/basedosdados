@@ -1,4 +1,7 @@
 id_tabela,nome_coluna,chave,cobertura_temporal,valor
+trade_endangered_species,cites_appendix,I,(1),Endangered species. Trade highly restricted.
+trade_endangered_species,cites_appendix,II,(1),Species not necessarily endangered. Trade controlled to prevent endangerment.
+trade_endangered_species,cites_appendix,III,(1),Species protected in at least one member country. Trade less strictly controlled.
 trade_endangered_species,purpose,B,(1),Breeding in captivity or artificially propagation
 trade_endangered_species,purpose,E,(1),Educational
 trade_endangered_species,purpose,G,(1),Botanical garden

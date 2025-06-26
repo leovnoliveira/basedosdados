@@ -7,7 +7,7 @@ def data_path():
     """
     Returns the absolute path to the data directory.
     """
-    return os.path.abspath(os.path.join(os.path.dirname(__file__), '..', "data", "raw"))
+    return os.path.abspath(os.path.join(os.path.dirname(__file__), '..\..', "data", "raw"))
 
 def get_all_csv_files() -> list:
     """
@@ -92,9 +92,13 @@ def replace_nan_to_none(df: pd.DataFrame) -> pd.DataFrame:
     Returns:
         pd.DataFrame: DataFrame with NaN values replaced by None.
     """
+    # dfs = []
     colunas = df.columns
     for coluna in colunas:
         df[coluna] = df[coluna].replace(['nan', 'NaN', np.nan, ''], None)
+        coluna_especifica = 'cites_appendix' #Processo específico para App Cites
+        df[coluna_especifica] = df[coluna_especifica].replace("N", None)
+        # dfs.append(df)
 
     return df
 

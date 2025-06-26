@@ -14,7 +14,7 @@ banco = os.getenv('DB_NAME')
 engine = create_engine(f'postgresql+psycopg2://{usuario}:{senha}@{host}:{porta}/{banco}')
 
 
-covered_by_dictionary = ['term', 'purpose', 'source']
+covered_by_dictionary = ['cites_appendix', 'purpose']
 
 for coluna in covered_by_dictionary:
     cols = pd.read_sql(f"SELECT {coluna} FROM trade_endangered_species LIMIT 1", engine).columns

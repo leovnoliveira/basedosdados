@@ -2,7 +2,7 @@ import os
 import glob
 import pandas as pd
 
-data_dir = os.path.abspath(os.path.join(os.path.dirname(__name__), "..", "data", "columns"))
+data_dir = os.path.abspath(os.path.join(os.path.dirname(__name__), "data", "columns"))
 archives = [d for d in os.listdir(data_dir) if d.endswith(".csv")]
 
 def add_news_columns() -> pd.DataFrame:
